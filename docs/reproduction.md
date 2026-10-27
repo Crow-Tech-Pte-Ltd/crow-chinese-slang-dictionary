@@ -81,3 +81,48 @@ source senses, spelling records, distinct spellings and actual social references
 Lossless source provenance is retained in each `sourceImport`, including row,
 sense, snapshot and checksum. No website integration or audio generation is part
 of these commands.
+
+## Targeted gap round (v0.3)
+
+The coverage audit records research effort and source coverage, not a missing-word
+percentage. `config/gap-research-round3.json` adds 56 searches: 16 regional, 12
+overseas-community and 28 community/topic searches. Keep the baseline immutable:
+
+```sh
+mkdir -p work/v0.2-base
+git show v0.2.0:data/entries.jsonl > work/v0.2-base/entries.jsonl
+python3 -m slangdict discover --query-file config/gap-research-round3.json --key-file /path/to/key --max-usd 8
+python3 -m slangdict.novelty --key-file /path/to/key
+python3 -m slangdict attest
+python3 -m slangdict.curated_resume --key-file /path/to/key
+python3 -m slangdict.assemble --version 0.3.0
+```
+
+The novelty pass compares definitions for the exact spelling against the frozen
+release. Another regional label alone is not a new meaning. Covered/uncertain
+candidates are held before independent source review; a new spelling still needs
+context and common-use checks. Gap candidates cannot bypass this gate after an
+interruption. This triage is cached and is not a popularity judgement. Existing
+valid decisions, including rejections, are reused. The same $8 cumulative cap
+covers the pilot and both expansion rounds. No Runpod deployment is needed.
+
+The final scope pass checks foreign-script terms and proposed new meanings against
+their sources and the baseline. Ordinary English vocabulary and unsupported
+community/variety claims are held. Versioned, source-backed language metadata fixes
+are recorded in `config/round3-variety-corrections.json`. On a fresh round-3 build,
+apply these after attestation, then retriage/reattest before independent review:
+
+```sh
+python3 -m slangdict.corrections
+python3 -m slangdict.novelty --key-file /path/to/key
+python3 -m slangdict attest
+python3 -m slangdict.curated_resume --key-file /path/to/key
+python3 -m slangdict.assemble --version 0.3.0
+python3 -m slangdict.scope_audit --key-file /path/to/key
+python3 -m slangdict.assemble --version 0.3.0
+```
+
+A scope veto survives ordinary triage resumption. Changing language metadata
+invalidates the independent input hash; a new source-context check is required.
+English code-switches are labelled mixed; unresolved regional varieties stay und.
+The scope pass does not supply pronunciation or human approval.

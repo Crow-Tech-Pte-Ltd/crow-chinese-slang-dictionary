@@ -10,6 +10,8 @@ from .social_evidence import social_page_kind
 
 
 def audit(source):
+    from .novelty import allowed
+
     rows = read_rows(ROOT / "data/entries.jsonl")
     imports = [r for r in rows if r["entryKind"] == "source-import"]
     by_line = collections.defaultdict(list)
@@ -54,6 +56,7 @@ def audit(source):
         if row["entryKind"] != "curated-summary":
             continue
         draft = drafts[row["id"]]
+        assert allowed(draft)
         review = reviews[row["id"]]
         assert (
             review["status"] == "machine-checked"
@@ -68,6 +71,41 @@ def audit(source):
         assert all(
             social_page_kind(e["url"]) != "platform-index" for e in draft["evidence"]
         )
+    baseline = read_rows(ROOT / "work/v0.2-base/entries.jsonl")
+    baseline_ids = {r["id"] for r in baseline}
+    meanings = collections.defaultdict(list)
+    scope_meanings = collections.defaultdict(list)
+    for r in baseline:
+        meanings[r["headword"]].append(
+            {k: r[k] for k in ["id", "definition", "usageNote", "spokenVariety"]}
+        )
+        scope_meanings[r["headword"]].append(
+            {k: r[k] for k in ["id", "definition", "spokenVariety"]}
+        )
+    for row in rows:
+        if row["entryKind"] != "curated-summary" or row["id"] in baseline_ids:
+            continue
+        draft = drafts[row["id"]]
+        triage = row["textProvenance"]["coverageTriage"]
+        data = {
+            "candidate": {
+                k: draft[k]
+                for k in ["headword", "definition", "usageNote", "spokenVariety"]
+            },
+            "knownSenses": sorted(
+                meanings.get(row["headword"], []), key=lambda r: r["id"]
+            ),
+        }
+        assert triage["inputSha256"] == digest(data)
+        if row["textProvenance"].get("scopeAudit"):
+            scope = row["textProvenance"]["scopeAudit"]
+            assert scope["approved"] is True
+            assert scope["inputSha256"] == digest(
+                {
+                    **review_data(draft),
+                    "previousMeanings": scope_meanings.get(row["headword"], []),
+                }
+            )
     proofs = read_rows(ROOT / "work/variant-reviews.jsonl") + read_rows(
         ROOT / "work/lexical-variant-reviews.jsonl"
     )
@@ -102,6 +140,7 @@ def audit(source):
         "curatedRecordsVerifiedAgainstCurrentContextReviews": len(rows) - len(imports),
         "allIndependentSpellingLinksHaveExactReviewProof": True,
         "allLexicalSelectionJobsResolved": True,
+        "coverageAndScopeHashesMatchCurrentCorrectedMetadata": True,
         "humanReviewed": 0,
     }
     save(ROOT / "reports/local-build-audit.json", report)

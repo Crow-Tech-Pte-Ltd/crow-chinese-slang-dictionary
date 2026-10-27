@@ -7,18 +7,22 @@ Includes everyday colloquialisms, internet slang, code-switching, playful spelli
 and vulgar terms with source labels. “Common” is community-specific; regional
 attestation does not establish exclusive origin or present-day popularity.
 
-## Release v0.2
+## Release v0.3
 
-**7,967 spelling-and-sense records across 6,813 distinct spellings.** This includes
-4,860 independently selected, openly licensed dictionary senses and 691 curated
-records. Explicit script forms have separate lookup records. **275 records cite
-98 public social pages:** 28 fetched posts and 70 indexed post excerpts.
+**8,349 spelling-and-sense records across 7,181 distinct spellings.** This includes
+4,860 independently selected, openly licensed dictionary senses and 1,073 curated
+records. Explicit script forms have separate lookup records. **382 records cite
+132 public social pages:** 31 fetched posts and 101 indexed post excerpts.
 
 Alternate spellings are separate entries linked by `formRelations` and
 `senseGroupId`. Links apply to the specific meaning and spoken variety. For example,
 `蚌埠住了` links to `绷不住了`; literal meanings remain separate. Script forms are
 expanded only when explicitly supported by the source; generic lemma alternatives
 never inherit every slang sense. Unproved spelling relationships remain unlinked.
+
+This round adds **382 records and 368 new spellings** after 56 targeted searches
+and meaning-level comparison with v0.2. Regional repeats, ordinary English
+vocabulary and unsupported language labels are held or corrected before release.
 
 ## Download
 

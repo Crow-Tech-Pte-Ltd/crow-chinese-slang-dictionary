@@ -50,7 +50,13 @@ def decisions(response, refs, short=False):
 
 
 def run(client):
-    rows = [r for r in read_rows(ROOT / "work/attested.jsonl") if r["evidence"]]
+    from .novelty import allowed
+
+    rows = [
+        r
+        for r in read_rows(ROOT / "work/attested.jsonl")
+        if r["evidence"] and allowed(r)
+    ]
     results = {r["id"]: r for r in read_rows(ROOT / "work/reviews.jsonl")}
 
     def missing():

@@ -47,3 +47,11 @@ Public social posts are distinguished from indexed excerpts of specific posts.
 Platform search, topic and profile indexes remain discovery-only material. No
 login bypass, private groups or personal-profile corpus is used. Social usage
 coverage is reported separately from the larger lexicographic collection.
+
+Version 0.3 researches underrepresented regional, overseas and topic communities.
+Its coverage gate compares candidate definitions with a frozen v0.2 release.
+Rewording an existing definition or assigning another region does not establish a
+new sense. New spellings and genuinely different meanings still require an
+independent source-context check. English/Malay loans need Chinese-community
+usage evidence; an English-language trend in a country alone is insufficient.
+The source/query audit cannot support an estimate of overall completeness.

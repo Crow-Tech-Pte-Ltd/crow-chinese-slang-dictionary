@@ -1,0 +1,14 @@
+{
+  "baseline": "0.2.0",
+  "candidates": 1869,
+  "decisions": {
+    "existing-release": 691,
+    "already-described": 268,
+    "new-spelling": 891,
+    "new-meaning": 15,
+    "uncertain": 4
+  },
+  "paidTriageItemsThisRun": 1,
+  "errors": [],
+  "noNewMeaningClaimFromRegionAlone": true
+}

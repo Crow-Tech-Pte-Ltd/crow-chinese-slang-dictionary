@@ -1,0 +1,19 @@
+{
+  "releaseAudited": "0.2.0",
+  "records": 7967,
+  "distinctSpellings": 6813,
+  "socialReferencedRecords": 275,
+  "socialReferencePages": 98,
+  "limits": [
+    "No representative denominator exists; a missing-percentage estimate would be unsupported.",
+    "The broad lexical import is larger than the direct social-usage subset.",
+    "Several provinces and overseas communities previously had only one broad discovery query.",
+    "Novelty is assessed by spelling AND meaning, not by a different regional label."
+  ],
+  "queryPlan": "config/gap-research-round3.json",
+  "plannedQueries": 56,
+  "plannedRegionalQueries": 16,
+  "plannedDiasporaQueries": 12,
+  "plannedCommunityTopicQueries": 28,
+  "currentPopularityMeasured": false
+}

@@ -1,0 +1,333 @@
+[
+  {
+    "id": "ce246d1580f44769f6de0c74",
+    "headword": "恰饭",
+    "from": "cmn",
+    "to": "hsn",
+    "basis": "The independent source audit explicitly identifies this source sense as Changsha Xiang.",
+    "sourceUrls": [
+      "https://www.163.com/dy/article/CQ7821DH0517CT2J.html"
+    ]
+  },
+  {
+    "id": "9c5221d8791bc18a2269f226",
+    "headword": "走神",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html",
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "634ad969a081a800614d8adb",
+    "headword": "脑塞",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "eac8ce78219d86a5b2361dcf",
+    "headword": "不定着",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "26bc10484efa8a08e13e7ebc",
+    "headword": "知做讲",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "85031d69e95331b696e40e52",
+    "headword": "要过",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "9c73c9a547ebaf71362d6b0d",
+    "headword": "清楚",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "571be259c944c722903e781c",
+    "headword": "溜",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "16652f50ec0007898f6341a2",
+    "headword": "哆杠筴溜",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://hnqh.wenming.cn/msfq/201604/t20160419_2496908.html"
+    ]
+  },
+  {
+    "id": "db3bb560150760491ef7443e",
+    "headword": "加麦",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "06b38646322099e56c7a33da",
+    "headword": "食糜",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "35c5ea03bb2bd383e1cb604d",
+    "headword": "食糒",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "822e7f1e1deaa343b6949354",
+    "headword": "山猪单",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "c386968a4a0689d936afe992",
+    "headword": "猴子脸",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "e07ba4720b584d6224417429",
+    "headword": "雷劈椰子，连累风刨",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "2f0b7432954ac17171b10908",
+    "headword": "带两串芭蕉",
+    "from": "cmn",
+    "to": "und",
+    "basis": "Regional Hainan evidence does not verify a Mandarin lexical reading; spoken variety remains unresolved.",
+    "sourceUrls": [
+      "http://news.hndaily.cn/html/2020-12/20/content_58474_12786265.htm"
+    ]
+  },
+  {
+    "id": "d529cd524af14abf97f1702a",
+    "headword": "sigma",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "d43026ee13f3f794ceca954e",
+    "headword": "cap",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "67862dfc9f6c44545cb7f300",
+    "headword": "no cap",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "8fb802448a2379b477906789",
+    "headword": "skibidi",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "1dca02110170afd874d5274d",
+    "headword": "mewing",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "185612b7b3df65fbcbeeeec9",
+    "headword": "mog",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "46d11ecd79a9ac71e122f97f",
+    "headword": "sus",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "12c51c9ad6ede3c43fdc52a7",
+    "headword": "bruh",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "3707fbdc682d9a5e06ede9e2",
+    "headword": "slay",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "a0871e2d8e3df6fab8fbb265",
+    "headword": "tung tung tung sahur",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "4eddd33611fc6d6f3239c729",
+    "headword": "steal a brainrot",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158"
+    ]
+  },
+  {
+    "id": "dc0009180b7467c70969e1c5",
+    "headword": "noob",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.bilibili.com/opus/857135138524364802"
+    ]
+  },
+  {
+    "id": "544ac75dcc9e6520c1b43c00",
+    "headword": "pro",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.bilibili.com/opus/857135138524364802"
+    ]
+  },
+  {
+    "id": "c535541cf688e55fa34ad7dc",
+    "headword": "stfu",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.bilibili.com/opus/857135138524364802"
+    ]
+  },
+  {
+    "id": "6d67bab7604971f94ae582f1",
+    "headword": "mb",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.bilibili.com/opus/857135138524364802"
+    ]
+  },
+  {
+    "id": "4d5f9b4b7e7b569bf3105d84",
+    "headword": "lag",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.bilibili.com/opus/857135138524364802"
+    ]
+  },
+  {
+    "id": "980e35ce5a78dc66d48d1644",
+    "headword": "dc",
+    "from": "cmn",
+    "to": "mixed",
+    "basis": "Documented English code-switching in the supplied Chinese-community source; no Mandarin pronunciation is claimed.",
+    "sourceUrls": [
+      "https://www.bilibili.com/opus/857135138524364802"
+    ]
+  }
+]

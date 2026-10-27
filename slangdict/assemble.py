@@ -1,6 +1,6 @@
 """Build an attributed expansion without changing the published v0.1 artifacts."""
 
-import collections, gzip, hashlib
+import argparse, collections, gzip, hashlib
 from .pipeline import (
     ROOT,
     TODAY,
@@ -140,7 +140,9 @@ def source_record(row, word, spelling_kind, group, generator, checker, source_id
     }
 
 
-def assemble():
+def assemble(version="0.3.0"):
+    from .novelty import allowed
+
     base = ROOT / "work/v0.1-base"
     base_rows = {r["id"]: r for r in read_rows(base / "entries.jsonl")}
     entries = {}
@@ -152,6 +154,12 @@ def assemble():
         reason = None
         if not valid_candidate(row):
             reason = "invalid-draft-fields"
+        elif row.get("scopeAudit", {}).get("approved") is False:
+            reason = "independent-scope-audit-held"
+        elif not allowed(row):
+            reason = "coverage-" + row.get("coverageGate", {}).get(
+                "decision", "untriaged"
+            )
         elif not row["evidence"]:
             reason = "no-usable-literal-attestation"
         elif checked.get("reviewedInputSha256") != digest(review_data(row)):
@@ -214,6 +222,17 @@ def assemble():
             "spellingKind": "attested-headword",
             "formRelations": [],
         }
+        if row.get("coverageGate", {}).get("decision") in [
+            "new-spelling",
+            "new-meaning",
+        ]:
+            entries[row["id"]]["textProvenance"]["coverageTriage"] = row["coverageGate"]
+        if row.get("scopeAudit", {}).get("approved") is True:
+            entries[row["id"]]["textProvenance"]["scopeAudit"] = row["scopeAudit"]
+        if row.get("metadataCorrections"):
+            entries[row["id"]]["textProvenance"]["metadataCorrections"] = row[
+                "metadataCorrections"
+            ]
         previous = base_rows.get(row["id"])
         if previous and previous["spokenVariety"] == row["spokenVariety"]:
             for key in ["readings", "readingStatus", "existingDictionaryOverlap"]:
@@ -326,8 +345,11 @@ def assemble():
     body = (ROOT / "data/entries.jsonl").read_bytes()
     (ROOT / "data/entries.jsonl.gz").write_bytes(gzip.compress(body, mtime=0))
     save(ROOT / "data/sources.json", sorted(sources.values(), key=lambda r: r["id"]))
-    write_rows(ROOT / "work/held-v0.2.jsonl", held)
-    notice = (ROOT / "data/NOTICE.txt").read_text().replace("v0.1.0", "v0.2.0")
+    write_rows(ROOT / ("work/held-v" + version + ".jsonl"), held)
+    notice = (ROOT / "data/NOTICE.txt").read_text()
+    notice = notice.replace(
+        notice.splitlines()[0], "Crow Chinese Slang Dictionary, v" + version, 1
+    )
     marker = "\nOpenly licensed definition imports (v0.2.0):\n"
     if marker in notice:
         notice = notice.split(marker)[0]
@@ -338,7 +360,7 @@ def assemble():
     (ROOT / "data/NOTICE.txt").write_text(notice)
     manifest = {
         "schema": 2,
-        "version": "0.2.0",
+        "version": version,
         "title": "Crow Chinese Slang Dictionary",
         "date": TODAY,
         "entries": len(published),
@@ -418,4 +440,6 @@ def assemble():
 
 
 if __name__ == "__main__":
-    assemble()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--version", default="0.3.0")
+    assemble(parser.parse_args().version)
