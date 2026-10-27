@@ -1,0 +1,891 @@
+[
+  {
+    "id": "social-bilibili-work",
+    "regionId": "CN-internet",
+    "community": "Chinese Bilibili video and comment communities",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "bilibili.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-bilibili-relationships",
+    "regionId": "CN-internet",
+    "community": "Chinese Bilibili video and comment communities",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "bilibili.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-bilibili-games",
+    "regionId": "CN-internet",
+    "community": "Chinese Bilibili video and comment communities",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "bilibili.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-bilibili-school",
+    "regionId": "CN-internet",
+    "community": "Chinese Bilibili video and comment communities",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "bilibili.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-bilibili-everyday",
+    "regionId": "CN-internet",
+    "community": "Chinese Bilibili video and comment communities",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "bilibili.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-weibo-work",
+    "regionId": "CN-internet",
+    "community": "Chinese Weibo public discussions",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "weibo.com",
+      "m.weibo.cn"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-weibo-relationships",
+    "regionId": "CN-internet",
+    "community": "Chinese Weibo public discussions",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "weibo.com",
+      "m.weibo.cn"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-weibo-games",
+    "regionId": "CN-internet",
+    "community": "Chinese Weibo public discussions",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "weibo.com",
+      "m.weibo.cn"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-weibo-school",
+    "regionId": "CN-internet",
+    "community": "Chinese Weibo public discussions",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "weibo.com",
+      "m.weibo.cn"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-weibo-everyday",
+    "regionId": "CN-internet",
+    "community": "Chinese Weibo public discussions",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "weibo.com",
+      "m.weibo.cn"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-zhihu-work",
+    "regionId": "CN-internet",
+    "community": "Chinese Zhihu public answers and discussions",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "zhihu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-zhihu-relationships",
+    "regionId": "CN-internet",
+    "community": "Chinese Zhihu public answers and discussions",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "zhihu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-zhihu-games",
+    "regionId": "CN-internet",
+    "community": "Chinese Zhihu public answers and discussions",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "zhihu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-zhihu-school",
+    "regionId": "CN-internet",
+    "community": "Chinese Zhihu public answers and discussions",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "zhihu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-zhihu-everyday",
+    "regionId": "CN-internet",
+    "community": "Chinese Zhihu public answers and discussions",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "zhihu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-xiaohongshu-work",
+    "regionId": "CN-internet",
+    "community": "Chinese Xiaohongshu public notes",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "xiaohongshu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-xiaohongshu-relationships",
+    "regionId": "CN-internet",
+    "community": "Chinese Xiaohongshu public notes",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "xiaohongshu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-xiaohongshu-games",
+    "regionId": "CN-internet",
+    "community": "Chinese Xiaohongshu public notes",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "xiaohongshu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-xiaohongshu-school",
+    "regionId": "CN-internet",
+    "community": "Chinese Xiaohongshu public notes",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "xiaohongshu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-xiaohongshu-everyday",
+    "regionId": "CN-internet",
+    "community": "Chinese Xiaohongshu public notes",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "xiaohongshu.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-douyin-work",
+    "regionId": "CN-internet",
+    "community": "Chinese Douyin public video captions and discussions",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "douyin.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-douyin-relationships",
+    "regionId": "CN-internet",
+    "community": "Chinese Douyin public video captions and discussions",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "douyin.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-douyin-games",
+    "regionId": "CN-internet",
+    "community": "Chinese Douyin public video captions and discussions",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "douyin.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-douyin-school",
+    "regionId": "CN-internet",
+    "community": "Chinese Douyin public video captions and discussions",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "douyin.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-douyin-everyday",
+    "regionId": "CN-internet",
+    "community": "Chinese Douyin public video captions and discussions",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "douyin.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-tieba-douban-work",
+    "regionId": "CN-internet",
+    "community": "Chinese Tieba and Douban public discussion communities",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "tieba.baidu.com",
+      "douban.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-tieba-douban-relationships",
+    "regionId": "CN-internet",
+    "community": "Chinese Tieba and Douban public discussion communities",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "tieba.baidu.com",
+      "douban.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-tieba-douban-games",
+    "regionId": "CN-internet",
+    "community": "Chinese Tieba and Douban public discussion communities",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "tieba.baidu.com",
+      "douban.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-tieba-douban-school",
+    "regionId": "CN-internet",
+    "community": "Chinese Tieba and Douban public discussion communities",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "tieba.baidu.com",
+      "douban.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-tieba-douban-everyday",
+    "regionId": "CN-internet",
+    "community": "Chinese Tieba and Douban public discussion communities",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "tieba.baidu.com",
+      "douban.com"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-ptt-dcard-work",
+    "regionId": "TW-internet",
+    "community": "Taiwan PTT and Dcard public discussions",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "ptt.cc",
+      "dcard.tw"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-ptt-dcard-relationships",
+    "regionId": "TW-internet",
+    "community": "Taiwan PTT and Dcard public discussions",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "ptt.cc",
+      "dcard.tw"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-ptt-dcard-games",
+    "regionId": "TW-internet",
+    "community": "Taiwan PTT and Dcard public discussions",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "ptt.cc",
+      "dcard.tw"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-ptt-dcard-school",
+    "regionId": "TW-internet",
+    "community": "Taiwan PTT and Dcard public discussions",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "ptt.cc",
+      "dcard.tw"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-ptt-dcard-everyday",
+    "regionId": "TW-internet",
+    "community": "Taiwan PTT and Dcard public discussions",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "ptt.cc",
+      "dcard.tw"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-lihkg-work",
+    "regionId": "HK-MO-Yue",
+    "community": "Hong Kong Cantonese public discussion forums",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "lihkg.com",
+      "discuss.com.hk"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-lihkg-relationships",
+    "regionId": "HK-MO-Yue",
+    "community": "Hong Kong Cantonese public discussion forums",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "lihkg.com",
+      "discuss.com.hk"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-lihkg-games",
+    "regionId": "HK-MO-Yue",
+    "community": "Hong Kong Cantonese public discussion forums",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "lihkg.com",
+      "discuss.com.hk"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-lihkg-school",
+    "regionId": "HK-MO-Yue",
+    "community": "Hong Kong Cantonese public discussion forums",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "lihkg.com",
+      "discuss.com.hk"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-lihkg-everyday",
+    "regionId": "HK-MO-Yue",
+    "community": "Hong Kong Cantonese public discussion forums",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "lihkg.com",
+      "discuss.com.hk"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-diaspora-work",
+    "regionId": "diaspora-online",
+    "community": "Overseas Chinese public discussion forums",
+    "query": "打工 吐槽 同事 上班 求职 黑话 网友 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "huaren.us",
+      "1point3acres.com",
+      "wenxuecity.com",
+      "oursteps.com.au"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-diaspora-relationships",
+    "regionId": "diaspora-online",
+    "community": "Overseas Chinese public discussion forums",
+    "query": "恋爱 相亲 交友 情绪 吐槽 网友 黑话 口头禅 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "huaren.us",
+      "1point3acres.com",
+      "wenxuecity.com",
+      "oursteps.com.au"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-diaspora-games",
+    "regionId": "diaspora-online",
+    "community": "Overseas Chinese public discussion forums",
+    "query": "游戏 直播 弹幕 玩家 饭圈 常用 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "huaren.us",
+      "1point3acres.com",
+      "wenxuecity.com",
+      "oursteps.com.au"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-diaspora-school",
+    "regionId": "diaspora-online",
+    "community": "Overseas Chinese public discussion forums",
+    "query": "大学 校园 留学 年轻人 吐槽 网络 黑话 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "huaren.us",
+      "1point3acres.com",
+      "wenxuecity.com",
+      "oursteps.com.au"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "social-diaspora-everyday",
+    "regionId": "diaspora-online",
+    "community": "Overseas Chinese public discussion forums",
+    "query": "日常 评论区 常用 网络用语 缩写 谐音 错别字 实际使用 2024 2025 2026",
+    "includeDomains": [
+      "huaren.us",
+      "1point3acres.com",
+      "wenxuecity.com",
+      "oursteps.com.au"
+    ],
+    "researchKind": "public-social",
+    "instruction": "Find terms actually used in public posts/captions/discussions, not a glossary copied elsewhere. Include established terms as well as newer ones. Several unrelated users or a lexicographic source can corroborate use. Never invent engagement counts or require login."
+  },
+  {
+    "id": "variant-bengbuzhu",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "蚌埠住了 绷不住了 繃不住了 崩不住了 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "蚌埠住了",
+      "绷不住了",
+      "繃不住了",
+      "崩不住了"
+    ],
+    "variantFamily": "bengbuzhu",
+    "variantMeaning": "cannot keep composure or contain laughter",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-shuanq",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "栓Q 拴Q 栓q 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "栓Q",
+      "拴Q",
+      "栓q"
+    ],
+    "variantFamily": "shuanq",
+    "variantMeaning": "ironic thanks / thank-you homophone",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-niubi",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "牛逼 牛B 牛批 牛比 牛掰 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "牛逼",
+      "牛B",
+      "牛批",
+      "牛比",
+      "牛掰"
+    ],
+    "variantFamily": "niubi",
+    "variantMeaning": "very impressive or awesome",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-shabi",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "傻逼 傻B 傻比 煞笔 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "傻逼",
+      "傻B",
+      "傻比",
+      "煞笔"
+    ],
+    "variantFamily": "shabi",
+    "variantMeaning": "offensive insult meaning idiot",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-wocao",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "卧槽 我操 我艹 我擦 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "卧槽",
+      "我操",
+      "我艹",
+      "我擦"
+    ],
+    "variantFamily": "wocao",
+    "variantMeaning": "surprised or annoyed exclamation, not a literal sexual statement",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-juejuezi",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "绝绝子 絕絕子 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "绝绝子",
+      "絕絕子"
+    ],
+    "variantFamily": "juejuezi",
+    "variantMeaning": "extremely good or amazing",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-yyds",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "yyds YYDS 永远的神 永遠的神 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "yyds",
+      "YYDS",
+      "永远的神",
+      "永遠的神"
+    ],
+    "variantFamily": "yyds",
+    "variantMeaning": "GOAT / best-ever praise",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-awsl",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "awsl AWSL 啊我死了 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "awsl",
+      "AWSL",
+      "啊我死了"
+    ],
+    "variantFamily": "awsl",
+    "variantMeaning": "overwhelmed by cuteness, excitement or admiration",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-xswl",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "xswl XSWL 笑死我了 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "xswl",
+      "XSWL",
+      "笑死我了"
+    ],
+    "variantFamily": "xswl",
+    "variantMeaning": "laughing very hard",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-u1s1",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "u1s1 U1S1 有一说一 有一說一 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "u1s1",
+      "U1S1",
+      "有一说一",
+      "有一說一"
+    ],
+    "variantFamily": "u1s1",
+    "variantMeaning": "speaking frankly or objectively",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-zqsg",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "zqsg ZQSG 真情实感 真情實感 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "zqsg",
+      "ZQSG",
+      "真情实感",
+      "真情實感"
+    ],
+    "variantFamily": "zqsg",
+    "variantMeaning": "genuine emotion or emotional investment",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-dbq",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "dbq DBQ 对不起 對不起 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "dbq",
+      "DBQ",
+      "对不起",
+      "對不起"
+    ],
+    "variantFamily": "dbq",
+    "variantMeaning": "sorry",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-zundu",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "尊嘟 尊都 真的 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "尊嘟",
+      "尊都",
+      "真的"
+    ],
+    "variantFamily": "zundu",
+    "variantMeaning": "really / true in playful baby-talk-like internet writing",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-babiq",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "芭比Q 芭比q BBQ 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "芭比Q",
+      "芭比q",
+      "BBQ"
+    ],
+    "variantFamily": "babiq",
+    "variantMeaning": "finished / doomed in Chinese internet slang, not barbecue food",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-zhenbuchuo",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "针不戳 真不戳 真不错 真不錯 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "针不戳",
+      "真不戳",
+      "真不错",
+      "真不錯"
+    ],
+    "variantFamily": "zhenbuchuo",
+    "variantMeaning": "really good / not bad, with deliberately distorted pronunciation",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-haozhi",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "耗子尾汁 好自为之 好自為之 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "耗子尾汁",
+      "好自为之",
+      "好自為之"
+    ],
+    "variantFamily": "haozhi",
+    "variantMeaning": "take care of yourself / ironic admonition",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-mutang",
+    "regionId": "TW-internet",
+    "community": "Chinese informal written spelling variants",
+    "query": "母湯 母汤 毋湯 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "母湯",
+      "母汤",
+      "毋湯"
+    ],
+    "variantFamily": "mutang",
+    "variantMeaning": "do not / not okay in Taiwanese Hokkien-influenced usage",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-paiseh",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "拍谢 拍謝 歹势 歹勢 paiseh 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "拍谢",
+      "拍謝",
+      "歹势",
+      "歹勢",
+      "paiseh"
+    ],
+    "variantFamily": "paiseh",
+    "variantMeaning": "embarrassed / sorry in Hokkien-influenced usage",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-jiangzi",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "酱紫 醬紫 这样子 這樣子 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "酱紫",
+      "醬紫",
+      "这样子",
+      "這樣子"
+    ],
+    "variantFamily": "jiangzi",
+    "variantMeaning": "like this / this way in colloquial contracted writing",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-lanshou",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "蓝瘦香菇 藍瘦香菇 难受想哭 難受想哭 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "蓝瘦香菇",
+      "藍瘦香菇",
+      "难受想哭",
+      "難受想哭"
+    ],
+    "variantFamily": "lanshou",
+    "variantMeaning": "feel upset and want to cry",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-hexie",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "河蟹 和谐 和諧 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "河蟹",
+      "和谐",
+      "和諧"
+    ],
+    "variantFamily": "hexie",
+    "variantMeaning": "censorship / removal of online content, not literal harmony or crabs",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-yang",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "羊了 阳了 陽了 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "羊了",
+      "阳了",
+      "陽了"
+    ],
+    "variantFamily": "yang",
+    "variantMeaning": "tested positive for COVID, a dated homophonic usage",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  },
+  {
+    "id": "variant-nimen",
+    "regionId": "cross-region-written-variants",
+    "community": "Chinese informal written spelling variants",
+    "query": "泥萌 泥们 你们 你們 同义 谐音 写法 网友 用法",
+    "variantTerms": [
+      "泥萌",
+      "泥们",
+      "你们",
+      "你們"
+    ],
+    "variantFamily": "nimen",
+    "variantMeaning": "playful address to you plural",
+    "researchKind": "spelling-variants",
+    "instruction": "Return each actually attested spelling as a separate entry; do not assume listed spellings are all valid. Search usage and explicit explanations of the spelling relationship. Preserve different senses and vulgarity differences. A shared pronunciation alone is not a spelling relation."
+  }
+]

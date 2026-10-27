@@ -4,13 +4,13 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 import argparse, collections, datetime, gzip, hashlib, ipaddress, json, re, socket, sqlite3, unicodedata, urllib.parse, urllib.request, urllib.error
+from .social_evidence import social_page_kind
 from .provider import (
     Client,
     ProviderError,
     canonical,
     digest,
     output,
-    read_key,
     NoRedirect,
 )
 
@@ -242,8 +242,12 @@ def valid_candidate(row):
     )
 
 
-def discovery(client, selected=None):
-    queries = json.loads((ROOT / "config/research-queries.json").read_text())
+def discovery(client, selected=None, query_file=None):
+    queries = json.loads(
+        (
+            Path(query_file) if query_file else ROOT / "config/research-queries.json"
+        ).read_text()
+    )
     all_rows = read_rows(ROOT / "work/candidates.jsonl")
     seen = {x["id"] for x in all_rows}
     report = []
@@ -261,13 +265,25 @@ def discovery(client, selected=None):
             GENERATOR,
             DISCOVERY,
             {
-                "regionId": q["id"],
+                "regionId": q.get("regionId", q["id"]),
                 "community": q["community"],
                 "query": q["query"],
                 "asOf": TODAY,
+                **{
+                    k: q[k]
+                    for k in [
+                        "instruction",
+                        "variantTerms",
+                        "variantFamily",
+                        "variantMeaning",
+                        "researchKind",
+                    ]
+                    if k in q
+                },
             },
             web=True,
             max_tokens=6500,
+            search_domains=q.get("includeDomains"),
         )
         obj = output(response)
         annotations = response["choices"][0]["message"].get("annotations", [])
@@ -293,13 +309,15 @@ def discovery(client, selected=None):
                 or len(row.get("definition", "").split()) > 24
             ):
                 continue
-            rid = digest([word, row.get("senseKey"), q["id"]])[:24]
+            rid = digest([word, row.get("senseKey"), q.get("regionId", q["id"])])[:24]
             items.append(
                 {
                     **row,
                     "id": rid,
-                    "regionId": q["id"],
+                    "regionId": q.get("regionId", q["id"]),
                     "community": q["community"],
+                    "researchKind": q.get("researchKind", "regional-guide"),
+                    "variantFamilyProposal": q.get("variantFamily"),
                     "sourceUrls": list(dict.fromkeys(urls)),
                     "searchEvidence": [
                         {k: c.get(k, "") for k in ["url", "title", "content"]}
@@ -336,6 +354,19 @@ def discovery(client, selected=None):
                     if row["id"] not in seen:
                         all_rows.append(row)
                         seen.add(row["id"])
+                    else:
+                        existing = next(x for x in all_rows if x["id"] == row["id"])
+                        existing["sourceUrls"] = list(
+                            dict.fromkeys(existing["sourceUrls"] + row["sourceUrls"])
+                        )
+                        refs = {x["url"]: x for x in existing["searchEvidence"]}
+                        for ref in row["searchEvidence"]:
+                            refs.setdefault(ref["url"], ref)
+                        existing["searchEvidence"] = list(refs.values())
+                        if row.get("variantFamilyProposal"):
+                            existing["variantFamilyProposal"] = row[
+                                "variantFamilyProposal"
+                            ]
                 write_rows(ROOT / "work/candidates.jsonl", all_rows)
                 print(canonical(stats), flush=True)
             except Exception as exc:
@@ -377,7 +408,10 @@ def attest():
     for row in rows:
         evidence = []
         for search in row["searchEvidence"]:
-            if disallowed_source(search["url"]):
+            if (
+                disallowed_source(search["url"])
+                or social_page_kind(search["url"]) == "platform-index"
+            ):
                 continue
             page = pages[search["url"]]
             text = page["text"]
@@ -387,6 +421,12 @@ def attest():
                 context = contexts(search.get("content", ""), row["headword"])
                 kind = "search-excerpt"
             if context:
+                if social_page_kind(search["url"]) == "public-post":
+                    kind = (
+                        "fetched-public-post"
+                        if kind == "fetched-page"
+                        else "indexed-post-excerpt"
+                    )
                 evidence.append(
                     {
                         "url": search["url"],
@@ -754,15 +794,17 @@ def main():
     p.add_argument("--regions", nargs="*")
     p.add_argument("--repair-format", action="store_true")
     p.add_argument("--inventory")
+    p.add_argument("--query-file")
+    p.add_argument("--raise-budget", action="store_true")
     a = p.parse_args()
     if a.command in ["discover", "review", "budget"]:
         if a.command != "budget" and not a.key_file:
             p.error(
                 "Use the explicitly supplied provider key file; never copy it into this repository."
             )
-        client = Client(ROOT, a.key_file, a.max_usd)
+        client = Client(ROOT, a.key_file, a.max_usd, raise_cap=a.raise_budget)
     if a.command == "discover":
-        discovery(client, a.regions)
+        discovery(client, a.regions, a.query_file)
     elif a.command == "attest":
         attest()
     elif a.command == "review":

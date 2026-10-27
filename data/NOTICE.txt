@@ -1,4 +1,4 @@
-Crow Chinese Slang Dictionary, v0.1.0
+Crow Chinese Slang Dictionary, v0.2.0
 Contributed/compatible derived entry data: CC BY-SA 4.0. Code: MIT.
 AI-assisted source-informed summaries; independent machine checks, no human review.
 Source pages retain their copyrights; article text is not redistributed.
@@ -23,3 +23,13 @@ CC BY-SA 4.0
 https://creativecommons.org/licenses/by-sa/4.0/
 https://kaikki.org/dictionary/Chinese/
 
+
+Openly licensed definition imports (v0.2.0):
+English Wiktionary contributors: https://en.wiktionary.org/
+Text: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Extraction: Kaikki.org / Wiktextract https://kaikki.org/dictionary/rawdata.html
+Snapshot: enwiktionary 2026-10-01; Kaikki extraction 2026-10-21.
+Individual page, sense, source hash and source labels accompany each imported record.
+Source definitions are reproduced with attribution; automated selection does not imply human review.
+Explicit source script forms are separate records linked by source sense.
+Social excerpts and article prose remain private and are not redistributed.

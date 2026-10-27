@@ -1,29 +1,254 @@
 {
- "$schema":"https://json-schema.org/draft/2020-12/schema",
- "$id":"https://github.com/Crow-Tech-Pte-Ltd/crow-chinese-slang-dictionary/schema/entry.schema.json",
- "title":"Crow Chinese Slang Dictionary entry",
- "type":"object",
- "required":["id","headword","senseKey","definitionLanguage","definition","usageNote","regionOfAttestation","community","exclusiveOriginClaim","spokenVariety","register","readings","readingStatus","existingDictionaryOverlap","commonality","evidenceIds","textProvenance","validation","license"],
- "additionalProperties":false,
- "properties":{
-  "id":{"type":"string","pattern":"^[a-f0-9]{24}$"},
-  "headword":{"type":"string","minLength":1,"maxLength":40},
-  "senseKey":{"type":"string"},
-  "definitionLanguage":{"const":"en"},
-  "definition":{"type":"string","minLength":1},
-  "usageNote":{"type":"string"},
-  "regionOfAttestation":{"type":"string"},
-  "community":{"type":"string"},
-  "exclusiveOriginClaim":{"const":false},
-  "spokenVariety":{"enum":["cmn","yue","nan","wuu","hak","hsn","gan","cjy","cdo","mixed","und"]},
-  "register":{"type":"array","uniqueItems":true,"minItems":1,"items":{"enum":["informal","internet","regional","vulgar","derogatory","offensive","sexual","dated","playful"]}},
-  "readings":{"type":"array","items":{"type":"object","required":["value","system","spokenVariety","sourceId","sourceUrl","sourceLicense","scope"]}},
-  "readingStatus":{"type":"string"},
-  "existingDictionaryOverlap":{"type":"object","required":["status","sourceIds"]},
-  "commonality":{"type":"object","required":["status","notAFrequencyEstimate","currentPopularityVerified","checkedAt","evidenceCount"]},
-  "evidenceIds":{"type":"array","minItems":1,"uniqueItems":true,"items":{"type":"string"}},
-  "textProvenance":{"type":"object","required":["kind","generator","checker"]},
-  "validation":{"type":"object","required":["status","humanReviewed","independentModelCheck","contextLevel"],"properties":{"humanReviewed":{"const":false},"independentModelCheck":{"const":true}}},
-  "license":{"const":"CC BY-SA 4.0"}
- }
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Crow-Tech-Pte-Ltd/crow-chinese-slang-dictionary/schema/entry.schema.json",
+  "title": "Crow Chinese Slang Dictionary entry (v0.2)",
+  "type": "object",
+  "required": [
+    "id",
+    "headword",
+    "senseKey",
+    "definitionLanguage",
+    "definition",
+    "usageNote",
+    "regionOfAttestation",
+    "community",
+    "exclusiveOriginClaim",
+    "spokenVariety",
+    "register",
+    "readings",
+    "readingStatus",
+    "existingDictionaryOverlap",
+    "commonality",
+    "evidenceIds",
+    "textProvenance",
+    "validation",
+    "license",
+    "entryKind",
+    "senseGroupId",
+    "spellingKind",
+    "formRelations"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{24}$"
+    },
+    "headword": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 40
+    },
+    "senseKey": {
+      "type": "string"
+    },
+    "definitionLanguage": {
+      "const": "en"
+    },
+    "definition": {
+      "type": "string",
+      "minLength": 1
+    },
+    "usageNote": {
+      "type": "string"
+    },
+    "regionOfAttestation": {
+      "type": "string"
+    },
+    "community": {
+      "type": "string"
+    },
+    "exclusiveOriginClaim": {
+      "const": false
+    },
+    "spokenVariety": {
+      "enum": [
+        "cmn",
+        "yue",
+        "nan",
+        "wuu",
+        "hak",
+        "hsn",
+        "gan",
+        "cjy",
+        "cdo",
+        "mixed",
+        "und"
+      ]
+    },
+    "register": {
+      "type": "array",
+      "uniqueItems": true,
+      "minItems": 1,
+      "items": {
+        "enum": [
+          "informal",
+          "internet",
+          "regional",
+          "vulgar",
+          "derogatory",
+          "offensive",
+          "sexual",
+          "dated",
+          "playful"
+        ]
+      }
+    },
+    "readings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "value",
+          "system",
+          "spokenVariety",
+          "sourceId",
+          "sourceUrl",
+          "sourceLicense",
+          "scope"
+        ]
+      }
+    },
+    "readingStatus": {
+      "type": "string"
+    },
+    "existingDictionaryOverlap": {
+      "type": "object",
+      "required": [
+        "status",
+        "sourceIds"
+      ]
+    },
+    "commonality": {
+      "type": "object",
+      "required": [
+        "status",
+        "notAFrequencyEstimate",
+        "currentPopularityVerified",
+        "checkedAt",
+        "evidenceCount"
+      ]
+    },
+    "evidenceIds": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "textProvenance": {
+      "type": "object",
+      "required": [
+        "kind",
+        "generator",
+        "checker"
+      ]
+    },
+    "validation": {
+      "type": "object",
+      "required": [
+        "status",
+        "humanReviewed",
+        "independentModelCheck",
+        "contextLevel"
+      ],
+      "properties": {
+        "humanReviewed": {
+          "const": false
+        },
+        "independentModelCheck": {
+          "const": true
+        }
+      }
+    },
+    "license": {
+      "const": "CC BY-SA 4.0"
+    },
+    "entryKind": {
+      "enum": [
+        "curated-summary",
+        "source-import"
+      ]
+    },
+    "senseGroupId": {
+      "type": "string"
+    },
+    "spellingKind": {
+      "enum": [
+        "attested-headword",
+        "source-headword",
+        "script-variant"
+      ]
+    },
+    "formRelations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "targetId",
+          "targetHeadword",
+          "type",
+          "evidenceIds",
+          "basis"
+        ],
+        "properties": {
+          "targetId": {
+            "type": "string"
+          },
+          "targetHeadword": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "script-variant",
+              "homophonic-variant",
+              "abbreviation",
+              "alternate-spelling"
+            ]
+          },
+          "basis": {
+            "enum": [
+              "explicit-source-script-form",
+              "independent-source-context-check"
+            ]
+          }
+        }
+      }
+    },
+    "sourceImport": {
+      "type": "object",
+      "required": [
+        "sourceSenseId",
+        "sourceUrl",
+        "sourceLicense",
+        "sourceLicenseUrl",
+        "sourceAttribution",
+        "sourceSnapshot",
+        "sourceFileSha256",
+        "sourceDefinitionSha256",
+        "selectionInputSha256",
+        "selectionInput"
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "entryKind": {
+            "const": "source-import"
+          }
+        },
+        "required": [
+          "entryKind"
+        ]
+      },
+      "then": {
+        "required": [
+          "sourceImport"
+        ]
+      }
+    }
+  ]
 }

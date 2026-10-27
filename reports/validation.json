@@ -1,8 +1,10 @@
 {
-  "entriesValidated": 197,
-  "sourcePagesValidated": 81,
+  "entriesValidated": 7967,
+  "sourcePagesValidated": 4456,
+  "sourceImportedEntries": 7276,
+  "directedSpellingRelationsValidated": 5460,
   "artifactChecksumsVerified": true,
   "privatePageTextAbsent": true,
-  "independentReviewBoundToInputHashes": true,
+  "importSelectionInputHashesVerified": true,
   "humanReviewed": 0
 }

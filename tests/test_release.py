@@ -1,4 +1,4 @@
-import unittest, json, hashlib
+import unittest
 from pathlib import Path
 from slangdict.validate import validate
 

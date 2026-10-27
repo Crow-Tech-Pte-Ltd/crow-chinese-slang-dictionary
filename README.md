@@ -3,59 +3,57 @@
 Free, open data describing informal Chinese across regional and overseas Chinese
 communities, by [Crow Tech](https://github.com/Crow-Tech-Pte-Ltd).
 
-The aim is **documented use**, including nonstandard spellings, new senses of
-familiar words, internet slang, code-switching and vulgar terms with clear labels.
-“Common” means within the identified community, not every Chinese speaker.
-Regional attestation is not a claim of exclusive origin.
+Includes everyday colloquialisms, internet slang, code-switching, playful spellings
+and vulgar terms with source labels. “Common” is community-specific; regional
+attestation does not establish exclusive origin or present-day popularity.
 
-## Initial release
+## Release v0.2
 
-**197 entries, 191 spellings, 21 regional/community groups and 81 cited pages.**
-English explanations; 80 entries have a unique existing dictionary reading.
-Some evidence is search-excerpt-only and is labelled accordingly. Additional
-candidates remain outside the release for evidence, review or source-diversity
-limits. This is a starter collection, not a complete inventory of Chinese slang.
+**7,967 spelling-and-sense records across 6,813 distinct spellings.** This includes
+4,860 independently selected, openly licensed dictionary senses and 691 curated
+records. Explicit script forms have separate lookup records. **275 records cite
+98 public social pages:** 28 fetched posts and 70 indexed post excerpts.
+
+Alternate spellings are separate entries linked by `formRelations` and
+`senseGroupId`. Links apply to the specific meaning and spoken variety. For example,
+`蚌埠住了` links to `绷不住了`; literal meanings remain separate. Script forms are
+expanded only when explicitly supported by the source; generic lemma alternatives
+never inherit every slang sense. Unproved spelling relationships remain unlinked.
 
 ## Download
 
-- [English entries, JSONL](data/entries.jsonl) or [gzip JSONL](data/entries.jsonl.gz)
-- [Source links and provenance](data/sources.json)
-- [Release counts and checksums](data/manifest.json)
-- [Entry schema](schema/entry.schema.json)
+- [Entries, JSONL](data/entries.jsonl) or [gzip JSONL](data/entries.jsonl.gz)
+- [Source links and credits](data/sources.json)
+- [Counts and checksums](data/manifest.json), [entry schema](schema/entry.schema.json)
 
-Each record identifies a spelling, sense and community. The same spelling can
-appear with different senses or regional attestations. Definitions are AI-assisted
-and checked by a different model against source contexts. **No human review or
-complete coverage is claimed.** Uncertain candidates remain outside the release.
-Existing dictionary overlap does not establish whether its slang sense is covered.
+Source imports retain Wiktionary definitions and labels with attribution.
+Curated explanations are AI-assisted original summaries. DeepSeek and GLM perform
+separate selection/checking roles. **No human review or complete coverage is
+claimed.** Machine familiarity is not a frequency measurement. Uncertain candidates
+remain outside the release; linked groups do not exhaust all equivalent senses.
 
-Pronunciation is included only when a compatible existing dictionary supplies a
-unique reading for that spoken variety. Empty readings are intentional; Mandarin
-is not substituted for Cantonese, Hokkien or other varieties. Audio is not included.
+Readings are supplied only from a compatible dictionary with a unique reading for
+the stated variety. Unknown readings stay empty. Audio is not included.
 
 ## Free to use
 
-**Code:** [MIT](LICENSE). **Contributed/compatible derived entry data:**
-[CC BY-SA 4.0](DATA_LICENSE.md), permitting commercial reuse with attribution and
-ShareAlike. Linked articles retain their copyrights; their full text and proprietary
-dictionary definitions are not redistributed.
+**Code:** [MIT](LICENSE). **Entry data:** [CC BY-SA 4.0](DATA_LICENSE.md), allowing
+commercial reuse with attribution and ShareAlike. Retain [upstream credits](data/NOTICE.txt).
+Linked articles and social posts retain their copyrights; their prose is not
+redistributed. See the [evidence policy](docs/evidence-policy.md).
 
 ## Build and contribute
 
-Python 3.10+, standard library only:
+Python 3.10+, standard library only. Offline validation:
 
 ```sh
 python3 -m unittest discover -s tests
 python3 -m slangdict.validate
-python3 -m slangdict discover --key-file /path/to/.openrouter-key
-python3 -m slangdict attest
-python3 -m slangdict review --key-file /path/to/.openrouter-key
-python3 -m slangdict build
-python3 -m slangdict budget
 ```
 
-Paid calls are opt-in, resumable and capped at $2 by default in a persistent ledger.
-Completed searches and responses are reused. Unknown charges are not retried.
-For optional local dictionary overlap/readings, pass `build --inventory PATH`.
-Do not commit keys or ignored work files. Corrections with regional context and
-public usage sources are welcome. See the [evidence policy](docs/evidence-policy.md).
+Optional paid research is resumable, cached and bounded by a persistent ledger.
+The default cap is $2; this expansion used an explicitly raised $8 cumulative cap.
+Use the same cap on resumed commands. Keys, raw contexts and model responses stay
+in ignored files. [Reproduction commands](docs/reproduction.md) cover source imports,
+public-platform searches, review recovery, spelling links and export. Corrections
+with regional context and public usage sources are welcome.

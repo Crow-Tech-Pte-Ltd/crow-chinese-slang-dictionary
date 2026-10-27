@@ -1,0 +1,9 @@
+{
+  "name": "English Wiktionary / Kaikki Chinese raw lexicon",
+  "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
+  "sha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
+  "rawDataIndex": "https://kaikki.org/dictionary/rawdata.html",
+  "license": "CC BY-SA 4.0",
+  "licensePolicy": "https://en.wiktionary.org/wiki/Wiktionary:Copyrights",
+  "scope": "Original sense glosses, source labels and explicit script forms only. Supplemental examples, synonyms and dialect tables are not imported."
+}

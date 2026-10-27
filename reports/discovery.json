@@ -1,122 +1,423 @@
 {
   "queries": [
     {
-      "region": "CN-gaming-fandom",
+      "region": "social-bilibili-work",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "CN-northeast",
+      "region": "social-bilibili-relationships",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "CN-Beijing-Tianjin",
+      "region": "social-bilibili-games",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "CN-Sichuan-Chongqing",
+      "region": "social-bilibili-school",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "CN-Wu",
+      "region": "social-bilibili-everyday",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "CN-central",
+      "region": "social-weibo-work",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "TW-internet",
+      "region": "social-weibo-relationships",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "TW-Minnan",
+      "region": "social-weibo-games",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "MY",
+      "region": "social-weibo-school",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "diaspora-NA",
+      "region": "social-weibo-everyday",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "diaspora-AU-NZ",
+      "region": "social-zhihu-work",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "diaspora-Europe",
+      "region": "social-zhihu-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-zhihu-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-zhihu-school",
       "rawCandidates": 14,
       "citationBoundCandidates": 14,
       "searchCitations": 5
     },
     {
-      "region": "cross-border-migration",
+      "region": "social-zhihu-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-xiaohongshu-work",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-xiaohongshu-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-xiaohongshu-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-xiaohongshu-school",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-xiaohongshu-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-douyin-work",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-douyin-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-douyin-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-douyin-school",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-douyin-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-tieba-douban-work",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-tieba-douban-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-tieba-douban-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-tieba-douban-school",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-tieba-douban-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-ptt-dcard-work",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-ptt-dcard-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-ptt-dcard-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-ptt-dcard-school",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-ptt-dcard-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-lihkg-work",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-lihkg-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-lihkg-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-lihkg-school",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-lihkg-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-diaspora-work",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-diaspora-relationships",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-diaspora-games",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-diaspora-school",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "social-diaspora-everyday",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-bengbuzhu",
       "rawCandidates": 6,
+      "citationBoundCandidates": 6,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-shuanq",
+      "rawCandidates": 9,
+      "citationBoundCandidates": 9,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-niubi",
+      "rawCandidates": 12,
+      "citationBoundCandidates": 12,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-shabi",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-wocao",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-juejuezi",
+      "rawCandidates": 2,
+      "citationBoundCandidates": 2,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-yyds",
+      "rawCandidates": 6,
+      "citationBoundCandidates": 6,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-awsl",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-xswl",
+      "rawCandidates": 3,
+      "citationBoundCandidates": 3,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-u1s1",
+      "rawCandidates": 4,
+      "citationBoundCandidates": 4,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-zqsg",
+      "rawCandidates": 4,
+      "citationBoundCandidates": 4,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-dbq",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-zundu",
+      "rawCandidates": 3,
+      "citationBoundCandidates": 3,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-babiq",
+      "rawCandidates": 8,
+      "citationBoundCandidates": 8,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-zhenbuchuo",
+      "rawCandidates": 6,
+      "citationBoundCandidates": 6,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-haozhi",
+      "rawCandidates": 6,
+      "citationBoundCandidates": 6,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-mutang",
+      "rawCandidates": 3,
+      "citationBoundCandidates": 3,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-paiseh",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-jiangzi",
+      "rawCandidates": 5,
       "citationBoundCandidates": 5,
       "searchCitations": 5
     },
     {
-      "region": "CN-Guangdong-Guangxi",
+      "region": "variant-lanshou",
+      "rawCandidates": 4,
+      "citationBoundCandidates": 4,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-hexie",
+      "rawCandidates": 8,
+      "citationBoundCandidates": 8,
+      "searchCitations": 5
+    },
+    {
+      "region": "variant-yang",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "CN-Fujian",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "diaspora-SEAsia",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "cross-region-vulgar",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "cross-region-political",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
+      "region": "variant-nimen",
+      "rawCandidates": 4,
+      "citationBoundCandidates": 4,
       "searchCitations": 5
     }
   ],
-  "candidateCount": 304,
+  "candidateCount": 1116,
   "budget": {
-    "capUsd": 2.0,
-    "spentOrReservedUsd": 0.370564,
-    "calls": 29,
+    "capUsd": 8.0,
+    "spentOrReservedUsd": 2.536927,
+    "calls": 423,
     "halted": false,
     "states": {
-      "completed": 29
+      "completed": 418,
+      "requesting": 5
     },
     "reservationsAreNotAlwaysFinalCharges": true
   }

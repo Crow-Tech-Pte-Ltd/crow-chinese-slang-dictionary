@@ -37,8 +37,54 @@ def read_key(path):
     return key
 
 
+def make_payload(model, system, user, web=False, max_tokens=4096, search_domains=None):
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user", "content": canonical(user)},
+        ],
+        "max_tokens": max_tokens,
+        "temperature": 0.2,
+        "response_format": {"type": "json_object"},
+        "reasoning": {"effort": "low", "exclude": True},
+        "provider": {
+            "data_collection": "deny",
+            "require_parameters": True,
+            "max_price": {"prompt": 1.1, "completion": 2.2},
+        },
+        "stream": False,
+    }
+    if model.startswith("deepseek/"):
+        payload["reasoning"] = {"enabled": False, "exclude": True}
+    if web:
+        payload["plugins"] = [
+            {
+                "id": "web",
+                "engine": "exa",
+                "mode": "auto",
+                "max_results": 5,
+                "exclude_domains": [
+                    "*.moe.edu.tw",
+                    "*.pleco.com",
+                    "*.oxfordreference.com",
+                    "*.oxfordlearnersdictionaries.com",
+                    "*.zdic.net",
+                    "moedict.tw",
+                    "hanzidesk.com",
+                    "*.hanzidesk.pages.dev",
+                    "crow.sg",
+                    "github.com/Crow-Tech-Pte-Ltd/*",
+                ],
+            }
+        ]
+    if web and search_domains:
+        payload["plugins"][0]["include_domains"] = list(search_domains)
+    return payload
+
+
 class Client:
-    def __init__(self, root, key_file, max_usd=2):
+    def __init__(self, root, key_file, max_usd=2, raise_cap=False):
         self.root = Path(root)
         self.work = self.root / "work"
         self.work.mkdir(exist_ok=True)
@@ -52,7 +98,9 @@ class Client:
             db.execute("BEGIN IMMEDIATE")
             row = db.execute("SELECT cap FROM budget WHERE id=1").fetchone()
             if row and row[0] != self.max_micro:
-                raise ProviderError("persistent-cap-change-refused")
+                if not raise_cap or self.max_micro < row[0]:
+                    raise ProviderError("persistent-cap-change-refused")
+                db.execute("UPDATE budget SET cap=? WHERE id=1", (self.max_micro,))
             db.execute(
                 "INSERT OR IGNORE INTO budget VALUES(1,?,0,0,0)", (self.max_micro,)
             )
@@ -68,47 +116,17 @@ class Client:
         finally:
             db.close()
 
-    def call(self, phase, model, system, user, web=False, max_tokens=4096):
-        payload = {
-            "model": model,
-            "messages": [
-                {"role": "system", "content": system},
-                {"role": "user", "content": canonical(user)},
-            ],
-            "max_tokens": max_tokens,
-            "temperature": 0.2,
-            "response_format": {"type": "json_object"},
-            "reasoning": {"effort": "low", "exclude": True},
-            "provider": {
-                "data_collection": "deny",
-                "require_parameters": True,
-                "max_price": {"prompt": 1.1, "completion": 2.2},
-            },
-            "stream": False,
-        }
-        if model.startswith("deepseek/"):
-            payload["reasoning"] = {"enabled": False, "exclude": True}
-        if web:
-            payload["plugins"] = [
-                {
-                    "id": "web",
-                    "engine": "exa",
-                    "mode": "auto",
-                    "max_results": 5,
-                    "exclude_domains": [
-                        "*.moe.edu.tw",
-                        "*.pleco.com",
-                        "*.oxfordreference.com",
-                        "*.oxfordlearnersdictionaries.com",
-                        "*.zdic.net",
-                        "moedict.tw",
-                        "hanzidesk.com",
-                        "*.hanzidesk.pages.dev",
-                        "crow.sg",
-                        "github.com/Crow-Tech-Pte-Ltd/*",
-                    ],
-                }
-            ]
+    def call(
+        self,
+        phase,
+        model,
+        system,
+        user,
+        web=False,
+        max_tokens=4096,
+        search_domains=None,
+    ):
+        payload = make_payload(model, system, user, web, max_tokens, search_domains)
         fp = digest({"version": "crow-slang-v1", "phase": phase, "payload": payload})
         dest = self.work / (fp + ".json")
         bound = 2 * len(canonical(payload).encode()) + 4096 + (96000 if web else 0)
@@ -126,7 +144,7 @@ class Client:
             cap, spent, calls, halted = db.execute(
                 "SELECT cap,spent,calls,halted FROM budget WHERE id=1"
             ).fetchone()
-            if halted or calls >= 180 or spent + reserve > cap:
+            if halted or calls >= 1000 or spent + reserve > cap:
                 raise ProviderError("persistent-budget-cap-reached")
             db.execute(
                 "UPDATE budget SET spent=spent+?,calls=calls+1 WHERE id=1", (reserve,)

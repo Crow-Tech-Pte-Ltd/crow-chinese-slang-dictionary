@@ -1,5 +1,4 @@
-import unittest, tempfile, json, sqlite3
-from pathlib import Path
+import unittest, tempfile, json
 from unittest.mock import patch
 from slangdict.provider import Client, ProviderError, output
 from slangdict.pipeline import contexts, safe_url, valid_candidate, disallowed_source
