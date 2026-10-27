@@ -11,9 +11,12 @@ SYSTEM = """Compare proposed informal Chinese meanings against the supplied exis
 def allowed(row):
     if row.get("scopeAudit", {}).get("approved") is False:
         return False
-    if row.get("researchKind") in ["gap-targeted", "public-social-gap"] and not row.get(
-        "coverageGate"
-    ):
+    if row.get("researchKind") in [
+        "gap-targeted",
+        "public-social-gap",
+        "media-gap",
+        "diaspora-gap",
+    ] and not row.get("coverageGate"):
         return False
     return row.get("coverageGate", {}).get("decision") not in [
         "already-described",
@@ -21,10 +24,12 @@ def allowed(row):
     ]
 
 
-def run(client):
-    baseline = read_rows(ROOT / "work/v0.2-base/entries.jsonl")
+def run(client, baseline_version="0.2.0"):
+    baseline = read_rows(
+        ROOT / ("work/v" + baseline_version.removesuffix(".0") + "-base/entries.jsonl")
+    )
     if not baseline:
-        raise ValueError("A frozen v0.2 baseline is required")
+        raise ValueError("A frozen published baseline is required")
     baseline_ids = {r["id"] for r in baseline}
     words = collections.defaultdict(list)
     for r in baseline:
@@ -134,13 +139,15 @@ def run(client):
                 )
             except Exception as e:
                 errors.append(type(e).__name__)
+    for value in decisions.values():
+        value["baselineVersion"] = baseline_version
     for row in candidates:
         row["coverageGate"] = decisions.get(
             row["id"], {"decision": "uncertain", "reason": "missing-or-invalid-triage"}
         )
     write_rows(ROOT / "work/candidates.jsonl", candidates)
     report = {
-        "baseline": "0.2.0",
+        "baseline": baseline_version,
         "candidates": len(candidates),
         "decisions": dict(
             collections.Counter(r["coverageGate"]["decision"] for r in candidates)
@@ -156,5 +163,6 @@ def run(client):
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--key-file", required=True)
+    p.add_argument("--baseline", default="0.3.0")
     a = p.parse_args()
-    run(Client(ROOT, a.key_file, 8))
+    run(Client(ROOT, a.key_file, 8), a.baseline)

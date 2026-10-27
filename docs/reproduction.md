@@ -92,7 +92,7 @@ overseas-community and 28 community/topic searches. Keep the baseline immutable:
 mkdir -p work/v0.2-base
 git show v0.2.0:data/entries.jsonl > work/v0.2-base/entries.jsonl
 python3 -m slangdict discover --query-file config/gap-research-round3.json --key-file /path/to/key --max-usd 8
-python3 -m slangdict.novelty --key-file /path/to/key
+python3 -m slangdict.novelty --baseline 0.2.0 --key-file /path/to/key
 python3 -m slangdict attest
 python3 -m slangdict.curated_resume --key-file /path/to/key
 python3 -m slangdict.assemble --version 0.3.0
@@ -114,11 +114,11 @@ apply these after attestation, then retriage/reattest before independent review:
 
 ```sh
 python3 -m slangdict.corrections
-python3 -m slangdict.novelty --key-file /path/to/key
+python3 -m slangdict.novelty --baseline 0.2.0 --key-file /path/to/key
 python3 -m slangdict attest
 python3 -m slangdict.curated_resume --key-file /path/to/key
 python3 -m slangdict.assemble --version 0.3.0
-python3 -m slangdict.scope_audit --key-file /path/to/key
+python3 -m slangdict.scope_audit --baseline 0.2.0 --key-file /path/to/key
 python3 -m slangdict.assemble --version 0.3.0
 ```
 
@@ -126,3 +126,56 @@ A scope veto survives ordinary triage resumption. Changing language metadata
 invalidates the independent input hash; a new source-context check is required.
 English code-switches are labelled mixed; unresolved regional varieties stay und.
 The scope pass does not supply pronunciation or human approval.
+
+## Broader public-source round (v0.4)
+
+`config/broad-research-round4.json` contains 141 targeted queries spanning Chinese
+forums, Xiaohongshu topics, media and overseas communities. Preserve the baseline:
+
+```sh
+mkdir -p work/v0.3-base
+git fetch origin tag v0.3.0
+git show v0.3.0:data/entries.jsonl > work/v0.3-base/entries.jsonl
+python3 -m slangdict discover --query-file config/broad-research-round4.json --key-file /path/to/key --max-usd 8
+```
+
+When a search route yields no usable sources, public search excerpts can be
+provided separately. Input is a JSON array of `{url,title,content}` objects from
+public, indexed Reddit threads. Keep it ignored in work/, retain the original
+ordering for paid-cache reuse, and never include private groups or profiles. The
+link-only examined-source catalogue is in reports/public-reddit-source-catalog.json.
+A source's inclusion in that catalogue does not mean any entry was accepted.
+
+```sh
+python3 -m slangdict.web_discover discover --input work/public-search-seeds.json --key-file /path/to/key
+python3 -m slangdict.web_discover import
+python3 -m slangdict.novelty --baseline 0.3.0 --key-file /path/to/key
+python3 -m slangdict attest
+python3 -m slangdict.curated_resume --key-file /path/to/key
+python3 -m slangdict.assemble --version 0.4.0
+python3 -m slangdict.scope_audit --baseline 0.3.0 --key-file /path/to/key
+python3 -m slangdict.assemble --version 0.4.0
+```
+
+Run the import after the main discover writer has finished. Seed extraction uses
+existing spellings as coverage hints and caps proposed definitions at five per
+source. It requires exact literal mentions and exact supplied URLs. Raw excerpts
+and responses remain private. Post/profile/index classification now includes
+Reddit, NGA, Hupu, V2EX and other forums. Cached page/excerpt dates are preserved
+to avoid paying again merely because a command is resumed another day.
+
+For the versioned language correction, run corrections with
+`--input config/round4-variety-corrections.json`, then repeat triage, attestation,
+current-context review and scope checks. The metadata change invalidates the old
+review hash. Finish with offline validation and primary-data auditing:
+
+```sh
+python3 -m slangdict.validate
+python3 -m slangdict.audit_local --baseline 0.3.0 --source /path/to/pinned-chinese.jsonl.gz
+python3 -m unittest discover -s tests
+```
+
+The $8 financial cap is unchanged and cumulative across all rounds. The separate
+request-count ceiling was expanded to accommodate this larger research plan; it
+does not increase the monetary cap. Xiaohongshu access limits are reported rather
+than treated as successful full reads. No website or audio deployment is implied.

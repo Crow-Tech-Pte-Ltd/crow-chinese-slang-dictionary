@@ -55,3 +55,10 @@ new sense. New spellings and genuinely different meanings still require an
 independent source-context check. English/Malay loans need Chinese-community
 usage evidence; an English-language trend in a country alone is insufficient.
 The source/query audit cannot support an estimate of overall completeness.
+
+Version 0.4 adds broader public forum and media research, including Chinese-language
+Reddit discussions. Search/index/profile pages are not post evidence. Independently
+retrieved public excerpts can seed discovery when a provider route returns no
+usable results, with literal-mention and URL checks before review. Existing forum
+entries formerly supported only by indexes receive real thread evidence or remain
+held. Direct Xiaohongshu note coverage is reported separately from media accounts.

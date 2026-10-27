@@ -1,14 +1,17 @@
 """Apply versioned metadata fixes, requiring fresh independent checks afterward."""
 
 from .pipeline import ROOT, read_rows, write_rows
-import json
+import argparse, json
+from pathlib import Path
 
 
-def apply():
+def apply(path=None):
     fixes = {
         r["id"]: r
         for r in json.loads(
-            (ROOT / "config/round3-variety-corrections.json").read_text()
+            (
+                Path(path) if path else ROOT / "config/round3-variety-corrections.json"
+            ).read_text()
         )
     }
     triage = {r["id"]: r for r in read_rows(ROOT / "work/gap-decisions.jsonl")}
@@ -39,4 +42,6 @@ def apply():
 
 
 if __name__ == "__main__":
-    apply()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input")
+    apply(parser.parse_args().input)

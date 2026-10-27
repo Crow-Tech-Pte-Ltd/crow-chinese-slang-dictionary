@@ -1,7 +1,7 @@
 {
   "sourceSnapshotSha256Verified": true,
   "sourceImportedRecordsVerifiedAgainstPrimaryRows": 7276,
-  "curatedRecordsVerifiedAgainstCurrentContextReviews": 1073,
+  "curatedRecordsVerifiedAgainstCurrentContextReviews": 1546,
   "allIndependentSpellingLinksHaveExactReviewProof": true,
   "allLexicalSelectionJobsResolved": true,
   "coverageAndScopeHashesMatchCurrentCorrectedMetadata": true,

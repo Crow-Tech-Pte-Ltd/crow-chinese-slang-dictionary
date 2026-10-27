@@ -144,7 +144,7 @@ class Client:
             cap, spent, calls, halted = db.execute(
                 "SELECT cap,spent,calls,halted FROM budget WHERE id=1"
             ).fetchone()
-            if halted or calls >= 1000 or spent + reserve > cap:
+            if halted or calls >= 2000 or spent + reserve > cap:
                 raise ProviderError("persistent-budget-cap-reached")
             db.execute(
                 "UPDATE budget SET spent=spent+?,calls=calls+1 WHERE id=1", (reserve,)

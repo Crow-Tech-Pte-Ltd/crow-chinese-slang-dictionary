@@ -9,7 +9,7 @@ from .short_review import checker_results
 from .social_evidence import social_page_kind
 
 
-def audit(source):
+def audit(source, baseline_version="0.2.0"):
     from .novelty import allowed
 
     rows = read_rows(ROOT / "data/entries.jsonl")
@@ -71,7 +71,9 @@ def audit(source):
         assert all(
             social_page_kind(e["url"]) != "platform-index" for e in draft["evidence"]
         )
-    baseline = read_rows(ROOT / "work/v0.2-base/entries.jsonl")
+    baseline = read_rows(
+        ROOT / ("work/v" + baseline_version.removesuffix(".0") + "-base/entries.jsonl")
+    )
     baseline_ids = {r["id"] for r in baseline}
     meanings = collections.defaultdict(list)
     scope_meanings = collections.defaultdict(list)
@@ -150,4 +152,6 @@ def audit(source):
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--source", required=True)
-    audit(p.parse_args().source)
+    p.add_argument("--baseline", default="0.3.0")
+    a = p.parse_args()
+    audit(a.source, a.baseline)

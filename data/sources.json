@@ -1,5 +1,21 @@
 [
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "bb74419a44b332432c36f7396fab5700a8d3f8f33d61ef59eefed9c9a8081af3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "受够了自由组mod的双标",
+    "url": "https://www.reddit.com/r/LiberalGooseGroup/comments/yxzkey",
+    "id": "00212a88bd0a9e4d4467",
+    "matchedHeadwords": [
+      "简中",
+      "阴阳怪气"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%A7%BD%E9%BB%9E#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -334,6 +350,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9fd30b9bcfff85512541c450b6301a9c8b27565cb5535ada59e389c09219dcdd",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "跟风买平替：一场关于消费的冒险游戏_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://thepaper.cn/newsDetail_forward_28960516",
+    "id": "017ff1f0afb279bf02f2",
+    "matchedHeadwords": [
+      "平替"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%91%BC%E5%90%B8plan#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -437,6 +468,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "24f6fb5125116583cd90c6db9a3530f546c5050a52667118d420679744f4d0ea",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "AI老公们，聚在小红书讨论爱情-虎嗅网",
+    "url": "https://m.huxiu.com/article/4840580.html",
+    "id": "02024899edd93919821e",
+    "matchedHeadwords": [
+      "AI老公",
+      "人机恋"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%9A%87%E5%94%AC#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -533,7 +580,9 @@
     "url": "https://www.chinapress.com.my/20220817/%e5%a7%ac%e6%b4%9b%e5%ae%81%ef%bc%9a%e5%8d%8e%e4%ba%ba%e7%a4%be%e4%bc%9a%e7%94%a8%e8%af%ad%e5%bc%82%e5%8c%96%e7%8e%b0%e8%b1%a1/",
     "id": "0277b355bcff47387f6c",
     "matchedHeadwords": [
-      "yum cha"
+      "yum cha",
+      "中招",
+      "饮茶"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -1152,6 +1201,21 @@
       "我靠",
       "支語",
       "支語警察"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ef8d592a1cb45db9e2287b6a5e829e3f27ac6c5dd9e085ea7844facf932870e7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "饭圈、二次元，决战圈层之巅_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_8649507",
+    "id": "047d6c07673cfe7ec30e",
+    "matchedHeadwords": [
+      "二刺螈"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -1969,6 +2033,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2e240a7d7c49e7c4c0ab6798e398c4acd119d79394fa0c6a396e5191b43adb2f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "00后“黑话”：不同于90后火星文的“新语言”",
+    "url": "https://www.reddit.com/r/China_irl/comments/nc3hg9",
+    "id": "07a7f652d95871b75caa",
+    "matchedHeadwords": [
+      "缩写",
+      "谜语人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%98%BF%E5%92%BB#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -2019,6 +2099,22 @@
       "命根子"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "66529c8bad16078a47839c64eb5c3727f397bef85d9e12da22337259a3e7bdd1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/China_irl/comments/1q743p6/%E8%BF%99sub%E6%80%8E%E4%B9%88%E9%82%A3%E4%B9%88%E5%A4%9A%E7%B9%81%E4%BD%93%E5%AD%97%E4%BA%BA%E5%92%8C%E5%8D%8E%E5%B7%9D%E7%B2%89/",
+    "id": "07e3a62897439feb5b33",
+    "matchedHeadwords": [
+      "华川粉",
+      "繁体字人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%AD%A3%E7%B6%93%E5%85%AB%E7%99%BE#Chinese",
@@ -2191,6 +2287,28 @@
       "吹牛",
       "吹牛皮",
       "牛"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e33a4b81b9cd72401ad323e8e601cfb0345d1eef74d7958c77426cc04e7a1ac2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "这些爱情关键词，监控了年轻人的心_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_30127785",
+    "id": "08742c63b1c1cbaca171",
+    "matchedHeadwords": [
+      "ghost",
+      "situationship",
+      "你真是饿了",
+      "全民网恋",
+      "战术性洗澡",
+      "最小兴趣原则",
+      "社会性晚安",
+      "赛博相亲"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -2444,6 +2562,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8b69838908c461090142e59491c8227efc1f747e80b1af342576b9ee6b4b1a1a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "全寝未保研：优绩主义下，被忽视的普通人-虎嗅网",
+    "url": "https://www.huxiu.com/article/3879683.html",
+    "id": "095b08b042f9b77c70dd",
+    "matchedHeadwords": [
+      "优绩主义",
+      "保研",
+      "内卷"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%93%AA%E9%96%80%E5%AD%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -2599,6 +2734,21 @@
       "尬笑"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "4662f06b0b9b1be800bbfda9e3450fa549dfbbbea88650c034c0cb96326563e3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "“假性不婚族”：你可以更勇敢追求幸福_新闻频道_央视网(cctv.com)",
+    "url": "https://news.cctv.com/2023/05/15/ARTIoRRgt29iXEAfyI8jtXRt230515.shtml",
+    "id": "0a197fa7f9feccd8a9f6",
+    "matchedHeadwords": [
+      "假性不婚族"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E4%BB%BB%E8%B1%9A#Chinese",
@@ -3007,6 +3157,21 @@
       "碧蓮"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c2f398d06b725769d1c4e5843bb76d1a7c64baa593517faad7d2c25f921a4d25",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "大叔回中国祖乡探亲 说大马方言 闹笑话",
+    "url": "https://n9.chinapress.com.my/20231012/%e5%a4%a7%e5%8f%94%e5%9b%9e%e4%b8%ad%e5%9b%bd%e7%a5%96%e4%b9%a1%e6%8e%a2%e4%ba%b2-%e8%af%b4%e5%a4%a7%e9%a9%ac%e6%96%b9%e8%a8%80-%e9%97%b9%e7%ac%91%e8%af%9d/",
+    "id": "0b2aa11c397b1a36f587",
+    "matchedHeadwords": [
+      "三妈"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "attestationKind": "fetched-page",
@@ -3652,6 +3817,24 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e19c64a82c9b320bc1b23ff2ffefd9d46e774793a962679d76f743e410d3794d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "[活動] 聊天吃喝交朋友 社群徵人 - 看板 lesbian - 批踢踢實業坊",
+    "url": "https://www.ptt.cc/bbs/lesbian/M.1791793084.A.018.html",
+    "id": "0d2560ba478f3a41616f",
+    "matchedHeadwords": [
+      "E人",
+      "佛性",
+      "樹洞",
+      "泛性戀"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%89%B9%E5%B0%8F%E5%B0%87#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -3928,6 +4111,24 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "db5fd35baf3a0bab1e5c2ed71eb74478a5bdd3c648ebaa5dbb998756dcc9e3ea",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "谷子、苏超、活人感……哪个是令你印象深刻的“全民流行语”_文化课_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_32085637",
+    "id": "0e3f2c393c2bf902643b",
+    "matchedHeadwords": [
+      "××基础，××不基础",
+      "从从容容、游刃有余，匆匆忙忙、连滚带爬",
+      "赛博对账",
+      "预制××"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%A7%81%E6%88%B3#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -4031,6 +4232,23 @@
       "低頭族"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "026fbe984a2f121f95bd7d0cb37c4084ef705a1b9088b1f21d7938387d466de7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "【公告】组规（进组必看）2025/10/16更新",
+    "url": "https://www.douban.com/group/topic/252087274/?_spm_id=MjQ5NTk4ODM4",
+    "id": "0e8030e605282cfe5f2d",
+    "matchedHeadwords": [
+      "后院",
+      "弃养",
+      "科养"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%B0%B4%E5%95%A6#Chinese",
@@ -4351,6 +4569,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "eba1d3d7345582db12b543150921679daffd955f3f91dd5c948644248403edc2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "今天去红迪冲浪的时候忘了之前看的融入教程",
+    "url": "https://www.reddit.com/r/RoninClub/comments/1dartdj",
+    "id": "0f87c9cc25480fc152eb",
+    "matchedHeadwords": [
+      "典似佳",
+      "浪友"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%95%99%E7%88%AA#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -4441,6 +4675,21 @@
       "节操"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b4c407644c1335d3304255d3c26020090fef2e7d34d2135ca684d73d47f8d34a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "��2024��ʮ����������� �㱻�ļ�����Ӳ�ء��ˣ�_�����",
+    "url": "https://news.cnr.cn/native/gd/kx/20241203/t20241203_526997072.shtml",
+    "id": "0fc926662a952199ee8f",
+    "matchedHeadwords": [
+      "水灵灵地"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%A0%B4%E5%AD%90#Chinese",
@@ -5221,6 +5470,22 @@
       "吃書"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "742d16cc0094319b4a91ac6502908295f129b7a2a89bb3d7293a28dc737ccc90",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "全世界唯一制裁烂梗的国家",
+    "url": "https://www.reddit.com/r/real_China_irl/comments/1g1cji3",
+    "id": "1249da255b760da5e2f9",
+    "matchedHeadwords": [
+      "哈基米",
+      "烂梗"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%98%BF%E5%A7%A8%E6%B4%97%E9%90%B5%E8%B7%AF#Chinese",
@@ -6382,6 +6647,38 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "1aad773b34bd0f45c4ceab68d3955223b1221b1261802c8d4a5e6f96a79b9e8c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "识破消费主义陷阱的年轻人，开启“不买年”_澎湃号·媒体_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_24253487",
+    "id": "16429d605e1f4c397322",
+    "matchedHeadwords": [
+      "不买年",
+      "跟风",
+      "风很大"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9226913858238f0d67fce7ffb36ad775bfa4ff23c14f08542301a8c1fc3a98bd",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "��ù·������·�� �¿��������˽֡���������ͷ��_��ά����Ƶ�� - Skykiwi.com",
+    "url": "https://news.skykiwi.com/na/zh/2016-03-08/215035.shtml",
+    "id": "1643917416c8de90a990",
+    "matchedHeadwords": [
+      "倒霉路"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%A6%AC%E4%BA%A4#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -6698,6 +6995,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "95025d0444a2e3756c84b1ef0a82cd26c1862f7db94d02de078cfe36151b5968",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "[WOW]魔兽世界正式服，助力魔兽新老玩家快速上手组队 NGA玩家社区",
+    "url": "https://bbs.nga.cn/read.php?tid=39144176",
+    "id": "1769fe6a1352a190cc11",
+    "matchedHeadwords": [
+      "大米"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%93%BA%E5%BC%84#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -6958,6 +7270,21 @@
       "基友"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "919c99d973bc1fc210c00a28b2d6149c37c5f0524a0a8bc110d36b3e7669c596",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "����Ů��д\"�������Կ���\" ������Ϊ\"��ʵ����\"����������",
+    "url": "http://www.chinanews.com.cn/cul/news/2010/01-05/2055302.shtml",
+    "id": "1862fc53e7901ec433a0",
+    "matchedHeadwords": [
+      "NC"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%90%B9%E7%87%88#Chinese",
@@ -7426,6 +7753,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b9bcc8b31a847d52442e1c19124840ba7eda3eec99f2399e81fe66207e54f8ae",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "年轻人，在职场“断亲”_央广网",
+    "url": "https://www.cnr.cn/jy/pdtj/tt/20250722/t20250722_527276075.shtml",
+    "id": "1a141c8ad3fa6d57080f",
+    "matchedHeadwords": [
+      "断亲",
+      "职场i人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%90%B9%E7%B0%AB#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -7612,6 +7955,26 @@
       "撚樣"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "5888015d5152dfdd725b8445940e641e820c80392673cfe614c3f24a19313b5d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "听说，这届网友都忙着“备战奥运”?——体重管理两周年观察之三",
+    "url": "http://yn.people.com.cn/n2/2026/0605/c378440-41601753.html",
+    "id": "1a8ef4eebcdd1cef866e",
+    "matchedHeadwords": [
+      "体商",
+      "合环",
+      "回血",
+      "备战奥运",
+      "脆皮年轻人",
+      "脱脆"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/7#Chinese",
@@ -8116,6 +8479,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "10d173188a98c6b2a0593622a9668d82f7ea66d2b2f768310184a3e33b89b187",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�Ʒ��ˡ�ү��ء���ʵ������ȵ�Ļ��θ�����һ��",
+    "url": "https://www.hi.chinanews.com.cn/hnnew/2021-12-07/615350.html",
+    "id": "1be015eb98a7d1590b64",
+    "matchedHeadwords": [
+      "破防了"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%8D%8A%E9%81%93#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -8363,6 +8741,21 @@
       "吃瓜"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2f361beae9b34bb924b1c6bfb2bd110710b2cc0971469a982ea017430b92e3a7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "好嗨呦、雨女无瓜……2019年十大网络用语发布，这些梗你都懂吗？_澎湃号·政务_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_5192026",
+    "id": "1c73bc15be286a988742",
+    "matchedHeadwords": [
+      "是个狼人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%BD%9B%E6%B0%B4%E5%93%A1#Chinese",
@@ -8960,6 +9353,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "4a619af00073929d2342238162434fa41aedcdf84b76a0beb57ed2ffa748c12a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "领导今日份的逆天发言 NGA玩家社区",
+    "url": "https://bbs.nga.cn/read.php?tid=44895993",
+    "id": "1e0e451404330edb2589",
+    "matchedHeadwords": [
+      "工贼",
+      "殖人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%BE%88%E5%A5%BD%E5%BE%88%E5%BC%B7%E5%A4%A7#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -8976,6 +9385,36 @@
       "很好很强大"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "49e0e81176a47f8f816c4837e459e4e5239f4c36c7956f0db00e4b9566b0b4ea",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "【CDT周报】第191期：我们想要好好说话不说“黑话烂梗”，可您不让啊",
+    "url": "https://www.reddit.com/r/LiberalGooseGroup/comments/1g7iun3",
+    "id": "1e27d502d440059c1fcc",
+    "matchedHeadwords": [
+      "黑话烂梗"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c23f61b858811efc681a2ea16fd8fa643a42750102f9354bf63be4c63c5e0a5a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "小红书「闪光开学季」：大学生反成长焦虑的刚需，有了可行解法_新浪新闻",
+    "url": "https://news.sina.com.cn/sx/2024-10-30/detail-incuipez3588177.shtml",
+    "id": "1e308e76dfeecb32b440",
+    "matchedHeadwords": [
+      "脆皮"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E4%BD%A0%E8%80%81%E9%97%86#Chinese",
@@ -9165,6 +9604,22 @@
       "牛一"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "39d9936971d78ffa73e1f6ba2a5d0d408e7e655526f8414fc8b6769fea88a96a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "深观察｜直播间只能用“啵啵间”？规范用语平台有责_澎湃评论_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_19163243",
+    "id": "1ebeed8aa93d08a24086",
+    "matchedHeadwords": [
+      "啵啵间",
+      "浮力"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%A3%9F%E5%B1%8E%E7%8B%97#Chinese",
@@ -9417,6 +9872,21 @@
       "關……鳩事"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "3c9adbe9fd2d3c7f1e704e7a5be8cca79e4e9dfc9737fe28720f04b598d9c2c6",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "百日宴女主发长文回应了，JRs，为啥渣男总有女的倒贴？-步行街主干道-虎扑社区",
+    "url": "https://bbs.hupu.com/642954842.html",
+    "id": "1f9f4609392c638f8583",
+    "matchedHeadwords": [
+      "JRs"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%AD%8D#Chinese",
@@ -11405,6 +11875,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "abfd3f0cc1a40da68ebbb5cfd37aad7f53237b46e46277767b0547c165759f00",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/iwanttorun/comments/1vv5eew/%E8%B6%85%E7%BA%A7%E5%BA%95%E5%B1%82%E4%BA%BA%E6%80%8E%E4%B9%88%E6%B6%A6/",
+    "id": "265452f1e3a6250baa82",
+    "matchedHeadwords": [
+      "搬砖",
+      "走线"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%94%B7%E5%A4%A7#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -11700,6 +12186,56 @@
       "猛料"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "1d1f4c81bce2fa87ec0d4d97c4fe4274241076ccbbbe0ab201fd8c0180a6c76d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "从饭搭子到蛋搭子，年轻人为啥流行找搭子？-虎嗅网",
+    "url": "https://www.huxiu.com/article/1225175.html",
+    "id": "27223be97f05fdce9e27",
+    "matchedHeadwords": [
+      "搭子",
+      "饭搭子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "feb428a3a085420335dede00fd4393859197179a87a644e1d374ff069f9bf486",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "WhatsApp “潮语”知多少？ | 世界万象 | 東方網 馬來西亞東方日報 Telegram Xiaohongshu logo - Brandlogos.net",
+    "url": "https://www.orientaldaily.com.my/news/buzz/2016/10/17/166426",
+    "id": "2725b90e049e02a01c6d",
+    "matchedHeadwords": [
+      "Abuden",
+      "Kantoi",
+      "Leng Zai",
+      "Potong Stim",
+      "Tapau"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9eeaab7057d5a3afdd309a2f86d3f77768053632ac1c9dadf20fea0704a5fea1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "“县城婆罗门”被群嘲，年轻人不吃这一套了_南方+_南方plus",
+    "url": "https://www.nfnews.com/content/732GNmzG6W.html",
+    "id": "2728175ab4ba3b63a54d",
+    "matchedHeadwords": [
+      "县城婆罗门"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/le#Chinese",
@@ -12646,6 +13182,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e77c7164416d448c28aa52d6499bb5fd3b8d78df1354ce11bc1f9a4c9f2ba6bc",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "加州一韩超贴出中文告示，引发愤怒",
+    "url": "https://www.reddit.com/r/China_irl/comments/1jyakoi",
+    "id": "29b9edb46bc843340961",
+    "matchedHeadwords": [
+      "话糙理不糙"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%94%A3#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -12806,6 +13357,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "39426cbe0dc466e81153441417ffc57e783cb79c16b63dfcc6dd60c5e0361c5c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "本版与简中互联网的流行语重合度有多高？",
+    "url": "https://www.reddit.com/r/China_irl/comments/ocsn86",
+    "id": "2a68e769edd3b203fc0d",
+    "matchedHeadwords": [
+      "离岸爱党"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/A%E7%89%87#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -12924,6 +13490,28 @@
       "狗家"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c87958a439a746cc1c800f00210901df5ad657208c4529a516eb287c69ffe947",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "[公告] 英雄联盟专区版规(2026.03.27更新) NGA玩家社区",
+    "url": "https://bbs.nga.cn/read.php?tid=33928537",
+    "id": "2b008b13454260d779e0",
+    "matchedHeadwords": [
+      "Gank区",
+      "NUKE",
+      "孤儿英雄",
+      "扣帽子",
+      "红叉区",
+      "转进",
+      "阴阳怪气",
+      "黑称"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%94%BE%E6%B2%AB#Chinese",
@@ -13047,6 +13635,21 @@
       "吃瓜群眾"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6bc372d527311a520df0f5befb3362f31622bfe3cce034485d63500e7e473a89",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "����16���������󰮱��� �������ȴ�\"ʮ��Ȼ��\"-������",
+    "url": "https://www.chinanews.com.cn/cul/2012/11-15/4329607.shtml",
+    "id": "2b769a160f879724fe12",
+    "matchedHeadwords": [
+      "十动然拒"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%80%9A%E6%B0%B4#Chinese",
@@ -13589,6 +14192,22 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f68508bc51e58d4ccb8edda571960247686625b4e11246c71eddb4d919a61586",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "是不是不应该跟日本人说太多中国坏话？",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1kom8cv",
+    "id": "2cfebe510c1f68721e34",
+    "matchedHeadwords": [
+      "五毛党",
+      "支性"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%BE%88%E9%BB%83%E5%BE%88%E6%9A%B4%E5%8A%9B#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -13645,6 +14264,21 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "0e6b1853acecb2f520693e4c598914e976fa66a24365ebe531d5e6d88afb0233",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "\n            听说全网都在“不烧心” 这波AI短剧热潮你还扛得住吗-新华网\n        ",
+    "url": "http://www.news.cn/ent/20261020/878ebd9884c749e4ab67ae674d57b0e6/c.html",
+    "id": "2d0f5584f1c86a9ad8eb",
+    "matchedHeadwords": [
+      "不烧心"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%9A%A5%E6%B0%A3#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -13662,6 +14296,21 @@
       "嚥氣"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "0d07646336731fe6524803288ef303d06114d917e8c168ac97f220a1998d1d1d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "全网进入“不烧心”时代，包括台湾-中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/10-16/10715749.shtml",
+    "id": "2d15a869640feadb901b",
+    "matchedHeadwords": [
+      "不烧心"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "attestationKind": "fetched-page",
@@ -13807,6 +14456,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d32763270fe0da914c7434d5d3271ded5b203384cc47520d37c8700f6fc53047",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "记一次和太君进行的长会话",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1e3yx11",
+    "id": "2d89129b801e9d3891d9",
+    "matchedHeadwords": [
+      "太君",
+      "润友"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/XP#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -13935,6 +14600,21 @@
       "腦袋瓜"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d87e1961ce24abfc346509b4c28e0137191bbec0155a3e8809bae184849f6939",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/4143179/page/1",
+    "id": "2e266e4c7c9ed75f8372",
+    "matchedHeadwords": [
+      "叫春"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%BE%B7%E5%9C%8B%E4%BD%AC#Chinese",
@@ -14855,6 +15535,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e9a6ebc7aa815910b5a8910fa7401fc3f063dfe2ff17c55a94f08bc3a80a5d3c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "v 客们，你们的生活日常是怎样的？ - V2EX",
+    "url": "https://www.v2ex.com/t/858750",
+    "id": "31139c58d286813ce8d9",
+    "matchedHeadwords": [
+      "摸鱼",
+      "约炮",
+      "造轮子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%B0%8F%E9%BB%83#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -14889,6 +15586,24 @@
       "引戰"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "37d87d6f274e7bc8df3f43e9c0b753b6dd3f4b35e218af2ecfc40a0e63d921ed",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "吃圭人、老双十一人、依萍如洗上热搜，消费定义了你是谁？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_9943568",
+    "id": "3137a47ae087ee5c1cfc",
+    "matchedHeadwords": [
+      "依萍如洗",
+      "吃圭人",
+      "抄作业",
+      "破递为笑"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%87%9D%E4%B8%8D%E6%88%B3#Chinese",
@@ -15933,21 +16648,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "search-excerpt",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "7f0cea646a57050ba6b8f164f63c5adcb48278d4671648b9c4599e85875e67e7",
-    "literalMentionConfirmed": true,
-    "pageStatus": "fetched",
-    "title": "新疆飞虎 - 虎扑社区",
-    "url": "https://bbs.hupu.com/xinjiang",
-    "id": "346a7affbd637730ad38",
-    "matchedHeadwords": [
-      "打花"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%B7%9D%E7%9A%87#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -16355,6 +17055,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6d01994905829798aec23b66133d634889547db99a08e6008a4da7eaa6b46335",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "官方报告析2016年网络用语：全是套路、洪荒之力入选",
+    "url": "http://m.cnr.cn/tech/20170718/t20170718_523856103.html",
+    "id": "359d1362c83d587617b0",
+    "matchedHeadwords": [
+      "友谊的小船",
+      "套路",
+      "葛优躺"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%82%8F%E5%B1%84#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -16388,6 +17105,21 @@
       "怵頭"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2db61dc93fef609852056a56b580e5117c650e990bebabf9926222fc3011b11e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "“谐音梗”流行引争议：抖音梳理 50 个高频词，倡导规范使用语言文字",
+    "url": "https://www.reddit.com/r/China_irl/comments/w6s0jq",
+    "id": "35b467887d09adf1d571",
+    "matchedHeadwords": [
+      "马内"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%92%A9%E5%A6%B9#Chinese",
@@ -16670,6 +17402,22 @@
       "聊骚"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e94177268d8f843178aee4fcb42e5a615ed7d50d3f662a521b6ae56b7914a3b7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "从巴恩风到浅春系，新趋势为何总能在小红书火起来？",
+    "url": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=30615248&from=kuaibao",
+    "id": "368db941de8ed0c93b9c",
+    "matchedHeadwords": [
+      "巴恩风",
+      "浅春系"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%9F%AE%E6%B2%B9#Chinese",
@@ -17178,6 +17926,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "06475f840160c02f1faa5b6df13b1144792d29b3e08c552978dd8a78170b4a7e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Bվ����2019��ȵ�Ļ ��������ôʱ������й���_�����",
+    "url": "https://tech.cnr.cn/techgd/20191204/t20191204_524884520.shtml",
+    "id": "37907bd45f162e2e4a52",
+    "matchedHeadwords": [
+      "名场面",
+      "泪目"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/jio#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -17340,6 +18104,21 @@
       "私了"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "7780e73b852a938921d4f397c7643f2db8453e5e03c49dd467b1257e575c1825",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "留美六年｜请问，你可以成为我的同胞吗？",
+    "url": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=2470549&from=kuaibao",
+    "id": "37ff56026856331edb6d",
+    "matchedHeadwords": [
+      "剩女"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/ggininder#Chinese",
@@ -17651,6 +18430,21 @@
       "損"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "631e7b3314244e94a125011beb8ef5f6dbcdcced8b0ace6ac69853fd8307b2b3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "上班摸鱼群招新～",
+    "url": "https://www.douban.com/group/topic/309164428/?_spm_id=MTg0NzI0MDYz",
+    "id": "38b81c2589495462f004",
+    "matchedHeadwords": [
+      "摸鱼"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%A6%B9%E7%B4%99#Chinese",
@@ -18739,6 +19533,25 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "720ca254a0f94c9b7ffc0862081983500a379d744b46e576b0ebd76f8566317b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "��ʽ�����ȴ�\"����\" \"no can no BB\"��������-������",
+    "url": "https://www.chinanews.com.cn/cul/2014/05-08/6148679.shtml",
+    "id": "3c34877054b6a2f3b30f",
+    "matchedHeadwords": [
+      "no can no BB",
+      "no zuo no die",
+      "you can you up",
+      "土豪",
+      "大妈"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%8B%94%E8%8D%89#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -18754,6 +19567,22 @@
       "拔草"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e43d997b5eeb54139cc7396fd4eb1fc8346932a0dba81226dcd69a3f135aef86",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "没有手印的陶罐：“AI感”作为一种症状_思想市场_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34023644",
+    "id": "3c420e5140d7fa565783",
+    "matchedHeadwords": [
+      "AI味",
+      "AI感"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%9B%AA%E8%8A%B1%E5%B1%8F#Chinese",
@@ -18858,6 +19687,21 @@
       "伐木累"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "69d430e2c07732565818643a1c775522e401bab4ba171b0ff72ffc0b05c8d0d6",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "黑哨言论，原来如此-步行街主干道-虎扑社区",
+    "url": "https://bbs.hupu.com/640675366.html",
+    "id": "3c98755539adf2fe0dd1",
+    "matchedHeadwords": [
+      "黑哨"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%80%99%E5%90%88%E5%85%92#Chinese",
@@ -18980,6 +19824,22 @@
       "欲火焚身"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d1f09d7f87b82a64ad15d160fd3cf8e91ab3ede9aeb60518c406c6f0587677b3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "#工作心得 某5。/。開頭服飾店惡意砍班/職場霸凌 - 工作 forum | Dcard",
+    "url": "https://www.dcard.tw/f/job/p/262227492",
+    "id": "3d0334f49995bbba0a0b",
+    "matchedHeadwords": [
+      "發脆",
+      "砍班"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%89%BE%E8%A3%9C#Chinese",
@@ -19180,6 +20040,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "40c696321e6012695927c705b4c67774d20b3fe361e87338cddf2dfcacf12571",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "AUBL决赛黑哨？波波卡5犯离场全复盘-CBA-上海大鲨鱼-虎扑社区",
+    "url": "https://bbs.hupu.com/641822419.html",
+    "id": "3dd478d9f72b7ba62443",
+    "matchedHeadwords": [
+      "黑哨"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E4%B8%80%E6%99%82%E5%8D%8A%E6%9C%83#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -19321,6 +20196,21 @@
       "硬"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ad00bd6913357e436b545c38fe480abb92414b0601356f2535867db42fd2a36f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "第三节末段，现场山东球迷不满裁判员的判罚喊起了“黑哨”-CBA-CBA专区-虎扑社区",
+    "url": "https://bbs.hupu.com/643060132.html",
+    "id": "3e665a8e304b53daf34e",
+    "matchedHeadwords": [
+      "黑哨"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/der#Chinese",
@@ -19574,6 +20464,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "77a953f3ee52cd3fc773090bb1331241cf7f753e1c6d6c4719744f497b0e2d6d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "红迪鹅组新手指南 ( v2 )",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/r6q37w",
+    "id": "3f386147dd202ccc59f8",
+    "matchedHeadwords": [
+      "浪语",
+      "红迪"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%9B%B7%E4%BA%BA#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -19711,6 +20617,21 @@
       "吹臺"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "dfbeb9acbdf4111dadb473b7689e14b9000f023534dad3ebea49c2c20a62b5e1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "辩论大赛之友情篇：好兄弟之间更应该直言不讳还是照顾情绪？-步行街主干道-虎扑社区",
+    "url": "https://bbs.hupu.com/641732792.html",
+    "id": "3fdb372847d18ae03555",
+    "matchedHeadwords": [
+      "亮"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%A1%91#Chinese",
@@ -20095,6 +21016,52 @@
       "開涮"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "dbe0485effe3c5dfda14e40617e3f76791bc3a435738243bc7244f0c48a7685f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "今天，你打工了吗！_澎湃号·媒体_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_9686051",
+    "id": "4124321f2e7cd058d611",
+    "matchedHeadwords": [
+      "尾款人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "bc076339425665da6bfa6d53545afa89e8559e39cbbf2925fd70c9eb45fcb384",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "想问一下大家，华人称呼外国人的俚语之演变和历史，哪一个是你最常用的？",
+    "url": "https://www.reddit.com/r/China_irl/comments/1krm7ll",
+    "id": "414af627bfd44ff368c1",
+    "matchedHeadwords": [
+      "红毛",
+      "鬼仔"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b7825f487c46be5b51ccdaeb150862170ecd7a728da7698826d3c26178838c99",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "U18女篮半场50-29菲律宾-CBA-CBA专区-虎扑社区",
+    "url": "https://bbs.hupu.com/642827161.html",
+    "id": "4155caf2f36971ee8511",
+    "matchedHeadwords": [
+      "打花"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B7%9D%E7%B2%89#Chinese",
@@ -21075,6 +22042,25 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2101a77dff94912a0f6b29e3cce4bdb0061e73d4a8343e5434deded56d210996",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "[国服] 活跃群聊长期收人，收留无组织萌新和回归人员，公益低保；欢迎各位活跃大佬加入 NGA玩家社区",
+    "url": "https://bbs.nga.cn/read.php?tid=47082458",
+    "id": "448ff9768aff5ec2cd13",
+    "matchedHeadwords": [
+      "低保",
+      "冲层",
+      "幻化",
+      "开荒",
+      "车队"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%82%AB#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -21090,6 +22076,25 @@
       "炫"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "40649237e3d7e577d7f6aa4616d7cc59ecba57ff2d7beaacf5d334727e5d8f3a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "[社群]北部交友群 - B4 comment | Dcard",
+    "url": "https://www.dcard.tw/f/talk/p/254053246/b/4",
+    "id": "449faba6e616d8e3a3e8",
+    "matchedHeadwords": [
+      "嗨群",
+      "小天使",
+      "新人聚",
+      "歪掉",
+      "開團"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%AA%BD%E5%AA%BD%E6%89%8B#Chinese",
@@ -21933,6 +22938,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "05a932e501913bf9d2a7deceb75bfdc554d5b70bd152bbeb756182b78b17acf5",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/iwanttorun/comments/1vzx5hj/%E5%87%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B1%82%E5%8A%A9%E6%B6%A6%E8%BF%98%E6%98%AF%E4%B8%8D%E6%B6%A6%E6%B6%A6%E5%93%AA%E9%87%8C%E5%A6%82%E4%BD%95%E6%B6%A6/",
+    "id": "46bf1e1ca01b252d316e",
+    "matchedHeadwords": [
+      "润友",
+      "牛马",
+      "老钟"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "attestationKind": "fetched-public-post",
     "checkedAt": "2026-10-27",
     "contentSha256": "f04d7fecc7935a07ef4f0ee205cd836239d58550bd03c73b193bb9fa3f5f1a02",
@@ -22602,6 +23624,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6e33d886515e0bdde52af820f3bf1edf85ce2fb6a252c8ccde5fb4047c49599f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "不用流行词，还能好好聊天吗？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_14392935",
+    "id": "48df093b7021c06a3ade",
+    "matchedHeadwords": [
+      "沉浸式"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%99%B0%E9%99%BD%E4%BA%BA#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -22827,6 +23864,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "0fea05384d6014639fab89108d92bb7760b1191279a9442270a5ba41afb35563",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "才知道ABC称呼是非常offended啊",
+    "url": "https://huaren.us/showtopic.html?topicid=1432683",
+    "id": "49d837b4464c1430a977",
+    "matchedHeadwords": [
+      "FOB"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%9F%AF%E6%83%85#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -22909,6 +23961,22 @@
       "傻B",
       "傻比",
       "傻逼"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "62d5fcc21286104fc833e62389d19e9463de1719b47cd966463bce45078a3075",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "给蹲蛆和穷傻逼们一点润学建议，希望大家都有美好的未来",
+    "url": "https://www.reddit.com/r/iwanttorun/comments/1keakch",
+    "id": "4a218587ab24503ae28e",
+    "matchedHeadwords": [
+      "富蛆",
+      "穷蛆"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -23124,6 +24192,24 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "122af57ede792fb7b40ed84bd5fe0572e341dc73b3d2f76a36ffb5c2e2e4bc75",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "为什么zqsg“吃瓜”变得越来越难了？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_4285323",
+    "id": "4ac678e364eed0d4cb20",
+    "matchedHeadwords": [
+      "nbcs",
+      "倒贴",
+      "李涛",
+      "蒸煮"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%8E%96IP#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -23211,6 +24297,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "098e8c985c0149b6b59a44c23f39e4ddce4cad16bf1fc3bbc068931ba8d2324d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "八组奇文共赏，这是学了点词汇就开始乱用吗？",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/tr0bn4",
+    "id": "4af6dce4962023650b6c",
+    "matchedHeadwords": [
+      "今日份无语",
+      "信息茧房",
+      "网评员"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%B0%AA%E9%87%91#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -23226,6 +24329,21 @@
       "氪金"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "907c15a7ba5d5c8b355eb93d8f42dc9fdb3bd5de58032686acfa7fb9960849f1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "【网络民议】“关键是我们想好好说话您不让啊”",
+    "url": "https://www.reddit.com/r/LiberalGooseGroup/comments/1g466ka",
+    "id": "4b12c52678f4deb36d77",
+    "matchedHeadwords": [
+      "烂梗"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%89%93%E5%98%9F%E5%9A%95#Chinese",
@@ -23668,6 +24786,27 @@
       "♂"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "471cebd26a58a5cfe8e1ec4b94c1343ad60a93cde6afb32067c5c1588a603f9a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "独家 | 没有“低人一等”却是世界唯一　大马华语“正名”了！ - 国内 - 全国综合",
+    "url": "https://www.sinchew.com.my/news/20240103/nation/5240198",
+    "id": "4ccc8a51ba48c30dcc8d",
+    "matchedHeadwords": [
+      "冬瓜豆腐",
+      "割水割电",
+      "卜基",
+      "巴刹",
+      "捞世界",
+      "酱紫",
+      "阴功"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%8B%97%E5%90%83%E5%B1%8E#Chinese",
@@ -24656,6 +25795,28 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "712617f206514691ef37c4d6df9f4641c136a10774dc3000e659defbbe649813",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "反讽型流行语：从解构到行动的距离\n_光明网",
+    "url": "https://wenyi.gmw.cn/2026-10/14/content_39045470.htm",
+    "id": "4fa0f93e8d13ca5a8685",
+    "matchedHeadwords": [
+      "人工智障",
+      "典中典",
+      "听我说谢谢你",
+      "夺笋",
+      "小镇做题家",
+      "牛马",
+      "致郁",
+      "赢麻了"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%A3%9C%E6%AA%94#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -24743,6 +25904,21 @@
       "钉牌"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2b89c072f2a76d6358630d01f8075f5d0e568c78e8410ff8e2dde04c8e4fb67c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "女生的聊天记录里，为什么骚话那么多？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_9812729",
+    "id": "4ff9448b7f962612d9f5",
+    "matchedHeadwords": [
+      "好色"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%9B%BA%E7%82%AE#Chinese",
@@ -25006,6 +26182,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "695b26a05c63dc175a9c34a44a665cffa1ba9135bb9bcec6a6ef3dd2d62fe601",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "語法問題 為什麼現在常見括號不括完",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/18aezn2",
+    "id": "5080a8a52d5b8fe2bf34",
+    "matchedHeadwords": [
+      "哈日"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%99%BA%E5%95%86%E6%8D%89%E9%9B%9E#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -25041,6 +26232,26 @@
       "真格"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "034530ac9ba85d0a44ea3348d8c04527262b80777e35908046287182dc24bbe2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "小红书上的“尊者”-虎嗅网",
+    "url": "https://www.huxiu.com/article/2909135.html",
+    "id": "50899f8b1e619ce26e74",
+    "matchedHeadwords": [
+      "割韭菜",
+      "显化",
+      "疗愈师",
+      "身心灵",
+      "颂钵",
+      "魔法蜡烛"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%89%9B%E5%B1%84%E5%93%84%E5%93%84#Chinese",
@@ -25179,6 +26390,23 @@
       "同婚"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2e1efb134f72815a87c12fc76fbf6b1a578e607bd424a073a628e2389110e5a0",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/4148788/page/1",
+    "id": "5157db2682c71b48955a",
+    "matchedHeadwords": [
+      "Jeng",
+      "盞鬼",
+      "綠帽"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%87%BA%E6%AF%9B%E7%97%85#Chinese",
@@ -25899,6 +27127,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "cc9bba91ff19ee2157a64e4cbd309f86b107865c65f12d572c65eea8cab65756",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "話說阿姨到底貢獻了多少鑒證圈黑話？",
+    "url": "https://www.reddit.com/r/real_China_irl/comments/1f0tf2c",
+    "id": "537e2e8c2922b10ed1f0",
+    "matchedHeadwords": [
+      "黑屁"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "attestationKind": "search-excerpt",
     "checkedAt": "2026-10-27",
     "contentSha256": "8f3ea55568d51fc282ceeb409a4b2f2bef1b17f5ac8fee7159ee27eb4fc2e980",
@@ -26018,6 +27261,25 @@
       "福瑞控"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "addd08393114ebfadc967055d682a98444c2aa1b892622076d8407025ed9bde1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "盘点2016网络热词 你还记得几个？-中国新闻网",
+    "url": "https://www.chinanews.com.cn/m/cul/2016/12-30/8109610.shtml",
+    "id": "53fd04fc38d9f424e379",
+    "matchedHeadwords": [
+      "A4腰",
+      "你咋不上天呢",
+      "厉害了我的哥",
+      "感觉身体被掏空",
+      "我竟无言以对"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E3%84%9F#Chinese",
@@ -26246,6 +27508,24 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "37d0bd164076f266a53e48ee278e6ad3225f39b2cda7213307061450933275e2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "吃饭旅游看展考研……年轻人怎就迷上了“搭子社交”？",
+    "url": "http://sc.people.com.cn/n2/2023/1104/c345167-40628248.html",
+    "id": "551b366571c0ed0215c6",
+    "matchedHeadwords": [
+      "学习搭子",
+      "搭子",
+      "搭子社交",
+      "旅游搭子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%85%AB%E8%BC%A9%E5%AD%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -26280,6 +27560,24 @@
       "月经"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6715d4cd0dd0d699a61c1927a05dce438d2e5be9ef8d07a604179a243af5cdde",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "饭圈，到底是个什么圈？_一问三知_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_11379741",
+    "id": "552bde33e77995faa153",
+    "matchedHeadwords": [
+      "nbcs",
+      "拉踩",
+      "李涛",
+      "蒸煮"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%B4%BB%E5%A1%9E%E9%81%8B%E5%8B%95#Chinese",
@@ -26671,6 +27969,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "beefb80049580346653e2d82e41c2c3bc65fd38ea0f2867d12ba5c2461e4a847",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "鸡婆的前身是牙婆 | 联合早报",
+    "url": "https://www.zaobao.com.sg/zlifestyle/culture/story20180823-885246",
+    "id": "565d8494c040aa7fbb94",
+    "matchedHeadwords": [
+      "牙婆"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E4%B9%83%E5%80%91#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -26742,6 +28055,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8c8758c9e322869de0bc5ad51f9ad5b554a5ed65a7f461e9f8d6b0830b9f4cf3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "从抖音到小红书，“县城美学”的两种面孔_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27451126",
+    "id": "56a98491ecfa0a4e08ba",
+    "matchedHeadwords": [
+      "县城文学"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%A6%AA%E5%85%92%E5%AD%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -26775,6 +28103,22 @@
       "蛇精病"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "00b03a8c0bf36b3ac5a2646c9d6015b060e69b8801155712265557b4db958718",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�����ձ������ھ�������ļ�ǿ����һ����٩ʢ��--�۵�--������ ",
+    "url": "http://opinion.people.com.cn/n/2014/1015/c1003-25838828.html",
+    "id": "56cff779fd11b9bd221a",
+    "matchedHeadwords": [
+      "你懂的",
+      "挖掘机技术哪家强"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "attestationKind": "search-excerpt",
@@ -27038,6 +28382,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "dcdceda50d78721db7ab4aafa16dcc1176a2df76ed9c5f3f5c1dae087037fa68",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "下班后的单身男女，集体备战奥运_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_33391286",
+    "id": "57969b542df71734583f",
+    "matchedHeadwords": [
+      "备战奥运"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%90%8E%E9%87%8C%E8%9F%B9#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -27262,6 +28621,22 @@
       "J"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6f8c9078f60f852340ba88de5c6b9b5fda268075c33e2070c042923c3920b4b4",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "小测试：翻墙后，正常的使用中国字，用正常的文法句子，你能坚持多久？",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/s1iy0o",
+    "id": "5810c8776441acbd592b",
+    "matchedHeadwords": [
+      "类饭圈",
+      "速朽"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B0%84%E7%88%86#Chinese",
@@ -27822,6 +29197,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9ee3d1e21760ddb1764ee9f48496946493ca86850211a7f11f8d3855d708e04b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "第一次见“性商” 🤯",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/wl7zxq",
+    "id": "599dc6131761ea041f2c",
+    "matchedHeadwords": [
+      "性商"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%BB%91%E9%BC%A0%E6%89%8B#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -28135,6 +29525,25 @@
       "神经病"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "4f3a136a88242f58f9956b87d0d905ae0a6cc2c0fb13e75e316ca98c7c7e3a31",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/1wncfjq/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%92%A8%E8%A9%A2%E5%8F%B0%E7%81%A3%E9%A7%A1%E4%BA%BA%E9%AB%92%E8%A9%B1%E6%9C%89%E4%BB%80%E9%BA%BD%E6%AF%94%E8%BC%83%E7%A8%AE%E7%9A%84%E5%97%8E/",
+    "id": "5a86058a1beb4f30600b",
+    "matchedHeadwords": [
+      "咖小",
+      "撿角",
+      "機車",
+      "爛咖",
+      "跤數"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%8A%B1%E7%AA%A9#Chinese",
@@ -28465,6 +29874,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "58c06ddf10826a9881881a85fe5e34efd5697ac6e36e051a44560d7cf920183f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/4088697/page/4",
+    "id": "5b98aeb3de5a90768e50",
+    "matchedHeadwords": [
+      "OL",
+      "師奶"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%8B%A6%E5%B1%84#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -28742,6 +30167,23 @@
   {
     "attestationKind": "fetched-page",
     "checkedAt": "2026-10-27",
+    "contentSha256": "4359a88afc33b0998aadf75a82e405cc72ac90ec8fbc58076b5e03ce645d78b7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "谁在小红书直播间“赛博相亲”？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27491642",
+    "id": "5c874015e73216aa92cc",
+    "matchedHeadwords": [
+      "断亲",
+      "社交卡顿",
+      "赛博相亲"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
     "contentSha256": "9d8bd7d72ddae35f8a8580be0fb8d77fc4b5077e81264c375e9871c7bf773bc1",
     "literalMentionConfirmed": true,
     "pageStatus": "fetched",
@@ -28754,6 +30196,22 @@
       "世一",
       "大癲",
       "老best"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "16a3754c2693e9a919f869b134bbc2c98588ff665cb220d9ce50691573f52564",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2010�����С������ȴʡ����——������",
+    "url": "http://www.chinanews.com.cn/cul/2010/11-24/2677067.shtml",
+    "id": "5ca07e03606852afe833",
+    "matchedHeadwords": [
+      "围脖",
+      "给力"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -28795,6 +30253,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "a47fe9a1c0630f5fab74af2bee28a77e472946f6e545d20202eda84d49b187c3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "有些片假名用的确实抽象",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1h3usm2",
+    "id": "5cca3752bcdd3a382670",
+    "matchedHeadwords": [
+      "毕业"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%80%8B%E9%96%AA#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -28829,6 +30302,21 @@
       "大马哈"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6ca72e8c05178d726b550e4bf70772ca79c44796cd789b11e7532f6de85c3179",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "一些叙事的总结",
+    "url": "https://www.reddit.com/r/China_irl/comments/1o7voi7",
+    "id": "5cdabc0dd1678e9f1c67",
+    "matchedHeadwords": [
+      "唱空"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%AE%BA%E8%B1%AC%E7%9B%A4#Chinese",
@@ -28989,6 +30477,22 @@
       "G片"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "24be5c25124434570667cb856f3a6b7bd65053abd28983fc2fac1df6d69b389b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "���ϻ���ѧ����������ѧ������Ϊʲô���ϲ�������úý�������_����Ƶ��_�й�������",
+    "url": "https://news.youth.cn/jsxw/202109/t20210925_13236679.htm",
+    "id": "5d3aec0017ecbd6d4a8a",
+    "matchedHeadwords": [
+      "发疯文学",
+      "废话文学"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%98%BF%E4%BC%AF#Chinese",
@@ -29183,6 +30687,23 @@
       "填坑"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "41f8d2bea025188ae11e4eb3c82eb5037980463a66f25b011f8c7621be1c785c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "动作解锁，健身人的健身动力-虎嗅网",
+    "url": "https://www.huxiu.com/article/4518803.html",
+    "id": "5df56140b4dc1280781c",
+    "matchedHeadwords": [
+      "社交货币",
+      "解锁",
+      "试试就逝世"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E8%80%81%E5%9C%9F#Chinese",
@@ -29750,6 +31271,26 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "164725b361427aa98e7f0bf9fb085c221a2636d7186f535b4f449c24bb7ac8f0",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "年轻人开始流行“精致省”-虎嗅网",
+    "url": "https://www.huxiu.com/article/1878446.html",
+    "id": "5faf16e8716af004381f",
+    "matchedHeadwords": [
+      "剩菜盲盒",
+      "捡漏",
+      "穷饱族",
+      "精致省",
+      "精致穷",
+      "薅羊毛"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%B0%8F%E5%AA%B3%E5%A9%A6#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -29973,6 +31514,22 @@
       "奧特萊斯"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c0f2b2b22ebdb771b7a49545bbb9687c850bd6f1c8ca83594efae9fbb0e55a05",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "HYROX爆火：当健身成为另一场绩效竞赛-虎嗅网",
+    "url": "https://www.huxiu.com/article/4898456.html",
+    "id": "60594edf1e57af450869",
+    "matchedHeadwords": [
+      "破圈",
+      "社交货币"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%A5%BD%E8%AA%AA#Chinese",
@@ -30330,6 +31887,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "352ce20b88e702f480a9f806acfe2b52ced42310b4a817e3d29a513e501c0c4b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "40岁老登，在纠结要不要离婚，想听听JRS的意见-恋爱区-虎扑社区",
+    "url": "https://bbs.hupu.com/639801448.html",
+    "id": "617be50962ca7e6653ec",
+    "matchedHeadwords": [
+      "JRs"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "attestationKind": "fetched-page",
     "checkedAt": "2026-10-27",
     "contentSha256": "cb8a3c885ccc4ee07f74be6531b99b010766fa8ceb9af20c6780f900055adcbf",
@@ -30377,6 +31949,22 @@
       "丈育"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "1d84c9c5f3334f2e802ff9263eb78669a75a390350b8ef6167e25f55a8496fdc",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "“00后疯感工牌”冲上热搜：不是整顿职场而是情绪表达_澎湃号·媒体_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_28070117",
+    "id": "61a54ff5ad267cd03701",
+    "matchedHeadwords": [
+      "整顿职场",
+      "疯感工牌"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%B0%A3%E9%A0%AD%E4%B8%8A#Chinese",
@@ -30517,6 +32105,22 @@
       "小盆友"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2028e4c7f2479fbaadfc367d4544f609c2f59e34635079c421c73ddd05192fe6",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "城市漫游，长沙年轻人的新时尚_澎湃号·政务_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_23736667",
+    "id": "6228a934c81e4595570a",
+    "matchedHeadwords": [
+      "Citywalk",
+      "城市漫游"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/MM#Chinese",
@@ -31065,6 +32669,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "26fd8dbc0263630142f5937888636539158731b46970ecd00b301a0157f8d3d1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "简中社区有哪些被当做事实的谣言",
+    "url": "https://www.reddit.com/r/LiberalGooseGroup/comments/z0u4ce",
+    "id": "63f940885b40e676cf86",
+    "matchedHeadwords": [
+      "挂",
+      "简中",
+      "阴阳怪气"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%9F%AC%E5%AD%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -31133,6 +32754,25 @@
       "视频"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "3b41a052b2017f7fe859f1d047948172203e7ed5b8fd29c40b2ce4f3c20233f4",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�����ȴʵ��� ������������������ѹ��——������",
+    "url": "http://www.chinanews.com.cn/cj/2010/11-11/2650167.shtml",
+    "id": "643791733611fad3091c",
+    "matchedHeadwords": [
+      "姜你军",
+      "煤超疯",
+      "糖高宗",
+      "蒜你狠",
+      "豆你玩"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%95%A4%E9%85%92%E7%87%92%E7%83%A4#Chinese",
@@ -31803,6 +33443,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d80c1473b42c59775553f714faf2d3ea5fc42553ea3ecef9f89d43487546d866",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�̵�2014��ʮ������������--����Ƶ��_Ȩ��ȫ�汨������--������ ",
+    "url": "http://travel.people.com.cn/n/2014/1211/c41570-26188045.html",
+    "id": "66ea015b6fce63203641",
+    "matchedHeadwords": [
+      "且行且珍惜",
+      "我也是醉了",
+      "画面太美我不敢看"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%8D%B5%E7%9B%A4%E6%88%B0%E5%A3%AB#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -31955,6 +33612,21 @@
       "狗日"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2bc7a279a2f8c6c1d0acf5e6157fc99ee00b16937dba0f2c1beae7195237a44f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "[流言板]西蒙斯：我就投出个三不沾，记者就把它发出来让其火遍全网-NBA新闻-虎扑社区",
+    "url": "https://bbs.hupu.com/642713375.html",
+    "id": "67adc4c71911feb5989e",
+    "matchedHeadwords": [
+      "三不沾"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "attestationKind": "search-excerpt",
@@ -32166,6 +33838,21 @@
       "孝子"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f09d74b37bc555c4f4808bf753af6d3c3bb7f1c8a8f6e18c04cd93916592be3b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "长期高频率“玩梗” 会导致语言贫乏吗？-中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/09-28/10704714.shtml",
+    "id": "6878bb638353c70e8adf",
+    "matchedHeadwords": [
+      "夯爆了"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%9F%B7%E5%8A%91#Chinese",
@@ -32704,6 +34391,21 @@
       "C服"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "bd0410bcbffc14c185b04808e639063946a115cfa79cc9679fe7acbce6031f92",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "iwanttorun这sub怎么就1w3了？1月时还是4、5k人",
+    "url": "https://www.reddit.com/r/CLTV/comments/uveboa",
+    "id": "6a3f1bd12a57ceb16e99",
+    "matchedHeadwords": [
+      "太监"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%AD%BD%E6%BD%B2#Chinese",
@@ -33275,6 +34977,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c99d39c439141b1801066fbb35e40e55ec6120cc67f7c33302470fefc95ed9f3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "[渣技术科普] 战舰少女R常用黑话指南2024版 NGA玩家社区",
+    "url": "https://bbs.nga.cn/read.php?tid=18759747",
+    "id": "6bdc8ed519344a3c5cb9",
+    "matchedHeadwords": [
+      "你游",
+      "卫星",
+      "咸鱼"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%B4%A8%E6%A2%A8#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -33568,6 +35287,21 @@
       "世界观"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e836ff042f238f9e01cc3182c74618852016b22e961468ff81c56140705c2262",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "解密\"飯圈黑話\" 別為流量破底線--傳媒--人民網 ",
+    "url": "http://media.people.com.cn/BIG5/n1/2019/1229/c40606-31527170.html",
+    "id": "6cb60f219a2277d26b21",
+    "matchedHeadwords": [
+      "拉踩"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%8E%A8%E6%96%87#Chinese",
@@ -34020,6 +35754,23 @@
       "拉清單"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "56acf1d4f609e87fde7aa0bb844cc07af64f87f120436b3a790c0bdf850b8278",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "突然爆火的“小猫文学”，戳中了谁_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_20382211",
+    "id": "6dd9c13660c78011317b",
+    "matchedHeadwords": [
+      "喵星球",
+      "小猫文学",
+      "铲屎官"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B0%8F%E5%85%A9%E5%8F%A3#Chinese",
@@ -34747,14 +36498,15 @@
   {
     "attestationKind": "search-excerpt",
     "checkedAt": "2026-10-27",
-    "contentSha256": "fdde29ab4d18746303a9838875e1647ab069bc77719abcc5557b10adcf615711",
+    "contentSha256": "c8cd4a64ec8042d0bdaafc33637fd77fad3c3c3aca3625c4918b951887f55f57",
     "literalMentionConfirmed": true,
     "pageStatus": "unavailable",
     "title": "香蕉人 - 学海 - 后浪坊",
     "url": "https://www.sinchew.com.my/news/20260904/%e5%ad%a6%e6%b5%b7/7814689",
     "id": "703e29b55612a5a778ef",
     "matchedHeadwords": [
-      "Walao"
+      "Walao",
+      "rojak语"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -35089,6 +36841,23 @@
       "你老母"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ab0adc1a3fb081da5d16681f5001600a37693e791a4272e1fb1244dd6003788a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "确诊了！是“微信文字讨好症”_南方+_南方plus",
+    "url": "https://www.nfnews.com/content/VoQLwzd065.html",
+    "id": "70eca18a2c4f4828e452",
+    "matchedHeadwords": [
+      "宝宝",
+      "文字讨好症",
+      "语言通货膨胀"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%98%A6%E8%BA%AB#Chinese",
@@ -36197,6 +37966,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2703b0b92c57691336367c97f8174872c60a21b6b8b1b50a24d4b5bb650f097a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "发明黑话、能从读懂黑话、传播黑梗中获得极大乐趣，是简中独有的趣味吗？",
+    "url": "https://www.reddit.com/r/China_irl/comments/ws019p",
+    "id": "75cfbd62e2b0b771ad78",
+    "matchedHeadwords": [
+      "梗",
+      "阴阳怪气"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%A9%A9#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -36230,6 +38015,29 @@
       "推普機"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "66ffdfef7991f7f0f8d18a1dc847b14729d52274d1c17e2731fba89410b33980",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "笑死我勒，顶级英译沪，弄懂伐？上海滴进来",
+    "url": "https://huaren.us/showtopic.html?topicid=813391",
+    "id": "75ff2181f5f32f217ab7",
+    "matchedHeadwords": [
+      "一天世界",
+      "五骇六肿",
+      "伐开心",
+      "册那",
+      "好白相",
+      "拆烂污",
+      "横竖横",
+      "狗皮倒灶",
+      "西格格"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/G#Chinese",
@@ -37064,6 +38872,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "3bf62988224e8fb9376cb29f65f8bf182ab14d7a60347f158f99388be3595156",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "最近簡中內容大增並伴隨中國網路粗俗用語入侵",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/1gnxj0l",
+    "id": "79262766e2e3919a10cc",
+    "matchedHeadwords": [
+      "簡中",
+      "脫汁"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%82%BB%E5%A4%A7%E9%BB%91%E7%B2%97#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -37079,6 +38903,22 @@
       "傻大黑粗"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "95970c099ad654cf3a086f543ad625e6fcd89821fe1be26d6fa9a8945e8ba3a1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "是00後整頓職場，還是00前的我們太奴？ - 閒聊 forum | Dcard",
+    "url": "https://www.dcard.tw/f/talk/p/260639498",
+    "id": "794296506f3e92b13799",
+    "matchedHeadwords": [
+      "卡友",
+      "洗臉"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%8E%84%E4%B9%8E#Chinese",
@@ -37160,8 +39000,16 @@
     "url": "https://www.dolc.de/thread-1226812-1-1.html",
     "id": "796ca4511fc07f6fa665",
     "matchedHeadwords": [
+      "Democrazy",
+      "Togayther",
+      "antizen",
+      "ballache",
       "eggache",
-      "niubility"
+      "niubility",
+      "propoorty",
+      "shitizen",
+      "suihide",
+      "vegeteal"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -37568,6 +39416,24 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ea569183320b17ec2f0229a40f8b5ea003fce70318eb928edf235abfba24f111",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Citywalk爆火的天时地利人和_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_23980179",
+    "id": "7adf7eba6e4d21c0d8a5",
+    "matchedHeadwords": [
+      "Citywalk",
+      "街溜子",
+      "轧马路",
+      "遛弯儿"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%82%AA%E4%B9%8E#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -37583,6 +39449,22 @@
       "邪乎"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c75fa6c6d3833ca73c41cbba0d584070df7331548e8a59d95f03465a4456c1c2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2024宠物行业洞察报告_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27147603",
+    "id": "7aebe52995052b878ae1",
+    "matchedHeadwords": [
+      "猫狗双全",
+      "铲屎官"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B9%AB%E6%8B%96#Chinese",
@@ -37974,6 +39856,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "eba481f9abcc754ef54b33615de85de106f1a9d82f33a290df12cdcb27f87860",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "兴国特色二次元用词，能全看懂的这辈子有了",
+    "url": "https://www.reddit.com/r/real_China_irl/comments/1e7s5qf",
+    "id": "7bc9591821e7e96c9c2e",
+    "matchedHeadwords": [
+      "吃谷",
+      "周边",
+      "我推"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/down#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -38007,6 +39906,23 @@
       "蝗语"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "091668f6f09bf101a61c8a4ea1fdd3e9131a82c7c9efe9a750d89a3b8822c2bf",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "“十大网络流行语”公布：显眼包、特种兵旅游等入选_文化课_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_25584310",
+    "id": "7bf3c8d52e3e9e865ca4",
+    "matchedHeadwords": [
+      "你人还怪好的嘞",
+      "特种兵旅游",
+      "遥遥领先"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%B2%92%E6%9C%89%E4%B9%8B%E4%B8%80#Chinese",
@@ -39196,6 +41112,21 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6b3d039286b481fa9e812c69b33426e304746058bfea8761d3dc7d2eacae51ed",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�й���Ů�������Ա���������ôʣ�ʣŮ����������_����Ƶ��_�й�������",
+    "url": "http://news.youth.cn/gn/201708/t20170823_10573951.htm",
+    "id": "7fd4219d41a0f55c8050",
+    "matchedHeadwords": [
+      "剩女"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%88%80#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -39280,6 +41211,25 @@
       "眼白"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e601a59fa2c76f26201fa952030edb40f240bdfa177ccbd2b7afe0fb921c0261",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "盘它、上头是啥意思？又出来一个网络流行语榜单_文化课_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_5127080",
+    "id": "800cd069da9f7c41ff5b",
+    "matchedHeadwords": [
+      "996",
+      "咱也不知道，咱也不敢问",
+      "宝藏XX",
+      "我太难了",
+      "我酸了"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%B5%95%E5%B0%8D%E9%A0%98%E5%9F%9F#Chinese",
@@ -39405,6 +41355,24 @@
       "鑿𡳞"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9b36bca8edde6e456e665bc3f4f6401bc2d4b5ea9f498beb726c60efb23acb4a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/LiberalGooseGroup/comments/1twmsan/%E5%95%8F%E9%A1%8C_%E8%AB%8B%E6%95%99%E4%B8%80%E4%BA%9B%E8%A9%9E%E5%BD%99%E6%88%96%E5%8F%A5%E5%AD%90%E7%9A%84%E5%90%AB%E6%84%8F/",
+    "id": "805c9d501e39b2d412ac",
+    "matchedHeadwords": [
+      "浪友",
+      "献忠",
+      "盐碱地",
+      "膜蛤"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%85%AB%E8%B2%A8#Chinese",
@@ -40466,6 +42434,26 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "49de26e8b8198b437fdf5b73dc3693377a7218e36810f3eebc476fd7a4ccb9ca",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2020年十大流行语公布！“打工人”“凡尔赛文学”上榜_澎湃号·政务_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_10266691",
+    "id": "8381d757d7c8c1b0840a",
+    "matchedHeadwords": [
+      "凡尔赛文学",
+      "后浪",
+      "直播带货",
+      "神兽",
+      "逆行者",
+      "飒"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%9A%84#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -40709,6 +42697,7 @@
       "很闲",
       "按钱",
       "漏风",
+      "西北",
       "要饭",
       "还钱"
     ],
@@ -41101,6 +43090,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "3211a3a7045f607656a49788eec1318357a54d03683e3cfdaf67100aaf5beab7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "【《欧洲变种小词典》】萍聚社区-德国热线-德国实用信息网芊芊茜茜 -  Powered by Discuz!",
+    "url": "https://www.dolc.de/thread-191779-1-1.html",
+    "id": "85764db0368c01e5273f",
+    "matchedHeadwords": [
+      "汤耗子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%8F%B8%E5%85%9C#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -41310,6 +43314,22 @@
       "對胃口"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "23e4ea05ac4ba80379e22b302d756916cf741947030afbc416d6944b9901cba3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "无语再见五脚基 恁人跮踱佗落 | 联合早报",
+    "url": "https://www.zaobao.com.sg/lifestyle/history-heritage/story20210527-1149703",
+    "id": "86748ffead7d1be61862",
+    "matchedHeadwords": [
+      "十二支",
+      "香蕉脚"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%89%8D%E5%BE%8C%E8%85%B3#Chinese",
@@ -41714,6 +43734,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "63243cac0495288e80dd814018ce6a3dd236f36be7aac0c8d4fc2ca1a871c959",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "雨女无瓜、要你寡、是个狼灭……这都是些什么梗？_新闻频道_央视网(cctv.com)",
+    "url": "https://news.cctv.com/2019/06/08/ARTIm6gzINt0A6EINrCWHg45190608.shtml",
+    "id": "87fb04caf79d91bea3ee",
+    "matchedHeadwords": [
+      "是个狼人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%99%BD%E7%B2%89#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -41850,6 +43885,29 @@
       "奸爸爹"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d92d74423a3f31abec54a8c25c6efcc2db56c4518549c2ca7fff675e874afa38",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "两份“十大网络流行语”同日发布，却只有一条重合_文化课_澎湃新闻-The Paper",
+    "url": "https://thepaper.cn/newsDetail_forward_32162065",
+    "id": "884d6171875825e0b900",
+    "matchedHeadwords": [
+      "主理人",
+      "做完你的做你的",
+      "当个事儿办",
+      "拼好×",
+      "灵珠",
+      "误闯天家",
+      "邪修",
+      "高雅人士",
+      "魔丸"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%90%B6%E7%9C%BC#Chinese",
@@ -42081,6 +44139,22 @@
       "曹縣"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6b604ff8a6f834b5ac48b54f610a27681a47daec878036d219ffdd8dc10090e5",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "“寒门贵子不该被嘲讽”上热搜，众多网友为小镇做题家正名_舆论场_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_19000040?commTag=true",
+    "id": "88f1c048529acf1e6256",
+    "matchedHeadwords": [
+      "寒门贵子",
+      "小镇做题家"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%9B%99%E9%96%83#Chinese",
@@ -42329,6 +44403,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "41dcdbbb0665edeabb4f997237470dd91e25d536bc5b5998deeb7695584e64cb",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "个人建议，在这个频道能不能尽量不使用黑话？试试找回有话直说的感觉",
+    "url": "https://www.reddit.com/r/China_irl/comments/wx5wr5",
+    "id": "8a00791abe3f17550e8b",
+    "matchedHeadwords": [
+      "晶哥",
+      "缩写"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E4%B8%AD%E4%BC%8F#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -42535,6 +44625,21 @@
   {
     "attestationKind": "search-excerpt",
     "checkedAt": "2026-10-27",
+    "contentSha256": "7f822cfe4f0b5129178a6bef3c1a8565e7807b400610ecea3b4d0ffcc7012251",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "弹幕游戏直播，网友被忽悠“上头”！",
+    "url": "https://www.thepaper.cn/newsDetail_forward_27371136",
+    "id": "8a9850be3044d60c6f4a",
+    "matchedHeadwords": [
+      "扣1"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
     "contentSha256": "3733678ed8cfe5d0365ee72a22e568c1813dc3cd0dff6402e68d655c9a55b4a6",
     "literalMentionConfirmed": true,
     "pageStatus": "fetched",
@@ -42598,6 +44703,23 @@
       "工具人"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c79a776de180d318877abbdc8fe7298469f83366974b8ef02f7b4f7a1757dd7d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "对老板向上管理的心得",
+    "url": "https://www.douban.com/group/topic/214376605/?_spm_id=MTUwMTQ2OTQ",
+    "id": "8af02aa57a948460b50d",
+    "matchedHeadwords": [
+      "向上管理",
+      "打工人",
+      "社畜"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%8B%89%E8%82%9A%E5%AD%90#Chinese",
@@ -43147,6 +45269,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "47dd24b1b2cdea9ed9c2f1b1e46075e2146ed220001b07a1fc932fb4f0cf7894",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�ѱ���͵�к��ء��Ⲩ�������������ȴʽ���Ӫ�������ʹ�ã�_�����",
+    "url": "https://military.cnr.cn/nrjx/20261011/t20261011_527838771.shtml",
+    "id": "8c4a2cc757b2f6b61cda",
+    "matchedHeadwords": [
+      "夯爆了"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/yysyqs#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -43250,6 +45387,21 @@
       "發卡"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f2e9f1bce41a41120ae6d616f753deb85c06014cebc606054785eb3f9a8349e0",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/4122566/page/1",
+    "id": "8c963b591654ae00ee22",
+    "matchedHeadwords": [
+      "痴鳩線"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E8%87%AD%E6%A0%BC#Chinese",
@@ -43778,6 +45930,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8836d91c387f59e8af9fc78c8971eaae59c1af92c5ee525b8e1cb9d7b0113809",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "这四个字，是解锁淘宝奇葩商品的密码_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_8488333?from=",
+    "id": "8de1680c7997dce86600",
+    "matchedHeadwords": [
+      "淘宝启动"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "attestationKind": "search-excerpt",
     "checkedAt": "2026-10-27",
     "contentSha256": "9b56a6acdcb27eb620b5ee1ad870ad67964c70131b6fc31e8bd946b39c1e309e",
@@ -44258,6 +46425,7 @@
       "0尊",
       "KAM",
       "MM7",
+      "SLDPK",
       "伏",
       "佛系",
       "大癲",
@@ -44787,6 +46955,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "05439500678dad0a87237156b9ad5e07c3f35ec8ac3c8d0f72f8db645512f925",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "让微博和豆瓣沦陷的丫头文学，到底有什么魔力？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://thepaper.cn/newsDetail_forward_12304048",
+    "id": "91136dd070a84f8855b9",
+    "matchedHeadwords": [
+      "丫头文学"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%BC%A0#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -44855,6 +47038,22 @@
       "八爪鱼"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f0491b9a13d9532d96ab31b6722b64c2bda68800d6b3a9c1a31f0b1e40a30a28",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "求各位佬指点",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/12lnq5q",
+    "id": "913245004014fb5c7d98",
+    "matchedHeadwords": [
+      "潜规则",
+      "阴阳怪气"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B1%81%E8%82%A1%E7%9C%BC#Chinese",
@@ -45029,6 +47228,22 @@
       "無馬"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e8d593fa2e5e447b15c90717d88165283ce0a458dbf15a3511de2a204828e533",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "懂的都懂",
+    "url": "https://www.reddit.com/r/China_irl/comments/qfc28g",
+    "id": "9206f7938fcef1a81f15",
+    "matchedHeadwords": [
+      "听君一席话，如听一席话",
+      "懂的都懂"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%97%93%E5%AD%90%E7%9C%BC#Chinese",
@@ -45381,6 +47596,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "bea592ff869281100b41a5623464e0873e01d26383657b272f054fe5036457eb",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�����ҳ������������ߺ� ���ѷ��Ӵ���������--��ý--������ ",
+    "url": "http://media.people.com.cn/n/2013/0918/c40606-22957506.html",
+    "id": "92de63566aed35262357",
+    "matchedHeadwords": [
+      "待我长发及腰"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%8F%8A%E8%8A%B1#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -45587,6 +47817,23 @@
       "纸飞机"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "0548bac197691f5208962201f208962f3c5bd1ade277a4e2c371aff9952179e8",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "现在程序员找工作，都用什么渠道？ - V2EX",
+    "url": "https://www.v2ex.com/t/1244593",
+    "id": "934fad5cad71aecbfa68",
+    "matchedHeadwords": [
+      "僵尸岗位",
+      "内推",
+      "外包"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%BE%B7%E5%9C%8B%E9%AA%A8%E7%A7%91#Chinese",
@@ -45864,7 +48111,7 @@
   {
     "attestationKind": "search-excerpt",
     "checkedAt": "2026-10-27",
-    "contentSha256": "2b643eb67d226ba19de701a7da902bc2c470f78be9903ce627bb41de0c3ec70f",
+    "contentSha256": "96db1de4075aaf2a33b1f85cc2e51a2468000c97390029aa5def5fec787b37b0",
     "literalMentionConfirmed": true,
     "pageStatus": "unavailable",
     "title": "【主题故事】beh tahan你这样讲华语？ | 中國報 China Press",
@@ -45872,6 +48119,8 @@
     "id": "94037d047a5349ebf0a4",
     "matchedHeadwords": [
       "beh tahan",
+      "bj4",
+      "bojio",
       "cincai",
       "njhl",
       "walao",
@@ -45999,6 +48248,22 @@
       "有完没完"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "83817e4820b426e97d6e47e27ebe8a44567e23546433ecbd2b5bce731bbc326d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "City不City、松弛感等入选中国2024年度十大网络用语-中新网",
+    "url": "http://www.chinanews.com.cn/gn/2024/12-12/10335240.shtml",
+    "id": "943559b2aae41779f162",
+    "matchedHeadwords": [
+      "含金量还在上升",
+      "浓人淡人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%94%B7%E7%9A%84#Chinese",
@@ -47429,6 +49694,28 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "a205b0088211682448ade67d0229513d5cf26362d9a1c8b40e9d8950d76861d9",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "С������ױ������2023��ȱ�������̵㡷 --���á��Ƽ�--������ ",
+    "url": "http://finance.people.com.cn/n1/2023/1228/c1004-40148581.html",
+    "id": "986a18dd519df464d350",
+    "matchedHeadwords": [
+      "人设妆",
+      "听劝",
+      "夸夸侠",
+      "抄作业",
+      "改妆",
+      "早C晚A",
+      "早P晚R",
+      "贵替"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%93%BC%E4%B8%B2#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -48227,6 +50514,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b428289e02aaca59b43fd3828e91076d348f37c239bcd7a4063201cd43b483e4",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "1+1����2��ʦ����������·�ϵġ����ӡ��罻_����Ƶ��_�й�������",
+    "url": "https://news.youth.cn/jsxw/202503/t20250328_15909409.htm",
+    "id": "9add17fc24cf89426182",
+    "matchedHeadwords": [
+      "搭子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E4%B8%80%E5%B1%81%E8%82%A1#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -48310,6 +50612,21 @@
       "史"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "36627eb636d6de48cfc848478bc76036e17d96f6a2ac338273c95c21a738cba5",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "把“来了”说成“来啦”，这是文字讨好症？_澎湃号·政务_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_20274742",
+    "id": "9b3af14d142be24e865e",
+    "matchedHeadwords": [
+      "文字讨好症"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%AB%87#Chinese",
@@ -48880,6 +51197,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f5a5ceeff671c0946f96fb27b7c9f27d5434b89d46b999beb314cf38681f782e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "网络常用语 _书摘_光明网",
+    "url": "https://www.gmw.cn/02sz/2005-02/01/content_216043.htm",
+    "id": "9cd209f3c36f860ae81b",
+    "matchedHeadwords": [
+      "板猪"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%8E%A9%E6%84%8F#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -48914,6 +51246,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9a0ef1abaf7dd1b520b7535124108f3db3fed408faa40c2c678430156f294609",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "一个萌新  一直想成为一个图吧垃圾佬   求大神带带或者  推荐一些视频和资料  我自己开始自学  _图拉丁吧_百度贴吧",
+    "url": "https://c.tieba.baidu.com/p/6344470025?lp=home_main_thread_pb&mo_device=1",
+    "id": "9d1dcedc1eb040b45b58",
+    "matchedHeadwords": [
+      "萌新"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%B1%B3#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -48929,6 +51276,25 @@
       "米"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "68ec4d3d1192ca42c663d697a1e18068e60c23c666a96d8c0ffdef9ea8e01c24",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "马打、红毛、巴仙、㗝呸店，这些算是新加坡华语吗？ - 红蚂蚁",
+    "url": "https://www.redants.sg/good-reads/story20191120-3397",
+    "id": "9d46b1f3ac788e41f613",
+    "matchedHeadwords": [
+      "㗝呸店",
+      "巴仙",
+      "怕输",
+      "红毛",
+      "马打"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%AA%A9#Chinese",
@@ -49066,6 +51432,22 @@
       "一手好牌打得稀爛"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "77a63750e5216efd223e4f99640a46df98e6bc3f1d96c289b570b6638fc1e159",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "青年婚恋观新趋势：拒绝被长辈“明码标价”，更看重精神契合_中国政库_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_29176175",
+    "id": "9dd63a8ed4658ce4b480",
+    "matchedHeadwords": [
+      "赛博相亲",
+      "轻相亲"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%BB%81%E6%89%80%E6%9D%BF#Chinese",
@@ -49893,6 +52275,21 @@
   {
     "attestationKind": "indexed-post-excerpt",
     "checkedAt": "2026-10-27",
+    "contentSha256": "14fd2f7286c47f24a94b4393d4efbae4b955c7f3dde843fbb5c271dc376dcf10",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "喜欢一个女生，什么条件配得上？二线城市独生女，985本TOP2博，3套房-步行街主干道-虎扑社区",
+    "url": "https://bbs.hupu.com/642102513.html",
+    "id": "a1072f57c5ea0f498ac0",
+    "matchedHeadwords": [
+      "JRs"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
     "contentSha256": "0f046f2981f37566fd5767db9cd83c5f15a2b19cafba4d5cd44a18b7d83afc04",
     "literalMentionConfirmed": true,
     "pageStatus": "unavailable",
@@ -49940,6 +52337,22 @@
       "囧"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8b28fc3f10de638bc4a14f22c467fbbb751c135c48faa8b7acbb66baada80ad1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "关于中英文夹杂说话这件事，说实话我想聊聊",
+    "url": "https://www.reddit.com/r/China_irl/comments/1l1oq2d",
+    "id": "a12e6aedda88ee9122fe",
+    "matchedHeadwords": [
+      "中英文夹杂",
+      "装X"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "attestationKind": "fetched-page",
@@ -51032,6 +53445,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "17081ace46ed1296f66d1d50c61d21c4db0155024a56ab3c138d1ed7b12afeb8",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "无论墙内墙外，简体中文都没有好的交流环境",
+    "url": "https://www.reddit.com/r/LiberalGooseGroup/comments/18f4yoc",
+    "id": "a413a387d847c33aece4",
+    "matchedHeadwords": [
+      "阴阳怪气"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%8F%B0%E5%AD%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -51311,6 +53739,21 @@
       "狗粉絲"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "0f69114e61bc5c2714806c4a75bc31a6fec30b429fe2e04836efc1ff9bbe8a51",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "辩论大赛：情侣之间，是否应该向对方全盘托出自己的感情史？-步行街主干道-虎扑社区",
+    "url": "https://bbs.hupu.com/641616967.html",
+    "id": "a49e0dcf90619fda8084",
+    "matchedHeadwords": [
+      "亮"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%AA%BD%E7%9A%84%E6%99%BA%E9%9A%9C#Chinese",
@@ -51647,6 +54090,22 @@
       "不老少"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "29bcf24f87af98aebaf3096ec2104add2ce26ce182e5cbcd20b7ca8fe8b8516e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "好像滞日仇日的还真挺多",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1myu33k",
+    "id": "a5dcdc01027319650e6c",
+    "matchedHeadwords": [
+      "倭寇",
+      "汁娜诛"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%AF%A6%E8%AA%A0#Chinese",
@@ -52134,6 +54593,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e2129d2a0f9d092a8fa57782cfb903460b3c365045ddf834fa159d768e66c55e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "别再问润的窗口期有多久了",
+    "url": "https://www.reddit.com/r/iwanttorun/comments/1emwwe8",
+    "id": "a76e7ec63343738b72d9",
+    "matchedHeadwords": [
+      "米国"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%A6%BB%E7%AE%A1%E5%9A%B4#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -52182,6 +54656,24 @@
       "三不之",
       "冇得么事",
       "造业"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ff0a215104e59a51d5ed01a1297aa158d09f3063d7e2256d32316094c9db2196",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "��Ů���ӡ�����������������Ӳݸ��������֮��-������",
+    "url": "https://www.chinanews.com.cn/sh/2013/12-26/5665204.shtml",
+    "id": "a79f5c79552666ad759d",
+    "matchedHeadwords": [
+      "元芳体",
+      "土豪",
+      "小伙伴们都惊呆了",
+      "待我长发及腰"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -52274,6 +54766,21 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b2847e68c6f71d64863124426bd0ea9afaeb8a68e6718cbb2f2b718924725a88",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "奥运名场面，科比一分钟连得12分直接打花比赛，赛后更是被抓去尿检！-步行街主干道-虎扑社区",
+    "url": "https://bbs.hupu.com/642591010.html",
+    "id": "a800ff109957762bf036",
+    "matchedHeadwords": [
+      "打花"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%85%90%E5%9C%8B#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -52358,6 +54865,21 @@
       "春"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "fb3363c5bbab4b42edb0108085859dcae897ced934275bc60120d47a426586fb",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "给AI起中文名有必要吗？网友脑洞大开，有造字派、科幻玄幻派、谐音梗派……_南方+_南方plus",
+    "url": "https://www.nfnews.com/content/WyjqKYR1o0.html",
+    "id": "a8933278e6b2a8987419",
+    "matchedHeadwords": [
+      "类人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%B0%BD%E5%88%B0%E9%A1%8C#Chinese",
@@ -53620,6 +56142,27 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2564b75fa943fcb15eea8ee757eeb851ef4b6cfa385d538f3d0e9e1f1ab509cb",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "三角洲黑话速查：队友暗号你接住几个？ - 三角洲行动综合讨论 - TapTap 三角洲行动论坛",
+    "url": "https://www.taptap.cn/moment/841317540025075769",
+    "id": "ad88e9391edb76f28cec",
+    "matchedHeadwords": [
+      "丢包撤",
+      "刘涛",
+      "海豚",
+      "白给",
+      "盾狗",
+      "跑刀",
+      "非洲之星"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%BF%95#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -54141,6 +56684,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e09d8537de1e0b5ee3d477b43d3cafcc9fbd2fe81f598a508fa66c3ee9d4db00",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "慢行与速读之间：CityWalk的方法论",
+    "url": "https://m.thepaper.cn/newsDetail_forward_34177089",
+    "id": "af7c7fd680435ce650c0",
+    "matchedHeadwords": [
+      "特种兵式旅游"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/JMS#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -54350,6 +56908,23 @@
       "风城"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ed54227d15138cf8de224f1ce31388bd30c6c40afbc48021ba8be65695ae31e6",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "真的很逻辑自洽😅",
+    "url": "https://www.reddit.com/r/DoubanGoosegroup/comments/u24rn7",
+    "id": "b0588fdb8191ef4809e3",
+    "matchedHeadwords": [
+      "大健身",
+      "蝻狗",
+      "走资派"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%AE%97%E4%BA%86#Chinese",
@@ -54686,6 +57261,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d00ee4d924fd376e5dd1e54af090a5ea7b04bb98adf7875b0f1ce4c1ca84a97a",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "一年“不买东西”，我是怎么活的_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://thepaper.cn/newsDetail_forward_11070757",
+    "id": "b133ebad0425c24a9eaa",
+    "matchedHeadwords": [
+      "不买年"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/KS#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -54824,6 +57414,24 @@
       "玩消失"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d2b0f3e265b13840705e4314976f8687de5fe7fb52638e7250d3ed00b6305d81",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "我们调研了10万人的网络用词：女性的真实心事到底是什么？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_11608282",
+    "id": "b19fd00146123bbbcbe7",
+    "matchedHeadwords": [
+      "丧偶式育儿",
+      "例假",
+      "坐月子",
+      "渣"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%BD%AE%E6%96%87#Chinese",
@@ -55016,6 +57624,21 @@
       "眼皮子"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e3b7121cd9b6f488369d9ba83c1dfc809007b5be9e5015b66bbfc65a36b1c90c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "不知道键委们有没有这种感受(2)",
+    "url": "https://www.reddit.com/r/China_irl/comments/owfrhn",
+    "id": "b2059ed5fe1dcf89b2da",
+    "matchedHeadwords": [
+      "巫"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%BE%AE%E9%9D%A2#Chinese",
@@ -55222,6 +57845,23 @@
       "王老五"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2bada32dc4e165dbb70217253ff8e319b2c35260f4369c7d586f57efe3750db7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "小红书开始到处“抢食”了-虎嗅网",
+    "url": "https://www.huxiu.com/article/4786759.html",
+    "id": "b2ed0338dfd3071af6dc",
+    "matchedHeadwords": [
+      "活人感",
+      "牛马",
+      "玩梗"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B0%8F%E8%A0%BB%E8%85%B0#Chinese",
@@ -55804,6 +58444,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "29c63fb3b100235e052e14fd588746d11b639753adaa9eebef622cbfe4b2b050",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/1w2dlg4/removed/",
+    "id": "b4a1f49694703c320984",
+    "matchedHeadwords": [
+      "簡中"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%AA%AE%E7%9F%AE%E7%9F%AC#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -55995,6 +58650,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "3358162c476689430e5d0b61bd471a5a4b2c73c191fc33e596f34e586ac49dc9",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "人民文摘",
+    "url": "https://paper.people.com.cn/rmwz/html/2013-01/01/content_1188981.htm?div=-1",
+    "id": "b57b400a5bbc3b48d624",
+    "matchedHeadwords": [
+      "元芳体",
+      "白富美",
+      "躺着也中枪"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%B7%AE%E5%8B%81#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -56082,6 +58754,26 @@
       "乾"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b52836a6d0c9306699b5943ac8927c461892e554f14e11b8dc195fcf0cc85b50",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "华中师大版十大网络用语出炉：“我读书少，你别骗我”等上榜_舆论场_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_1287617",
+    "id": "b5c359441c334042d4eb",
+    "matchedHeadwords": [
+      "且行且珍惜",
+      "我也是醉了",
+      "我读书少，你别骗我",
+      "挖掘机技术哪家强",
+      "有钱就是任性",
+      "画面太美我不敢看"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%A4%A7%E8%81%B0%E6%98%8E#Chinese",
@@ -57258,6 +59950,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "50b76f154225e366a71c3d1ce97f462064b38f977a3587b37a8a5312ada8fdc9",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "“打工人”缘何走红\n_光明网",
+    "url": "https://news.gmw.cn/2020-12/11/content_34452575.htm",
+    "id": "b9eaddca669530b102ba",
+    "matchedHeadwords": [
+      "尾款人",
+      "搬砖"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E4%BA%BA%E5%82%BB%E9%8C%A2%E5%A4%9A#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -58126,6 +60834,38 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "95af06efeb87a49ea372af06b267ee0910f8f5cd5ad8062c95f5dc3e8b2455ee",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "问一个问题，台湾人看得懂简体字吗？或者说用简体字和台湾人聊天台湾人心里会不会反感？",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/14ddzgq",
+    "id": "bc26b925790b0d6344ec",
+    "matchedHeadwords": [
+      "簡中"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "08be07085e6ac683dedbe3443b0bed5de56a8d444a751101cefc2640078dfff7",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "墙内互联网有哪些令你恶心的词语/短语",
+    "url": "https://www.reddit.com/r/real_China_irl/comments/xok4wt",
+    "id": "bc430517e2e2cf8f7d9b",
+    "matchedHeadwords": [
+      "公知",
+      "小将",
+      "洗地"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%B1%B3%E6%9C%89#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -58495,6 +61235,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2e051255233eb19e9f3ab2180d6cb9a6d289525f36e86da4f6675c095958ad1e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2015年十大流行语出炉 “主要看气质”上榜 -中国新闻网",
+    "url": "https://www.chinanews.com.cn/m/cul/2015/12-15/7672467.shtml",
+    "id": "bd722386442e4e1aee00",
+    "matchedHeadwords": [
+      "主要看气质",
+      "剁手党"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%86%8B%E5%B1%88#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -58790,6 +61546,22 @@
       "爆菊"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c973c0898190b120d4070b498aebcc45bf094df0a03f8964394a2554c9d0ea33",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "\n            2025年度十大网络流行语发布 “DeepSeek（深度求索）”“敬自己一杯”等入选-新华网\n        ",
+    "url": "https://www.news.cn/book/20251212/83e4aed3aff145959bf5a06243280302/c.html",
+    "id": "be823228318f0bc0f235",
+    "matchedHeadwords": [
+      "情绪价值",
+      "村咖"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%81%90%E9%BE%8D%E5%A6%B9#Chinese",
@@ -59189,6 +61961,22 @@
       "mua"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "41cfe43a44c2c9b17ca3d72eaf88f7d65d5f6466b6072522f72e5629be66d0e3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "最近一直在焦虑润与不润的问题 想听听大家的想法或者建议",
+    "url": "https://www.reddit.com/r/iwanttorun/comments/1lqsjcq",
+    "id": "bf6f419b47011dc6dbdc",
+    "matchedHeadwords": [
+      "当机",
+      "白左"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%8D%B0%E5%BA%A6%E8%A9%B1#Chinese",
@@ -59745,6 +62533,21 @@
       "隊友"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "45729f659587ffe4e92f36ef805c1b0d67a0866f483029abff7d6913689682e8",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "在隔壁棚貼過 這邊也貼一次 詢問大陸的戰學校/科系/文理組情況",
+    "url": "https://www.reddit.com/r/real_China_irl/comments/zwygwl",
+    "id": "c0eaa3a21f7f5163cf80",
+    "matchedHeadwords": [
+      "学历攀比"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%B0%8F%E6%9C%8B%E5%8F%8B#Chinese",
@@ -60473,6 +63276,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "5ab71ab8219fd8db0b894d7e553d7257ae14e85f762ccb94b7acecaf8e83a041",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "才學到數數就氣急敗壞的老中",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1g1w1fv",
+    "id": "c2fbf325b9016e9bc567",
+    "matchedHeadwords": [
+      "弱智"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%87%BA%E6%88%B2#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -61177,6 +63995,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "806b1a3e004c147438935c06613aef4b6078edac014bf2719f9577639fe52abf",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "东北地下30元化妆，爆改像呼吸一样简单",
+    "url": "https://m.thepaper.cn/newsDetail_forward_27976794",
+    "id": "c4b6b0c2a4913f3ca723",
+    "matchedHeadwords": [
+      "情绪价值",
+      "流水线公主",
+      "爆改"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%9C%98%E9%A3%AF#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -61390,6 +64225,22 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8e2ea579c88765f2680bd60a97c53e9dfed26f98c23406756a8d02a41e4bb401",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "Gweilo(鬼佬)这个词条有问题，“洋人”“外国人”在他们眼里成争议和冒犯用词了",
+    "url": "https://www.reddit.com/r/Chinatown_irl/comments/1new1e2",
+    "id": "c547c0187adac374eef0",
+    "matchedHeadwords": [
+      "鬼仔",
+      "鬼马"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%B3%95%E5%9C%8B#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -61461,6 +64312,22 @@
       "夾子音"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8d8e71b5fde460c69e011b6d7bc827d3c9a09c5673a8686274639fdcd5f99516",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "本sub是信息交流平台",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1eg0wrj",
+    "id": "c5681969a9acd56fc889",
+    "matchedHeadwords": [
+      "搬屎",
+      "支猪"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%B0%B4%E6%A1%B6#Chinese",
@@ -61687,6 +64554,22 @@
       "瘋狗病"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "2ff4ff5433af484693afd9f9ef9e5a81a136fcd1d63c0b53d71e53dfa75c502e",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "我说有些台湾人装什么傻啊？最简单一个问题，现在日本人敢当面叫中国人支纳人吗？",
+    "url": "https://www.reddit.com/r/China_irl/comments/19f9njf",
+    "id": "c5fb90c6dd8eb8b9c5eb",
+    "matchedHeadwords": [
+      "支纳人",
+      "支言支语"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%9A%96%E7%94%B7#Chinese",
@@ -61932,6 +64815,25 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c42b6ebb1a1d00abeeea0b8c2a4968695a26c76b05d33553827ed0e6675224b3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "分享与港式粤语差别 陈楚寰：大马粤语有特色",
+    "url": "https://johor.chinapress.com.my/20240523/%e5%88%86%e4%ba%ab%e4%b8%8e%e6%b8%af%e5%bc%8f%e7%b2%a4%e8%af%ad%e5%b7%ae%e5%88%ab-%e9%99%88%e6%a5%9a%e5%af%b0%ef%bc%9a%e5%a4%a7%e9%a9%ac%e7%b2%a4%e8%af%ad%e6%9c%89%e7%89%b9%e8%89%b2/",
+    "id": "c6d235ba6d32de846e28",
+    "matchedHeadwords": [
+      "bei lui",
+      "geok ce",
+      "lok sui",
+      "som ma",
+      "sui cou"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%A4%A5%E8%A8%98#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -62037,6 +64939,21 @@
       "男人"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "a37c11416f5b79e6ea1e183af7da7f26c248401404e0075e5d960308b154d478",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "从“学术助手”到“吐槽利器 ”，高校学生掀起DeepSeek另类应用_澎湃号·媒体_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_30173296",
+    "id": "c7063e0c815bbb2da9fb",
+    "matchedHeadwords": [
+      "锐评"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/YP%E4%BB%94#Chinese",
@@ -62593,6 +65510,25 @@
       "红军"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f03946703e9b2461141ec19102c9d5f152efa4574b7372457c59dc9c444a3cab",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2010年十大流行语-文摘报-光明网",
+    "url": "https://epaper.gmw.cn/wzb/html/2011-01/01/nw.D110000wzb_20110101_2-01.htm",
+    "id": "c89ee88c3c1d3ef44be7",
+    "matchedHeadwords": [
+      "围脖",
+      "拼爹",
+      "穿越",
+      "给力",
+      "达人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E8%98%87%E5%8D%A1%E4%B8%8D%E5%88%97#Chinese",
@@ -63397,6 +66333,25 @@
       "遭重"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "336bd4a1bbb9c0efe864661cfce6f26abe6f1999825c0365031a335292fd386d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "【大马华语02】语言的本地化VS标准化 - 副刊 - 专题 - 焦点",
+    "url": "https://www.sinchew.com.my/news/20240704/supplement/5727654",
+    "id": "cb781c1f4f8bc68df20d",
+    "matchedHeadwords": [
+      "Gili",
+      "Pek Cek",
+      "Tinam",
+      "巴刹",
+      "蒙查查"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E8%82%9A%E8%87%8D%E7%9C%BC#Chinese",
@@ -64813,6 +67768,24 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "088c94b8ede145bea85fa129608d0eb2adede0652373ee5605cc18ac63ee6f98",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/1088273/page/1",
+    "id": "d0838a28c81dc2e8aa7c",
+    "matchedHeadwords": [
+      "伏工",
+      "散水餅",
+      "老屎忽",
+      "西口西面"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/GG#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -65197,6 +68170,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f5b9e28b02443c9c9efa47db889415c471cde7d528400e003e7f772ca812c198",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "有没有这回事？",
+    "url": "https://www.reddit.com/r/runtoJapan/comments/1ltvxau",
+    "id": "d2298a816fde0b2d4dbe",
+    "matchedHeadwords": [
+      "闹钟"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%90%AC%E6%83%A1%E4%B9%8B%E6%BA%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -65477,6 +68465,26 @@
       "键盘侠"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "98b9964b1c63657743a52d8dfb060fa0d61270e53b99fd641baa82a1163b6233",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "扣1、上毛肚、T人……16个直播黑话，你能看懂几个？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_6539577",
+    "id": "d3390bea35db29791058",
+    "matchedHeadwords": [
+      "上链接",
+      "加库存",
+      "扣1",
+      "新朋友",
+      "老朋友",
+      "踢人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%A1%83%E8%8A%B1%E7%99%B2#Chinese",
@@ -66136,6 +69144,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "079b0a060f51a93275ee494175d04a71269157e8e336b89b6111b388c25699a2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "Reddit",
+    "url": "https://www.reddit.com/r/China_irl/comments/pxfbv8/%E5%91%8A%E9%98%B2%E5%8C%BA%E9%94%AE%E5%A7%94%E4%B9%A6/",
+    "id": "d5040a063e53ec0e262c",
+    "matchedHeadwords": [
+      "板规",
+      "键委"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%B3%95%E5%AD%90#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -66357,6 +69381,23 @@
       "嗚嗚嗚"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8e91fe1af95e32eb980ff55b5dac3cef736cc3c6c36f4ac001e6ccab649a1ff2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "�������罻�·�ʽ 72.6%���ܷ������������С����ӡ�_����Ƶ��_�й�������",
+    "url": "https://news.youth.cn/qdc/djdc/202306/t20230603_14560532.htm",
+    "id": "d5af49e4536badce17f8",
+    "matchedHeadwords": [
+      "搭子",
+      "搭子社交",
+      "饭搭子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E3%97%8E%E4%BD%AC#Chinese",
@@ -66705,22 +69746,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "fetched-page",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "0ad27b81742bd794b0d7f4b98031afcc29f47e3df27e65d137aff678d8148bdf",
-    "literalMentionConfirmed": true,
-    "pageStatus": "fetched",
-    "title": "NBA论坛 - 虎扑社区",
-    "url": "https://bbs.hupu.com/thread.php?fid=1",
-    "id": "d6cacbd77704edae3007",
-    "matchedHeadwords": [
-      "JRs",
-      "亮"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E4%B8%80%E6%89%B9#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -66754,6 +69779,26 @@
       "花紅",
       "裸辭",
       "雙糧"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "7af7951890d04de66199ed7c75d32ca35e25214ae0acf6799e02255aede03acf",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "��you can you up������������ٵ����վ��¼--�Ļ�--������ ",
+    "url": "http://culture.people.com.cn/n/2014/0508/c87423-24990072.html",
+    "id": "d700b02442bcc82a2349",
+    "matchedHeadwords": [
+      "no can no BB",
+      "no zuo no die",
+      "you can you up",
+      "光棍",
+      "土豪",
+      "大妈"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -66793,6 +69838,21 @@
       "切克鬧"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "5d0d878e6c1bdebc872d909f3abed601ca76443667f478112a96f6f2088c889c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "问下台湾兄弟们一个问题",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/14e5pk4",
+    "id": "d7154f67c7a375e7d085",
+    "matchedHeadwords": [
+      "大陸"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/OK#Chinese",
@@ -67187,6 +70247,22 @@
       "阔怕"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e772ca672a45cfc1c2e3b65583918de7957e8b42f0ab24d2e9d844f61a6195b2",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "杨欣儒：大马特有词语岂有此理 | 中國報 China Press",
+    "url": "https://www.chinapress.com.my/20240108/%e6%9d%a8%e6%ac%a3%e5%84%92%ef%bc%9a%e5%a4%a7%e9%a9%ac%e7%89%b9%e6%9c%89%e8%af%8d%e8%af%ad%e5%b2%82%e6%9c%89%e6%ad%a4%e7%90%86/",
+    "id": "d831ccf8b234d1ac66c6",
+    "matchedHeadwords": [
+      "胆生毛",
+      "走宝"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E4%BD%A0%E5%A8%98%E7%9A%84#Chinese",
@@ -67713,6 +70789,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c0f3c043a93026811c6358f6e62f47c2ef6ddf4ce0e3a4af572e4a05961333ae",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2014���ʮ���������¯--���ű���-������",
+    "url": "http://cpc.people.com.cn/n/2014/1217/c83083-26223151.html",
+    "id": "d961bf958cc4ae018504",
+    "matchedHeadwords": [
+      "你懂的",
+      "神器"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%86%B1%E5%92%8C#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -67881,7 +70973,9 @@
       "city不city",
       "偷感",
       "包的",
+      "古希腊掌管××的神",
       "搞抽象",
+      "水灵灵地",
       "班味",
       "红温",
       "草台班子",
@@ -68492,6 +71586,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "f00fc79f7a4faf4e426107fc7d0dcb3ee91155f730c5d1127382f75c026a36b3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "你好台湾",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/1648eqi",
+    "id": "dbce5a602d7f6b5573d8",
+    "matchedHeadwords": [
+      "ㄍㄋㄇㄉ",
+      "ㄎㄎ",
+      "ㄏㄏ"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%9D%B2%E8%9D%B2%E8%9B%84#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -68507,6 +71618,21 @@
       "蝲蝲蛄"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "c53eea2edd3e21e8a933418fbc68e337728a810c19cdf142f189bb313558e627",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "讽刺与幽默-人民网",
+    "url": "http://paper.people.com.cn/fcyym/html/2013-12/27/content_1368948.htm",
+    "id": "dbe2a4210757ece08fa3",
+    "matchedHeadwords": [
+      "土豪"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%A3%AF%E7%A2%97#Chinese",
@@ -69806,6 +72932,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ffb5539c26bee09ab3f3c806f4b27fd314f47e187b9d6664be2e25b6642d6371",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "“敬自己一杯”等入选2025年度十大网络流行语-中新网",
+    "url": "https://www.chinanews.com.cn/sh/2025/12-12/10532135.shtml",
+    "id": "df69dd4524f6efa13d13",
+    "matchedHeadwords": [
+      "情绪价值",
+      "村咖"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%AC%A0%E6%8F%8D#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -70489,6 +73631,21 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d5d52c189ae022a4db8c9b5c83b9ccdec8b061c27193bb80273b05bb2adf9821",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "坐月子、拍写真：年轻人养宠，真爱还是虚荣？-虎嗅网",
+    "url": "https://m.huxiu.com/article/3999950.html",
+    "id": "e17081702ba5891ec5f6",
+    "matchedHeadwords": [
+      "富养"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E5%A4%A9%E9%BE%8D%E5%9C%8B#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -70523,6 +73680,25 @@
       "打嚏噴"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "a0b01a23613d69bc656f33df9b38f12a2723d2b0e09ccec44062b5ae7913e918",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "[心得交流] 写给萌新的第一版《泥潭交流手册》 NGA玩家社区",
+    "url": "https://bbs.nga.cn/read.php?tid=25501812",
+    "id": "e18382950dd215876b0d",
+    "matchedHeadwords": [
+      "值班",
+      "充电宝",
+      "国家队",
+      "泥潭",
+      "猴戏"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%80%81%E6%BA%AB%E6%9A%96#Chinese",
@@ -70612,6 +73788,22 @@
       "打小报告"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "57c570e81cb66dc4847708f28015a64073147a1bd38f32cfdafb7198ee85791b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "爱情限时批：和哲学家聊聊situationship | 涟漪效应_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_30847224",
+    "id": "e1d07cff19c8216cd7bc",
+    "matchedHeadwords": [
+      "situationship",
+      "祛魅"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%AD%90%E6%B0%A3#Chinese",
@@ -71152,6 +74344,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "186b60e861eff210ea62f09333939721a91f7965638924dd796150e6b70ee6ad",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "走花路、扩列……读懂00后,从他们的\"黑话\"开始_教育频道_中国青年网",
+    "url": "https://edu.youth.cn/jyzx/jyxw/201811/t20181108_11778494.htm",
+    "id": "e3bd77271114bbd65209",
+    "matchedHeadwords": [
+      "连睡"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%94%B7%E9%AB%98#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -71256,6 +74463,23 @@
       "罗汉",
       "腌臜",
       "谈讬"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "ee80b9c13cf12c4695cdf5a06007b98fb611cc6b6a6c4c00c216e4781fe32111",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "2016十大流行语出炉：工匠精神上榜 8条来自于网络-中国新闻网",
+    "url": "https://www.chinanews.com.cn/m/cul/2016/12-15/8094315.shtml",
+    "id": "e42fa99a3fb0ab9a6a2d",
+    "matchedHeadwords": [
+      "友谊的小船",
+      "套路",
+      "葛优躺"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -71384,6 +74608,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8788ca65490dd8192739ba1d1cc5c6d2db73659721e71cbfd396fc7b5b9492fe",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "女生找女性朋友｜非相亲 直男勿扰",
+    "url": "https://www.douban.com/group/topic/268619673/?_spm_id=MjcwMzI5Mzk",
+    "id": "e4badb4812fd8139a840",
+    "matchedHeadwords": [
+      "搭子群"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%A6%AC#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -71450,6 +74689,24 @@
       "敲"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "17a01cb5a866bb09bd06870a277de9c2d09bde1169afd62a731b44b5efd74c1f",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "我在小红书买生活边角料_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_29171492",
+    "id": "e5081b56d84d674da34c",
+    "matchedHeadwords": [
+      "凑单",
+      "好价",
+      "薅羊毛",
+      "边角料"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%8F%90%E6%89%8B#Chinese",
@@ -71682,6 +74939,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "57c8fda93be28a05aefb325dcafc6fbe47292d017db8ba40ed7b7d0e1de64a81",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/4114346/page/1",
+    "id": "e5bf1e6d7fd7c0820ba3",
+    "matchedHeadwords": [
+      "散拖"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%80%9A%E6%AB%83#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -71698,6 +74970,22 @@
       "通櫃"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e0a32f40598181d6e80471bc72dd4513f93eb390e459ccd84bf92ad57ac4f3f0",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "澎湃思想周报｜谁是小镇做题家；右翼想象中的antifa_思想市场_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_7747764",
+    "id": "e5e15223ee4165033975",
+    "matchedHeadwords": [
+      "985废物",
+      "小镇做题家"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%AE%B3%E8%87%8A#Chinese",
@@ -71907,6 +75195,27 @@
       "丸仔"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "a8b785cfcc6e84f04855e08898a1071441ff19802f046ac5062bad6cb5b7cfb0",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "扣1、上毛肚、T人……16个直播黑话，你能看懂几个？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://thepaper.cn/newsDetail_forward_6539577",
+    "id": "e659e9c1990b48943d0f",
+    "matchedHeadwords": [
+      "321",
+      "上链接",
+      "加库存",
+      "扣1",
+      "新朋友",
+      "老朋友",
+      "踢人"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%8F%A8%E5%8F%A8#Chinese",
@@ -72251,6 +75560,21 @@
       "圪挑",
       "戳拐",
       "溜沟子"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "9c2b4967ad538964843763c837421ab52c529986f43ac6a04dabc73d803b21e1",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "想要成为评论star吗？你就是我们要找的神评官！-影视区-虎扑社区",
+    "url": "https://bbs.hupu.com/39283041.html",
+    "id": "e76274098ac1f6b835e9",
+    "matchedHeadwords": [
+      "亮"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -73340,6 +76664,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "e1f85752caeed34c1d58873b6452a0c4444383647acf4edd392f74ad9e55d17d",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/3223732/page/1",
+    "id": "eb46026c7118607d326c",
+    "matchedHeadwords": [
+      "大癲"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E6%92%88%E5%A5%B3#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -73411,6 +76750,22 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "cca068b3de331cbd9739beceeb91e4a534ffd7e276853174da8acd340bb14737",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "小红书上的女性主义与父权制：一场无声的较量-虎嗅网",
+    "url": "https://www.huxiu.com/article/4147589.html",
+    "id": "ebacb89d9af973e079ca",
+    "matchedHeadwords": [
+      "好嫁风",
+      "少女感"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E7%99%BD%E5%AE%A2#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -73461,6 +76816,21 @@
       "配對"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "6d7a07145ebb695ea334df9cb1fd2ed1a1ab3dde7506cbfb163aefc2445e758c",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "每天逛直播间，是年轻人的广场舞_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_19948636",
+    "id": "ebf692fd9232dc293235",
+    "matchedHeadwords": [
+      "薅羊毛"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/mola%20mola#Chinese",
@@ -73622,6 +76992,22 @@
       "腐",
       "谷价",
       "逆家"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "14123e3a432ca67a5d879c6e050b95251517191eea822e443636c12981768355",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "全网最毒的打工人嘴替，前身是HR_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_28970941",
+    "id": "ec8a34b92af926d7f349",
+    "matchedHeadwords": [
+      "巴子",
+      "纯爱战士"
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
@@ -74217,6 +77603,22 @@
       "對路"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "0e7bb79e531c7e6c9ce853bb38802fb8711ed7a6af90af47680894fb34a22aff",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "淺談「支」的定義與變遷，以及「抹黑者」的樣貌。",
+    "url": "https://www.reddit.com/r/Taiwanese/comments/1daw5bt",
+    "id": "ef022577c2ad89fde7fc",
+    "matchedHeadwords": [
+      "支",
+      "脫支"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E9%9C%B8%E5%B1%8F#Chinese",
@@ -75471,6 +78873,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "8b3824dbef44c6c131b4018417216c06be846ac0ab537498166bb6b7c314572b",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "LIHKG 討論區",
+    "url": "https://lihkg.com/thread/4116160/page/1",
+    "id": "f25545b788a04f8bd89d",
+    "matchedHeadwords": [
+      "舔狗"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E4%B8%80%E8%82%A1%E8%85%A6#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -75610,6 +79027,21 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "62dd9a1438da354f2f1c97cff455b77edd0eade407dfece017c840d3ba8677ae",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "00后，怎么都学会了“爹味发言”？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_20394497",
+    "id": "f2d78b8fe13c9590a5f2",
+    "matchedHeadwords": [
+      "AAA爹味发言"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E9%98%BF%E7%B1%B3%E8%AB%BE%E6%96%AF#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -75732,6 +79164,21 @@
       "缠磨"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "accc7b7e8c53e84166a9a16353853c1af153adb73136ec4292e51cbda9e070d3",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "[流言板]西蒙斯：我就投出个三不沾，记者就把它发出来让其火遍全网-NBA-国王专区-虎扑社区",
+    "url": "https://bbs.hupu.com/642713376.html",
+    "id": "f313c61739a571c453af",
+    "matchedHeadwords": [
+      "三不沾"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%B4%85%E7%B4%85%E7%81%AB%E7%81%AB%E6%81%8D%E6%81%8D%E6%83%9A%E6%83%9A#Chinese",
@@ -76189,6 +79636,21 @@
       "肉棒"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "21d7cb267beab14cac89af4d2c6953e3d839d1fe22b2316906407bbe5b872a03",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "今晚比赛没什么消息，但更没外援，开场就被一路打花的可能性很大-CBA-上海大鲨鱼-虎扑社区",
+    "url": "https://bbs.hupu.com/642134004.html",
+    "id": "f427416895cff44e0a27",
+    "matchedHeadwords": [
+      "打花"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E7%8E%A9%E5%85%92%E7%A5%A8#Chinese",
@@ -76664,22 +80126,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "search-excerpt",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "7eca069cfe217b38914b91f176e2c07fddccb503fdea6bdf25eaa049b78fcf2c",
-    "literalMentionConfirmed": true,
-    "pageStatus": "fetched",
-    "title": "中国男篮-帖子搜索",
-    "url": "https://bbs.hupu.com/search?page=1&q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&sortby=general&topicId=",
-    "id": "f556c6c9c34211ceeb8d",
-    "matchedHeadwords": [
-      "三不沾",
-      "黑哨"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "attestationKind": "indexed-post-excerpt",
     "checkedAt": "2026-10-27",
     "contentSha256": "6ae6da18d5416499bfe39614843170083f395e25046e79230540b7aca7cefd57",
@@ -76888,6 +80334,22 @@
       "臺胞證"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "a0328a25591007fbab3e32f1a66e1fdfc73779569e7817f41fd4f4ec76af53e4",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "“发疯文学”里，写着当代年轻人的精神状态",
+    "url": "https://m.thepaper.cn/newsDetail_forward_20663943",
+    "id": "f60056b606ffaaef1e81",
+    "matchedHeadwords": [
+      "发疯文学",
+      "精神状态"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%AD%AA%E5%9C%8B%E4%BB%81#Chinese",
@@ -77119,6 +80581,21 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
+    "attestationKind": "search-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "b0ccc1126a7d01fb479e79a095917f4a1877d6698d542ca60fa0390ec7f2da82",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "网络潮语“Bossku” 源自沙巴菲籍商贩 | 中國報 China Press",
+    "url": "https://www.chinapress.com.my/20190216/%e7%bd%91%e7%bb%9c%e6%bd%ae%e8%af%adbossku-%e6%ba%90%e8%87%aa%e6%b2%99%e5%b7%b4%e8%8f%b2%e7%b1%8d%e5%95%86%e8%b4%a9/",
+    "id": "f6ee8ada18a0d3e67ca0",
+    "matchedHeadwords": [
+      "Bossku"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%8C%85%E5%BB%81#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -77294,6 +80771,24 @@
       "百合"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "d62a401d8b5b29025b5b054b01e8972aac7effdfba49755556f74ed86d1627e6",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "个人交友征cp，发这里！",
+    "url": "https://www.douban.com/group/topic/329605255/?_spm_id=NDEzMTE3Nw",
+    "id": "f7b0dc84852649bda69b",
+    "matchedHeadwords": [
+      "情绪价值",
+      "杀猪盘",
+      "母单",
+      "脱单"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/CLS#Chinese",
@@ -78082,6 +81577,24 @@
       "吸粉"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-page",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "40ded0c685370d75b3ac9cacfda1f4bbd11913f42f85ec1fa914324678032333",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "双标狗、霸总猫、安全感、情绪价值：人们为何迷上宠物视频？_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/newsDetail_forward_21129355",
+    "id": "fa253ef651bb983ab69f",
+    "matchedHeadwords": [
+      "人设",
+      "双标狗",
+      "情绪价值",
+      "拆家"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E8%87%AA%E5%8A%A9#Chinese",
@@ -78900,6 +82413,23 @@
     "redistributedSourceText": false
   },
   {
+    "attestationKind": "indexed-post-excerpt",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "5f8bddf287ca627b3530dfe275da95d6ebef813d2b172c02a45c607c39d6d895",
+    "literalMentionConfirmed": true,
+    "pageStatus": "unavailable",
+    "title": "润的计划会不会告诉别人",
+    "url": "https://www.reddit.com/r/iwanttorun/comments/1dbx2sb",
+    "id": "fcdac70b23bdc4468b9a",
+    "matchedHeadwords": [
+      "润物细无声",
+      "粉红",
+      "闷声发大财"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
+  },
+  {
     "url": "https://en.wiktionary.org/wiki/%E8%B1%AC%E8%82%89%E6%AA%AF#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -79575,6 +83105,21 @@
       "晶晶體"
     ],
     "redistributedSourceText": false
+  },
+  {
+    "attestationKind": "fetched-public-post",
+    "checkedAt": "2026-10-27",
+    "contentSha256": "7ba3f0ee69652107fd1f2ada093d85ecbc37ccf12d837a6ef081f51ee0d457e9",
+    "literalMentionConfirmed": true,
+    "pageStatus": "fetched",
+    "title": "[流言板]离谱！马明坤执行罚球时淡定出手，竟然投出三不沾-CBA-CBA专区-虎扑社区",
+    "url": "https://bbs.hupu.com/636552864.html",
+    "id": "fe990406ab9e469d0f69",
+    "matchedHeadwords": [
+      "三不沾"
+    ],
+    "redistributedSourceText": false,
+    "license": "link-only; underlying page retains its copyright"
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E5%93%AD%E9%BB%9E#Chinese",

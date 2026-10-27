@@ -4,6 +4,14 @@ import re
 from urllib.parse import urlsplit
 
 RULES = {
+    "reddit.com": r"^/r/[^/]+/comments/[A-Za-z0-9]+",
+    "v2ex.com": r"^/t/\d+",
+    "bbs.hupu.com": r"^/\d+\.html",
+    "chiphell.com": r"^/(?:thread-\d+|forum\.php)",
+    "nga.cn": r"^/(?:read\.php|thread\.php)",
+    "ngabbs.com": r"^/(?:read\.php|thread\.php)",
+    "gamer.com.tw": r"^/C\.php",
+    "taptap.cn": r"^/(?:moment|topic)/\d+",
     "bilibili.com": r"^/(?:video/(?:BV|av)|opus/\d|read/cv\d|dynamic/\d)",
     "weibo.com": r"^/(?:\d{5,}/[A-Za-z0-9]+|ttarticle/p/show)",
     "weibo.cn": r"^/(?:detail|status)/[A-Za-z0-9]+",
@@ -35,6 +43,12 @@ def social_page_kind(url):
             if p.path.endswith("forum.php") and not re.search(
                 r"(?:^|&)(?:mod=viewthread|tid=\d+)", p.query
             ):
+                return "platform-index"
+            if domain in ["nga.cn", "ngabbs.com"] and not re.search(
+                r"(?:^|&)tid=\d+", p.query
+            ):
+                return "platform-index"
+            if domain == "gamer.com.tw" and not re.search(r"(?:^|&)snA=\d+", p.query):
                 return "platform-index"
             return "public-post"
     return "non-platform-page"

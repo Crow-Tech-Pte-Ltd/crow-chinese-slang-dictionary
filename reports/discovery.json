@@ -1,350 +1,861 @@
 {
   "queries": [
     {
-      "region": "gap3-shandong",
+      "region": "broad4-xhs-0",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-shanxi",
+      "region": "broad4-xhs-media-0",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-hebei",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-henan",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-jiangsu",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-zhejiang",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-hunan",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-hubei",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-jiangxi",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-anhui",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-northwest",
-      "rawCandidates": 16,
-      "citationBoundCandidates": 16,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-southwest",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-hainan",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-teochew",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-hakka",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-fuzhou",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-sg-mixed",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-sg-youth",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-my-mixed",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-my-youth",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 14,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-my-regional",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 10,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-indo-thai",
-      "rawCandidates": 1,
-      "citationBoundCandidates": 1,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-philippines",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 14,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-uk",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-eu",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-aus",
-      "rawCandidates": 12,
-      "citationBoundCandidates": 12,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-na-work",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-na-life",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-xhs-beauty",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-xhs-fitness",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-xhs-life",
+      "region": "broad4-xhs-1",
       "rawCandidates": 0,
       "citationBoundCandidates": 0,
       "searchCitations": 5
     },
     {
-      "region": "gap3-xhs-relationships",
+      "region": "broad4-xhs-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-3",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-media-3",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tieba-hardware",
+      "region": "broad4-xhs-4",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-5",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-6",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-media-6",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tieba-sports",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
+      "region": "broad4-xhs-7",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tieba-games",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
+      "region": "broad4-xhs-8",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
       "searchCitations": 5
     },
     {
-      "region": "gap3-games-moba",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
+      "region": "broad4-xhs-9",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
       "searchCitations": 5
     },
     {
-      "region": "gap3-games-rpg",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-games-steam",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-fandom-goods",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-fandom-shipping",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-work-tech",
-      "rawCandidates": 15,
-      "citationBoundCandidates": 15,
-      "searchCitations": 5
-    },
-    {
-      "region": "gap3-work-service",
+      "region": "broad4-xhs-media-9",
       "rawCandidates": 14,
       "citationBoundCandidates": 14,
       "searchCitations": 5
     },
     {
-      "region": "gap3-trade",
+      "region": "broad4-xhs-10",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-11",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-12",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-media-12",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-13",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-14",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-15",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-media-15",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-finance",
+      "region": "broad4-xhs-16",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-17",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-18",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-media-18",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-queer-cn",
+      "region": "broad4-xhs-19",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-20",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-21",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-gender",
+      "region": "broad4-xhs-media-21",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-hk-work",
+      "region": "broad4-xhs-22",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-xhs-23",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-reddit-china_irl-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-china_irl-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-china_irl-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-real_china_irl-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-real_china_irl-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-real_china_irl-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-chinatown_irl-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-chinatown_irl-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-chinatown_irl-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-doubangoosegroup-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-doubangoosegroup-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-doubangoosegroup-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-liberalgoosegroup-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-liberalgoosegroup-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-liberalgoosegroup-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-taiwanese-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-taiwanese-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-taiwanese-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-iwanttorun-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-iwanttorun-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-iwanttorun-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-runtojapan-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-runtojapan-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-reddit-runtojapan-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-nga-0",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-hk-life",
+      "region": "broad4-nga-1",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-hk-new",
-      "rawCandidates": 16,
-      "citationBoundCandidates": 16,
+      "region": "broad4-nga-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tw-work",
+      "region": "broad4-nga-3",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tw-fandom",
+      "region": "broad4-nga-4",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-nga-5",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-hupu-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-hupu-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-hupu-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-hupu-3",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-tieba-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-tieba-1",
       "rawCandidates": 14,
       "citationBoundCandidates": 14,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tw-new",
+      "region": "broad4-tieba-2",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-tieba-3",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-tieba-4",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-tw-hokkien",
+      "region": "broad4-tieba-5",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-douban-0",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-viral-2026",
+      "region": "broad4-douban-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 11,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-douban-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 11,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-douban-3",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-viral-2025",
+      "region": "broad4-douban-4",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
       "searchCitations": 5
     },
     {
-      "region": "gap3-mixed-spellings",
+      "region": "broad4-douban-5",
       "rawCandidates": 15,
       "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-v2ex-0",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-v2ex-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-v2ex-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-chiphell-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-chiphell-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-ptt-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-ptt-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-ptt-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-ptt-3",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-dcard-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-dcard-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-dcard-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-dcard-3",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 13,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-lihkg-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-lihkg-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-lihkg-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-lihkg-3",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 13,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-bahamut-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-bahamut-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-taptap-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-taptap-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-3",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-4",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-5",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-6",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-7",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-8",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-year-9",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-3",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-4",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-5",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-6",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-7",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-8",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-9",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-10",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-media-topic-11",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-sg-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-sg-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-sg-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-sg-3",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-my-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-my-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-my-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-my-3",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-na-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-na-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-na-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-anz-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-anz-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-europe-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-europe-1",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-europe-2",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-jpkr-0",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-overseas-jpkr-1",
+      "rawCandidates": 0,
+      "citationBoundCandidates": 0,
+      "searchCitations": 0
+    },
+    {
+      "region": "broad4-overseas-seasia-0",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "broad4-overseas-seasia-1",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
       "searchCitations": 5
     }
   ],
-  "candidateCount": 1869,
+  "candidateCount": 3023,
   "budget": {
     "capUsd": 8.0,
-    "spentOrReservedUsd": 3.440631,
-    "calls": 721,
+    "spentOrReservedUsd": 6.438762,
+    "calls": 972,
     "halted": false,
     "states": {
-      "completed": 721
+      "completed": 969,
+      "requesting": 3
     },
     "reservationsAreNotAlwaysFinalCharges": true
   }

@@ -57,6 +57,10 @@ class ExpansionTests(unittest.TestCase):
     def test_platform_searches_are_not_post_evidence(self):
         for url in [
             "https://search.bilibili.com/all?keyword=test",
+            "https://www.reddit.com/r/China_irl/search?q=test",
+            "https://www.reddit.com/user/example",
+            "https://bbs.nga.cn/thread.php?fid=7",
+            "https://bbs.hupu.com/thread.php?fid=1",
             "https://www.douyin.com/search/test",
             "https://www.douyin.com/shipin/123",
             "https://www.zhihu.com/topic/123",
@@ -67,6 +71,10 @@ class ExpansionTests(unittest.TestCase):
             self.assertEqual(social_page_kind(url), "platform-index", url)
         for url in [
             "https://www.bilibili.com/video/BV1ZW4y1r7K3/",
+            "https://www.reddit.com/r/China_irl/comments/abc123/example/",
+            "https://bbs.nga.cn/read.php?tid=12345",
+            "https://bbs.hupu.com/123456.html",
+            "https://www.v2ex.com/t/123456",
             "https://m.weibo.cn/detail/123456",
             "https://www.zhihu.com/question/123/answer/456",
             "https://www.dcard.tw/f/talk/p/123456",

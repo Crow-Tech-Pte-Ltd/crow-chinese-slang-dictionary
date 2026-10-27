@@ -398,7 +398,10 @@ def attest():
     cache.mkdir(exist_ok=True)
     urls = list(
         dict.fromkeys(
-            u for r in rows for u in r["sourceUrls"] if not disallowed_source(u)
+            u
+            for r in rows
+            for u in r["sourceUrls"]
+            if not disallowed_source(u) and social_page_kind(u) != "platform-index"
         )
     )
     pages = {}
@@ -437,7 +440,12 @@ def attest():
                         "pageStatus": page["status"],
                         "contentSha256": page.get("sha256")
                         or digest(search.get("content", "")),
-                        "checkedAt": TODAY,
+                        "checkedAt": (
+                            page.get("checkedAt")
+                            if kind.startswith("fetched")
+                            else row.get("discoveryDate")
+                        )
+                        or TODAY,
                         "literalMentionConfirmed": True,
                     }
                 )

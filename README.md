@@ -7,12 +7,12 @@ Includes everyday colloquialisms, internet slang, code-switching, playful spelli
 and vulgar terms with source labels. “Common” is community-specific; regional
 attestation does not establish exclusive origin or present-day popularity.
 
-## Release v0.3
+## Release v0.4
 
-**8,349 spelling-and-sense records across 7,181 distinct spellings.** This includes
-4,860 independently selected, openly licensed dictionary senses and 1,073 curated
-records. Explicit script forms have separate lookup records. **382 records cite
-132 public social pages:** 31 fetched posts and 101 indexed post excerpts.
+**8,822 spelling-and-sense records across 7,593 distinct spellings.** This includes
+4,860 independently selected, openly licensed dictionary senses and 1,546 curated
+records. Explicit script forms have separate lookup records. **568 records cite
+231 public social pages:** 45 fetched posts and 186 indexed post excerpts.
 
 Alternate spellings are separate entries linked by `formRelations` and
 `senseGroupId`. Links apply to the specific meaning and spoken variety. For example,
@@ -20,9 +20,11 @@ Alternate spellings are separate entries linked by `formRelations` and
 expanded only when explicitly supported by the source; generic lemma alternatives
 never inherit every slang sense. Unproved spelling relationships remain unlinked.
 
-This round adds **382 records and 368 new spellings** after 56 targeted searches
-and meaning-level comparison with v0.2. Regional repeats, ordinary English
-vocabulary and unsupported language labels are held or corrected before release.
+This round adds **473 records and 412 new spellings**, with 141 broader source
+queries and a separate examination of 87 public Chinese-language Reddit threads.
+It includes 98 new records from that Reddit research. Forums, Chinese media and
+overseas communities are covered; direct Xiaohongshu access is limited, so its
+coverage relies mainly on public excerpts and media reporting.
 
 ## Download
 

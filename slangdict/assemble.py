@@ -140,10 +140,10 @@ def source_record(row, word, spelling_kind, group, generator, checker, source_id
     }
 
 
-def assemble(version="0.3.0"):
+def assemble(version="0.4.0"):
     from .novelty import allowed
 
-    base = ROOT / "work/v0.1-base"
+    base = ROOT / "work/v0.3-base"
     base_rows = {r["id"]: r for r in read_rows(base / "entries.jsonl")}
     entries = {}
     sources = {}
@@ -235,6 +235,14 @@ def assemble(version="0.3.0"):
             ]
         previous = base_rows.get(row["id"])
         if previous and previous["spokenVariety"] == row["spokenVariety"]:
+            for key in ["coverageTriage", "scopeAudit"]:
+                if (
+                    key not in entries[row["id"]]["textProvenance"]
+                    and key in previous["textProvenance"]
+                ):
+                    entries[row["id"]]["textProvenance"][key] = previous[
+                        "textProvenance"
+                    ][key]
             for key in ["readings", "readingStatus", "existingDictionaryOverlap"]:
                 entries[row["id"]][key] = previous[key]
     # Each explicit script form is a distinct lookup record with a shared source sense.
@@ -441,5 +449,5 @@ def assemble(version="0.3.0"):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--version", default="0.3.0")
+    parser.add_argument("--version", default="0.4.0")
     assemble(parser.parse_args().version)
