@@ -1,0 +1,17 @@
+{
+  "discoveredCandidates": 304,
+  "sourceAttestedCandidates": 282,
+  "independentModelReviewed": 282,
+  "machineSupportedCandidates": 268,
+  "releasedEntries": 197,
+  "distinctHeadwords": 191,
+  "regionalCommunityGroups": 21,
+  "entriesWithExistingHeadword": 116,
+  "distinctHeadwordsNotFoundInCompatibleLocalInventory": 81,
+  "existingSenseCoverageNotAudited": true,
+  "heldForSourceDiversityLimit": 71,
+  "heldByIndependentReview": 14,
+  "heldWithoutLiteralAttestation": 22,
+  "humanReviewed": 0,
+  "notACompleteDictionary": true
+}

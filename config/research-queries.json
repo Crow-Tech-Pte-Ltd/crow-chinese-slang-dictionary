@@ -1,0 +1,107 @@
+[
+  {
+    "id": "CN-internet",
+    "community": "Mainland Chinese internet users, cross-region",
+    "query": "中国 常用 网络用语 梗 2024 2025 2026 班味 硬控 红温 活人感 谷子 躺平 解释"
+  },
+  {
+    "id": "CN-gaming-fandom",
+    "community": "Chinese gaming, fandom and livestream communities",
+    "query": "中文 游戏 饭圈 直播 常用 黑话 上头 破防 绝绝子 白嫖 氪金 术语 意思"
+  },
+  {
+    "id": "CN-northeast",
+    "community": "Northeastern Chinese colloquial speech",
+    "query": "东北 常用 方言 口语 老铁 埋汰 嘎嘎 忽悠 得瑟 解释"
+  },
+  {
+    "id": "CN-Beijing-Tianjin",
+    "community": "Beijing and Tianjin colloquial speech",
+    "query": "北京 天津 常用 口头语 贫嘴 局气 倍儿 哏儿 拧巴 解释"
+  },
+  {
+    "id": "CN-Sichuan-Chongqing",
+    "community": "Sichuan and Chongqing regional Chinese speech",
+    "query": "四川 重庆 常用 方言 巴适 安逸 瓜娃子 雄起 耙耳朵 假打 解释"
+  },
+  {
+    "id": "CN-Wu",
+    "community": "Shanghai and neighbouring Wu-speaking communities",
+    "query": "上海话 吴语 常用 俚语 嗲 噶三胡 拎得清 门槛精 作 轧闹猛"
+  },
+  {
+    "id": "CN-central",
+    "community": "Hunan, Hubei, Henan and Shaanxi regional colloquial communities",
+    "query": "湖南 湖北 河南 陕西 常用 方言 俚语 蛮扎实 搞么斯 中 咋势 口头禅"
+  },
+  {
+    "id": "HK-MO-Yue",
+    "community": "Hong Kong, Macau and Cantonese-speaking online communities",
+    "query": "香港 粵語 常用 潮語 2024 2025 2026 世一 大癲 屈機 hea 吹水 解释"
+  },
+  {
+    "id": "TW-internet",
+    "community": "Taiwan online and spoken Mandarin communities",
+    "query": "台灣 常用 網路用語 口頭禪 暈船 工具人 雷 機車 8+9 社畜 意思"
+  },
+  {
+    "id": "TW-Minnan",
+    "community": "Taiwanese Hokkien terms used in Chinese writing and code-switching",
+    "query": "台灣 台語 常用 口頭禪 母湯 歹勢 拍謝 靠北 三小 夭壽 俗語 意思"
+  },
+  {
+    "id": "SG",
+    "community": "Singapore Chinese colloquial and mixed-language communities",
+    "query": "新加坡 华语 口头禅 吃蛇 鸡婆 怕输 做莫 歹势 jio sian 网络 词语"
+  },
+  {
+    "id": "MY",
+    "community": "Malaysian Chinese colloquial and mixed-language communities",
+    "query": "马来西亚 华语 常用 口头禅 够力 吹水 做莫 阿窿 捉猴 爽爽 词语"
+  },
+  {
+    "id": "diaspora-NA",
+    "community": "Chinese-speaking communities and students in North America",
+    "query": "北美 华人 留学生 常用 黑话 小留 爬藤 上岸 海归 香蕉人 ABC 内推 意思"
+  },
+  {
+    "id": "diaspora-AU-NZ",
+    "community": "Chinese-speaking communities in Australia and New Zealand",
+    "query": "澳洲 新西兰 华人 常用 黑话 土澳 墨村 纽村 打工 俚语 意思"
+  },
+  {
+    "id": "diaspora-Europe",
+    "community": "Chinese-speaking student and migrant communities in Europe",
+    "query": "英国 欧洲 华人 留学生 常用 黑话 腐国 德村 法村 水硕 意思"
+  },
+  {
+    "id": "cross-border-migration",
+    "community": "Chinese cross-border migration and diaspora internet discussion",
+    "query": "华人 移民 网络用语 润 润人 高华 海华 海待 黑话 意思"
+  },
+  {
+    "id": "CN-Guangdong-Guangxi",
+    "community": "Guangdong and Guangxi Cantonese-speaking communities",
+    "query": "广东 广西 粤语 常用 口头禅 俚语 靓仔 搞掂 冇眼睇 掂"
+  },
+  {
+    "id": "CN-Fujian",
+    "community": "Fujian Min and Hakka colloquial communities",
+    "query": "福建 闽南 福州话 客家 常用 口头禅 方言 歹势 拍谢 夭寿 俗语"
+  },
+  {
+    "id": "diaspora-SEAsia",
+    "community": "Chinese-speaking and mixed-language communities in Indonesia and Thailand",
+    "query": "印尼 泰国 华侨 华语 混用 俚语 日常 口语 常用 词语"
+  },
+  {
+    "id": "cross-region-vulgar",
+    "community": "Chinese-speaking informal online and spoken communities; vulgar language",
+    "query": "中文 常见 粗口 网络 俚语 牛逼 屌丝 傻逼 草泥马 学术 用语"
+  },
+  {
+    "id": "cross-region-political",
+    "community": "Chinese-language political and social internet discussion",
+    "query": "中文 网络 政治 黑话 键政 五毛 小粉红 反贼 神友 用语 解释"
+  }
+]

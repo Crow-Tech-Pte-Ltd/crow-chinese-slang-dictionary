@@ -1,0 +1,11 @@
+work/
+private/
+.env*
+.*-key
+*.sqlite*
+__pycache__/
+*.pyc
+.venv/
+reports/budget.json
+reports/costs.json
+.ruff_cache/

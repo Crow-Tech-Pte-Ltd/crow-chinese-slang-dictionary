@@ -1,0 +1,6 @@
+{
+  "firstPilotCalls": 3,
+  "issue": "Default reasoning exhausted 6500 output tokens; unfinished content was not accepted",
+  "fix": "DeepSeek explicit reasoning.enabled=false; GLM low reasoning with 16000 token ceiling",
+  "allPriorCostsRetained": true
+}

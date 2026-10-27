@@ -1,0 +1,53 @@
+{
+  "controls": [
+    {
+      "id": "control-valid-0",
+      "supported": true,
+      "senseSupported": true,
+      "communityUseSupported": true,
+      "regionSupported": true,
+      "registerAdequate": true,
+      "reason": "班味 appears verbatim in multiple sources; the exhausted office-worker sense matches the context, and its listing in the 2024 top-ten buzzwords plus slang guides confirms established Mainland internet use."
+    },
+    {
+      "id": "control-valid-1",
+      "supported": true,
+      "senseSupported": true,
+      "communityUseSupported": true,
+      "regionSupported": true,
+      "registerAdequate": true,
+      "reason": "硬控 appears verbatim; the 'captivated, unable to look away' sense matches the buzzword explanation, and its top-ten listing confirms established Mainland internet use."
+    },
+    {
+      "id": "control-wrong-meaning-0",
+      "supported": false,
+      "senseSupported": false,
+      "communityUseSupported": true,
+      "regionSupported": true,
+      "registerAdequate": true,
+      "reason": "班味 is attested and popular, but the definition (interplanetary banana-submarine patent) is contradicted by all contexts, which describe work-exhaustion vibes."
+    },
+    {
+      "id": "control-wrong-meaning-1",
+      "supported": false,
+      "senseSupported": false,
+      "communityUseSupported": true,
+      "regionSupported": true,
+      "registerAdequate": true,
+      "reason": "硬控 is attested and popular, but the definition (interplanetary banana-submarine patent) contradicts the context of being gripped/captivated by something."
+    },
+    {
+      "id": "control-unattested",
+      "supported": false,
+      "senseSupported": false,
+      "communityUseSupported": false,
+      "regionSupported": false,
+      "registerAdequate": true,
+      "reason": "量子龙虾亲亲队 never appears in any source context; no attestation, sense, or community-use evidence."
+    }
+  ],
+  "negativeControls": 3,
+  "negativeControlsRejected": 3,
+  "humanReview": false,
+  "doesNotProveEveryEntryCorrect": true
+}

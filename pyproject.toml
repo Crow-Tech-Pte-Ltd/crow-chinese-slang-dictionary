@@ -1,0 +1,5 @@
+[project]
+name = "crow-chinese-slang-dictionary"
+version = "0.1.0"
+description = "Evidence-led slang and colloquial Chinese across regional and diaspora communities"
+requires-python = ">=3.10"

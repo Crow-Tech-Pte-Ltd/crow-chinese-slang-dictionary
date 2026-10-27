@@ -1,0 +1,29 @@
+{
+ "$schema":"https://json-schema.org/draft/2020-12/schema",
+ "$id":"https://github.com/Crow-Tech-Pte-Ltd/crow-chinese-slang-dictionary/schema/entry.schema.json",
+ "title":"Crow Chinese Slang Dictionary entry",
+ "type":"object",
+ "required":["id","headword","senseKey","definitionLanguage","definition","usageNote","regionOfAttestation","community","exclusiveOriginClaim","spokenVariety","register","readings","readingStatus","existingDictionaryOverlap","commonality","evidenceIds","textProvenance","validation","license"],
+ "additionalProperties":false,
+ "properties":{
+  "id":{"type":"string","pattern":"^[a-f0-9]{24}$"},
+  "headword":{"type":"string","minLength":1,"maxLength":40},
+  "senseKey":{"type":"string"},
+  "definitionLanguage":{"const":"en"},
+  "definition":{"type":"string","minLength":1},
+  "usageNote":{"type":"string"},
+  "regionOfAttestation":{"type":"string"},
+  "community":{"type":"string"},
+  "exclusiveOriginClaim":{"const":false},
+  "spokenVariety":{"enum":["cmn","yue","nan","wuu","hak","hsn","gan","cjy","cdo","mixed","und"]},
+  "register":{"type":"array","uniqueItems":true,"minItems":1,"items":{"enum":["informal","internet","regional","vulgar","derogatory","offensive","sexual","dated","playful"]}},
+  "readings":{"type":"array","items":{"type":"object","required":["value","system","spokenVariety","sourceId","sourceUrl","sourceLicense","scope"]}},
+  "readingStatus":{"type":"string"},
+  "existingDictionaryOverlap":{"type":"object","required":["status","sourceIds"]},
+  "commonality":{"type":"object","required":["status","notAFrequencyEstimate","currentPopularityVerified","checkedAt","evidenceCount"]},
+  "evidenceIds":{"type":"array","minItems":1,"uniqueItems":true,"items":{"type":"string"}},
+  "textProvenance":{"type":"object","required":["kind","generator","checker"]},
+  "validation":{"type":"object","required":["status","humanReviewed","independentModelCheck","contextLevel"],"properties":{"humanReviewed":{"const":false},"independentModelCheck":{"const":true}}},
+  "license":{"const":"CC BY-SA 4.0"}
+ }
+}

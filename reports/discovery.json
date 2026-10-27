@@ -1,0 +1,123 @@
+{
+  "queries": [
+    {
+      "region": "CN-gaming-fandom",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-northeast",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-Beijing-Tianjin",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-Sichuan-Chongqing",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-Wu",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-central",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "TW-internet",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "TW-Minnan",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "MY",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "diaspora-NA",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "diaspora-AU-NZ",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "diaspora-Europe",
+      "rawCandidates": 14,
+      "citationBoundCandidates": 14,
+      "searchCitations": 5
+    },
+    {
+      "region": "cross-border-migration",
+      "rawCandidates": 6,
+      "citationBoundCandidates": 5,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-Guangdong-Guangxi",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "CN-Fujian",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "diaspora-SEAsia",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "cross-region-vulgar",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    },
+    {
+      "region": "cross-region-political",
+      "rawCandidates": 15,
+      "citationBoundCandidates": 15,
+      "searchCitations": 5
+    }
+  ],
+  "candidateCount": 304,
+  "budget": {
+    "capUsd": 2.0,
+    "spentOrReservedUsd": 0.370564,
+    "calls": 29,
+    "halted": false,
+    "states": {
+      "completed": 29
+    },
+    "reservationsAreNotAlwaysFinalCharges": true
+  }
+}

@@ -1,0 +1,25 @@
+Crow Chinese Slang Dictionary, v0.1.0
+Contributed/compatible derived entry data: CC BY-SA 4.0. Code: MIT.
+AI-assisted source-informed summaries; independent machine checks, no human review.
+Source pages retain their copyrights; article text is not redistributed.
+Public usage references and access hashes: data/sources.json.
+
+Existing dictionary reading credits:
+cccanto
+Pleco Software Incorporated
+CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+https://cc-canto.org/download.html
+
+cedict
+CC-CEDICT contributors / MDBG
+CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+https://www.mdbg.net/chinese/dictionary?page=cedict
+
+wiktionary-en-upstream
+English Wiktionary contributors; extracted and postprocessed by Kaikki / Wiktextract (Tatu Ylonen and contributors).
+CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+https://kaikki.org/dictionary/Chinese/
+

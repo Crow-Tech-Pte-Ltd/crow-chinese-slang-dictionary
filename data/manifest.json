@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "version": "0.1.0",
+  "title": "Crow Chinese Slang Dictionary",
+  "date": "2026-10-27",
+  "entries": 197,
+  "headwords": 191,
+  "definitionLanguages": [
+    "en"
+  ],
+  "regions": {
+    "diaspora-NA": 12,
+    "TW-Minnan": 6,
+    "CN-gaming-fandom": 12,
+    "CN-Beijing-Tianjin": 12,
+    "CN-Wu": 11,
+    "cross-region-vulgar": 11,
+    "CN-internet": 11,
+    "SG": 13,
+    "TW-internet": 13,
+    "CN-Sichuan-Chongqing": 8,
+    "HK-MO-Yue": 10,
+    "diaspora-AU-NZ": 8,
+    "CN-Guangdong-Guangxi": 9,
+    "cross-region-political": 9,
+    "MY": 10,
+    "cross-border-migration": 5,
+    "diaspora-SEAsia": 5,
+    "CN-central": 6,
+    "CN-northeast": 7,
+    "diaspora-Europe": 10,
+    "CN-Fujian": 9
+  },
+  "registers": {
+    "informal": 179,
+    "derogatory": 28,
+    "offensive": 7,
+    "internet": 91,
+    "regional": 125,
+    "vulgar": 22,
+    "playful": 65,
+    "dated": 4
+  },
+  "readingsResolved": 80,
+  "heldCandidates": 107,
+  "sourcePages": 81,
+  "humanReviewed": 0,
+  "completeCoverageClaim": false,
+  "license": "CC BY-SA 4.0",
+  "artifacts": {
+    "entries.jsonl": {
+      "bytes": 298921,
+      "sha256": "768c1d1b7b6acf83fc3fc718d51792ab77f75c8f14b70c30468f4f4a1fe8cd4e"
+    },
+    "entries.jsonl.gz": {
+      "bytes": 44399,
+      "sha256": "08d059addceaede0cc4e5473d67f3582b0409f7f6c10b4b7e2b7026913a41429"
+    },
+    "sources.json": {
+      "bytes": 51278,
+      "sha256": "0906456139f2624fe78932a8892eb3286801a011c7ce95b7631b8338b13cfab3"
+    },
+    "NOTICE.txt": {
+      "bytes": 888,
+      "sha256": "4deee498525729e2d469c5d5f59e6043da2994cf02354601c2273f0c71f618d4"
+    }
+  }
+}
