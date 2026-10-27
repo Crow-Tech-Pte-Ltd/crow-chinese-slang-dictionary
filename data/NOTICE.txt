@@ -33,3 +33,376 @@ Individual page, sense, source hash and source labels accompany each imported re
 Source definitions are reproduced with attribution; automated selection does not imply human review.
 Explicit source script forms are separate records linked by source sense.
 Social excerpts and article prose remain private and are not redistributed.
+
+
+Additional whole-word pronunciation evidence (2026-10-28):
+
+cc-cidict
+CC-CEDICT contributors; Harmony Mandarin; CC-CIDICT community
+CC BY-SA 4.0
+https://cidict.org/download/
+
+cccanto
+Pleco Software Incorporated
+CC BY-SA 3.0
+https://cc-canto.org/download.html
+
+cedict
+CC-CEDICT contributors / MDBG
+CC BY-SA 4.0
+https://www.mdbg.net/chinese/dictionary?page=cedict
+
+cfdict
+David Houstin / Chine Informations contributors
+CC BY-SA 3.0
+https://chine.in/mandarin/dictionnaire/CFDICT/
+
+chdict
+Gábor L Ugray / CHDICT contributors
+CC BY-SA 4.0
+https://chdict.zydeo.net/en/download
+
+en-wiktionary-kaikki-20261021
+English Wiktionary contributors; extraction by Kaikki.org / Wiktextract
+CC BY-SA 4.0
+https://en.wiktionary.org/wiki/%E6%9C%89%E5%9C%96%E6%9C%89%E7%9C%9F%E7%9B%B8#Chinese
+
+handedict
+Gábor L Ugray / HanDeDict contributors
+CC BY-SA 3.0
+https://handedict.zydeo.net/
+
+hsk-open
+Yanis Zafirópulos; Complete HSK Vocabulary contributors
+MIT
+https://github.com/drkameleon/complete-hsk-vocabulary
+
+raw-wiktionary-fr
+French Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/frwiktionary/
+
+raw-wiktionary-ja
+Japanese Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/jawiktionary/
+
+raw-wiktionary-pl
+Polish Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/plwiktionary/
+
+wikdict-bg
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-ca
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-cs
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-da
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-de
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-el
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-en
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-es
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-fi
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-fr
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-it
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-ja
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-nl
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-no
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-pl
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-pt
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-ru
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-sv
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wikdict-tr
+Wiktionary contributors; WikDict / Karl Bartel
+CC BY-SA 4.0
+https://www.wikdict.com/page/download
+
+wiktionary
+English Wiktionary contributors; extracted by Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/dictionary/Chinese/
+
+wiktionary-el
+Greek Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/elwiktionary/
+
+wiktionary-en-upstream
+English Wiktionary contributors; extracted and postprocessed by Kaikki / Wiktextract (Tatu Ylonen and contributors).
+CC BY-SA 4.0
+https://kaikki.org/dictionary/Chinese/
+
+wiktionary-fr
+French Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/frwiktionary/
+
+wiktionary-it
+Italian Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/itwiktionary/
+
+wiktionary-ja
+Japanese Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/jawiktionary/
+
+wiktionary-ko
+Korean Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/kowiktionary/
+
+wiktionary-ms
+Malay Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/mswiktionary/
+
+wiktionary-nl
+Dutch Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/nlwiktionary/
+
+wiktionary-pl
+Polish Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/plwiktionary/
+
+wiktionary-pt
+Portuguese Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/ptwiktionary/
+
+wiktionary-ru
+Russian Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/ruwiktionary/
+
+wiktionary-tr
+Turkish Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/trwiktionary/
+
+wiktionary-vi
+Vietnamese Wiktionary contributors; Kaikki / Wiktextract
+CC BY-SA 4.0
+https://kaikki.org/viwiktionary/
+
+zh-wiktionary-ar
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-bg
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-ca
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-cs
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-da
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-de
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-el
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-en
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-es
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-fi
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-fr
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-hu
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-id
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-it
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-ja
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-ko
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-lt
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-ms
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-nl
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-no
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-pl
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-pt
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-ro
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-ru
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-sk
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-sl
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-sv
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-th
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-tr
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/
+
+zh-wiktionary-vi
+Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
+CC BY-SA 4.0
+https://zh.wiktionary.org/

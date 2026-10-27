@@ -1,8 +1,8 @@
 {
   "schema": 2,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "title": "Crow Chinese Slang Dictionary",
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "entries": 8822,
   "headwords": 7593,
   "senseGroups": 6279,
@@ -493,8 +493,40 @@
       "sha256": "d90759bb45fb0e99fafb7a6b68074c4c8a4be8cb25592675f34bb117e869c775"
     },
     "NOTICE.txt": {
-      "bytes": 1543,
-      "sha256": "52471c06901d68be0081d6afb369b66b643352437edfb0a6d1445e2ac23ce015"
+      "bytes": 11665,
+      "sha256": "81d59e9f0249a8e52926dc2187c1cb4bdb131d331167ed8d3fbadfef46dd1087"
+    },
+    "pronunciations.jsonl": {
+      "bytes": 5491047,
+      "sha256": "01f02076048b97d4129f699a54829fcf87b88f75aa80c02fe61286e92c0089e0"
+    },
+    "pronunciations.jsonl.gz": {
+      "bytes": 512118,
+      "sha256": "3e432cf1653dc58269ada29160b83871e27c225885d3937749342535eb2566c2"
+    },
+    "pronunciation-unresolved.jsonl": {
+      "bytes": 447196,
+      "sha256": "e3d03cc6be610a4186e7b8fd7157b5b6697b511592cac95a90e1e17c0e31c390"
+    },
+    "pronunciation-unresolved.jsonl.gz": {
+      "bytes": 93242,
+      "sha256": "21f2dce2429dbd6fd4d6a316686453065d0fbc9464eac8fb2a021f08e4945ea0"
     }
+  },
+  "pronunciationEvidence": {
+    "resolvedRecords": 6495,
+    "unresolvedOrUnsupportedRecords": 2327,
+    "resolvedByLanguage": {
+      "cmn": 5805,
+      "yue": 690
+    },
+    "evidenceBasis": {
+      "exact-primary-source-row": 5933,
+      "unique-compatible-whole-word-dictionary-reading": 562
+    },
+    "readingsAreSeparateFromLexicalVariety": true,
+    "humanReviewed": 0,
+    "audioIncluded": false,
+    "completeCoverageClaim": false
   }
 }

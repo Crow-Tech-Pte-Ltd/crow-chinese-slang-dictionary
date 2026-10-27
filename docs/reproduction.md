@@ -179,3 +179,16 @@ The $8 financial cap is unchanged and cumulative across all rounds. The separate
 request-count ceiling was expanded to accommodate this larger research plan; it
 does not increase the monetary cap. Xiaohongshu access limits are reported rather
 than treated as successful full reads. No website or audio deployment is implied.
+
+
+Pronunciation evidence (no audio assets):
+
+```sh
+python3 -m slangdict.pronunciations --inventory /path/to/private/audio-inventory
+python3 -m slangdict.validate
+```
+
+The inventory must account for every released entry using `record-readings.jsonl`
+and `unresolved.jsonl`. Whole-word source readings are kept separately from lexical
+variety labels; no character-by-character guesses are accepted. Regenerate this
+sidecar after rebuilding the lexical dataset. The website serves audio separately.

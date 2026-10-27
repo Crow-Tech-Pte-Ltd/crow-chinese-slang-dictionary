@@ -7,7 +7,7 @@ Includes everyday colloquialisms, internet slang, code-switching, playful spelli
 and vulgar terms with source labels. “Common” is community-specific; regional
 attestation does not establish exclusive origin or present-day popularity.
 
-## Release v0.4
+## Release v0.5
 
 **8,822 spelling-and-sense records across 7,593 distinct spellings.** This includes
 4,860 independently selected, openly licensed dictionary senses and 1,546 curated
@@ -20,7 +20,7 @@ Alternate spellings are separate entries linked by `formRelations` and
 expanded only when explicitly supported by the source; generic lemma alternatives
 never inherit every slang sense. Unproved spelling relationships remain unlinked.
 
-This round adds **473 records and 412 new spellings**, with 141 broader source
+The previous expansion added **473 records and 412 new spellings**, with 141 broader source
 queries and a separate examination of 87 public Chinese-language Reddit threads.
 It includes 98 new records from that Reddit research. Forums, Chinese media and
 overseas communities are covered; direct Xiaohongshu access is limited, so its
@@ -38,8 +38,11 @@ separate selection/checking roles. **No human review or complete coverage is
 claimed.** Machine familiarity is not a frequency measurement. Uncertain candidates
 remain outside the release; linked groups do not exhaust all equivalent senses.
 
-Readings are supplied only from a compatible dictionary with a unique reading for
-the stated variety. Unknown readings stay empty. Audio is not included.
+A separate [pronunciation evidence file](data/pronunciations.jsonl.gz) supplies
+source-bound whole-word readings for **6,495 records**. Another **2,327 records**
+remain [unresolved or unsupported](data/pronunciation-unresolved.jsonl.gz).
+Readings keep their source attribution and do not change the lexical variety label.
+They do not certify local accents or generated audio. Audio is not included.
 
 ## Free to use
 
