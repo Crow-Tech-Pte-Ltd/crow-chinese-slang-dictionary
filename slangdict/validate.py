@@ -44,10 +44,30 @@ def validate(root):
             source["url"].startswith(("https://", "http://"))
             and source["matchedHeadwords"]
         )
-    from .scope import load_policy, exclusion
+    from .scope import load_policy, exclusion, require_scope_approval
     policy=load_policy(root)
     for row in rows:
         assert exclusion(row,policy) is None, 'Out-of-scope sense in accepted corpus: '+row['headword']
+    require_scope_approval(rows,policy)
+    if 'fullScopeReview' in manifest:
+        audit=[json.loads(l) for l in (data/'full-scope-review.jsonl').read_text().splitlines() if l]
+        assert gzip.decompress((data/'full-scope-review.jsonl.gz').read_bytes())==(data/'full-scope-review.jsonl').read_bytes()
+        reviewed={};accepted=set();rejected=set()
+        for unit in audit:
+            assert unit['humanReviewed'] is False and unit['decision'] in ['keep','remove','hold']
+            assert len(unit['reviewers']) in [2,3] and len({r['model'] for r in unit['reviewers']})==len(unit['reviewers'])
+            if not all(r['decision']=='keep' for r in unit['reviewers'][:2]):assert len(unit['reviewers'])==3
+            for proof in unit['senses']:
+                i=proof['entryId'];assert i not in reviewed;reviewed[i]=proof
+                if unit['decision']=='keep':
+                    accepted.add(i);r=by_id[i]
+                    assert r['headword']==proof['headword'] and hashlib.sha256(r['definition'].encode()).hexdigest()==proof['definitionSha256']
+                else:rejected.add(i)
+        summary=manifest['fullScopeReview']
+        assert len(audit)==summary['reviewUnits'] and len(reviewed)==summary['inputRecords']
+        assert accepted==set(by_id)==set(policy['approvedSenses'])
+        assert rejected <= {r['entryId'] for r in policy['exclusions']}
+        assert len(accepted)==summary['acceptedRecords'] and len(rejected)==summary['removedOrHeldRecords']
     if 'pronunciationEvidence' in manifest:
         readings=[json.loads(l) for l in (data/'pronunciations.jsonl').read_text().splitlines() if l]
         unresolved=[json.loads(l) for l in (data/'pronunciation-unresolved.jsonl').read_text().splitlines() if l]

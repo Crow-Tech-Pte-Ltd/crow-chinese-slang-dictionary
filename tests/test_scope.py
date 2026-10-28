@@ -11,7 +11,7 @@ class ScopeTests(unittest.TestCase):
   row={'id':'future-bruh-id','headword':'bruh','definition':'A generic English address term'}
   self.assertIsNotNone(exclusion(row,self.policy))
  def test_rule_is_not_a_hanzi_or_latin_filter(self):
-  for word,definition in [('YYDS','Abbreviation of 永远的神'),('XSWL','Abbreviation of 笑死我了'),('op','A derogatory name for Genshin Impact players'),('屎山','A pejorative metaphor for unmaintainable code')]:
+  for word,definition in [('YYDS','Abbreviation of 永远的神'),('XSWL','Abbreviation of 笑死我了'),('屎山','A pejorative metaphor for unmaintainable code')]:
    self.assertIsNone(exclusion({'id':'new-'+word,'headword':word,'definition':definition},self.policy))
  def test_changed_definition_requires_a_new_scope_decision(self):
   r=self.policy['exclusions'][0]
@@ -29,6 +29,6 @@ class ScopeTests(unittest.TestCase):
   self.assertFalse(any('megabyte' in r['definition'] for r in byword['M']))
   self.assertTrue(any('savescum' in r['definition'] for r in byword['SL']))
   self.assertTrue(any('serial number' in r['definition'] for r in byword['seed']))
-  self.assertTrue(all(byword[w] for w in ['op','YYDS','XSWL']))
-  self.assertEqual(len(rows),8735);self.assertFalse(any(r['headword']=='root' for r in rows))
+  self.assertTrue(all(byword[w] for w in ['YYDS','XSWL']))
+  self.assertEqual(len(rows),7455);self.assertFalse(any(r['headword'].casefold() in ['propoorty','niubility','democrazy','ddl'] for r in rows));self.assertFalse(any(r['headword']=='root' for r in rows))
 if __name__=='__main__':unittest.main()

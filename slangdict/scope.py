@@ -28,7 +28,15 @@ def exclusion(row,policy):
     return None
 
 def intake_instruction():
-    return " Scope is Chinese slang, not a general internet or terminology dictionary. Do not accept ordinary technical operations (rooting, routers, storage units), institutional/workplace labels or literal foreign borrowings solely because Chinese speakers use them. Generic English slang with its ordinary English meaning, and Chinese-media reporting of English youth slang, do not establish a Chinese slang sense. Keep Chinese-origin abbreviations (YYDS, XSWL), established Chinese informal/idiomatic expressions and Chinese-specific semantic shifts (including slang senses of QQ, M and SL). Evaluate the particular sense; non-Hanzi spelling alone is never a rejection reason."
+    return " Scope is Chinese slang, not a general internet or terminology dictionary. Do not accept ordinary technical operations (rooting, routers, storage units), institutional/workplace labels or literal foreign borrowings solely because Chinese speakers use them. Generic English slang with its ordinary English meaning, and Chinese-media reporting of English youth slang, do not establish a Chinese slang sense. Keep Chinese-origin abbreviations (YYDS, XSWL), established Chinese informal/idiomatic expressions and Chinese-specific semantic shifts (including slang senses of QQ, M and SL). Reject English/Chinglish novelty puns such as propoorty and niubility; a forum repost or colloquial label alone is insufficient. Neutral everyday vocabulary and ordinary social-media operations do not become slang just by appearing in an informal source. Evaluate the particular sense; non-Hanzi spelling alone is never a rejection reason."
+
+def require_scope_approval(rows,policy):
+    approved=policy.get('approvedSenses')
+    if approved is None:return  # Historical releases before the full-corpus audit.
+    for row in rows:
+        proof=approved.get(row['id'])
+        if not proof or proof['headword']!=row['headword'] or proof['definitionSha256']!=digest(row['definition']):
+            raise ValueError('This sense needs fresh Chinese-slang scope approval: '+row['headword'])
 
 def screen(rows,policy):
     accepted=[];held=[]
@@ -51,9 +59,10 @@ def atomic(path,body):
 def clean_release(root=ROOT,version='0.6.0',release_date='2026-10-29'):
     datetime.date.fromisoformat(release_date)
     root=Path(root);data=root/'data';policy=load_policy(root);manifest=json.loads((data/'manifest.json').read_text())
+    previous_version=manifest.get('version')
     original=[json.loads(l) for l in (data/'entries.jsonl').read_text().splitlines() if l]
     accepted,held=screen(original,policy)
-    archive=root/'work/scope-archive-2026-10-29.jsonl'
+    archive=root/'work'/('scope-archive-v'+version+'.jsonl')
     if held and not archive.exists():
         archive.parent.mkdir(exist_ok=True);bad={h['entryId'] for h in held};atomic(archive,b''.join(compact(r)+b'\n' for r in original if r['id'] in bad))
     exclusions_path=data/'scope-exclusions.jsonl'
@@ -83,7 +92,8 @@ def clean_release(root=ROOT,version='0.6.0',release_date='2026-10-29'):
     for decision in held:manifest['heldReasons'].pop(decision['reason'],None)
     manifest['heldReasons'].update({'scope/'+k:v for k,v in collections.Counter(r['category'] for r in held).items()})
     manifest['heldCandidates']=sum(manifest['heldReasons'].values())
-    manifest['previousReleaseEntriesHeld']=len(held)
+    removed_now=len(original)-len(accepted)
+    manifest['previousReleaseEntriesHeld']=removed_now if previous_version!=version else manifest.get('previousReleaseEntriesHeld',0)+removed_now
     manifest['scopeReview']={'recordsScreened':len(rows)+len(held),'excludedRecords':len(held),'excludedByCategory':dict(collections.Counter(r['category'] for r in held)),'exclusions':'scope-exclusions.jsonl','policySha256':hashlib.sha256((root/'config/slang-scope.json').read_bytes()).hexdigest(),'notAScriptFilter':True,'completeHumanReview':False}
     manifest['artifacts']['scope-exclusions.jsonl']={}
     for name in manifest['artifacts']:

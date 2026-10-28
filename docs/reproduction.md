@@ -211,3 +211,31 @@ python3 -m slangdict.validate
 
 Filtered inventory rows are skipped only when their ID and spelling match the
 explicit exclusion queue. Audio assets are unchanged and are never copied here.
+
+
+## Whole-corpus scope review (v0.7.0)
+
+Start from the v0.6.0 input release. Review units separate Hanzi script variants
+from foreign-script forms even when they share a sense group. Private retained
+source excerpts improve review but are not redistributed. Automated classification
+is scope selection, not independent attestation or human review.
+
+```sh
+python3 -m slangdict.full_review --key-file /path/to/key --max-usd 10 --raise-budget --pilot
+python3 -m slangdict.full_review --key-file /path/to/key --max-usd 10
+python3 -m slangdict.recover_full_review
+# Resume with --batch-size 3 if a batch had malformed rows; valid results skip.
+python3 -m slangdict.full_review --key-file /path/to/key --max-usd 10 --role adjudicator
+python3 -m slangdict.recover_full_review
+python3 -m slangdict.finalize_full_scope
+python3 -m slangdict.finalize_full_scope --apply
+python3 -m slangdict.validate
+python3 -m unittest discover -s tests
+```
+
+The finalizer requires complete, input-hash-bound reviews before applying any
+change. It accepts two keep votes, holds uncertainty, and applies explicit
+sense-bound product-scope exclusions. Its frozen-input assertion prevents a
+second application to a changed release. The final public audit contains
+review IDs and reasons, without raw source contexts or provider responses.
+The release validator and website importer reject unapproved or changed senses.

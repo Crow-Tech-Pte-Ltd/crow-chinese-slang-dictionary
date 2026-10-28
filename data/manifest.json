@@ -1,107 +1,104 @@
 {
   "schema": 2,
-  "version": "0.6.0",
+  "version": "0.7.0",
   "title": "Crow Chinese Slang Dictionary",
   "date": "2026-10-29",
-  "entries": 8735,
-  "headwords": 7519,
-  "senseGroups": 6196,
-  "sourceImportedSenses": 4819,
+  "entries": 7455,
+  "headwords": 6429,
+  "senseGroups": 5291,
+  "sourceImportedSenses": 4089,
   "entryKinds": {
-    "source-import": 7231,
-    "curated-summary": 1504
+    "source-import": 6127,
+    "curated-summary": 1328
   },
   "spellingKinds": {
-    "source-headword": 4819,
-    "attested-headword": 1504,
-    "script-variant": 2412
+    "source-headword": 4089,
+    "attested-headword": 1328,
+    "script-variant": 2038
   },
-  "entriesWithFormRelations": 4832,
-  "sourceAttestedVariantSpellings": 2140,
-  "socialUsageEntries": 549,
-  "socialEvidencePages": 231,
+  "entriesWithFormRelations": 4099,
+  "sourceAttestedVariantSpellings": 1814,
+  "socialUsageEntries": 482,
+  "socialEvidencePages": 220,
   "evidenceKinds": {
-    "indexed-post-excerpt": 186,
-    "open-lexicon-record": 4160,
-    "search-excerpt": 129,
+    "indexed-post-excerpt": 175,
+    "open-lexicon-record": 3556,
+    "search-excerpt": 124,
     "fetched-public-post": 45,
-    "fetched-page": 230
+    "fetched-page": 220
   },
   "definitionLanguages": [
     "en"
   ],
   "regions": {
-    "source-region-unspecified": 6177,
-    "CN-internet": 293,
-    "diaspora-NA": 37,
-    "CN": 433,
-    "cross-region-internet": 161,
+    "source-region-unspecified": 5169,
+    "CN-internet": 244,
+    "diaspora-NA": 29,
+    "cross-region-internet": 146,
     "cross-region-written-variants": 147,
-    "CN-gaming-fandom": 82,
-    "TW-internet": 92,
+    "CN": 417,
+    "CN-gaming-fandom": 77,
+    "TW-internet": 78,
     "TW-Minnan": 22,
-    "TW": 196,
-    "cross-region-Reddit": 83,
+    "TW": 184,
+    "cross-region-Reddit": 76,
     "CN-Beijing-Tianjin": 25,
-    "HK-MO-Yue": 437,
+    "HK-MO-Yue": 379,
     "CN-Wu": 14,
-    "diaspora-Philippines": 11,
-    "CN-Hainan": 14,
-    "SG": 48,
+    "SG": 42,
     "cross-region-vulgar": 15,
     "CN-central": 15,
-    "CN-Jiangsu": 13,
-    "CN-Hebei": 12,
-    "CN-Teochew": 6,
-    "MY+SG": 16,
+    "CN-Hebei": 11,
+    "CN-Teochew": 2,
+    "MY+SG": 10,
     "CN-Guangdong-Guangxi": 13,
-    "CN-Hakka": 14,
+    "CN-Hakka": 9,
     "CN-northeast": 9,
     "CN-Sichuan-Chongqing": 15,
-    "diaspora-AU-NZ": 24,
+    "diaspora-AU-NZ": 17,
     "CN-Zhejiang": 12,
-    "MY": 48,
+    "MY": 41,
     "CN-Shanxi": 13,
-    "CN-Anhui": 15,
-    "CN-Hubei": 12,
+    "CN-Anhui": 14,
     "cross-region-political": 13,
     "CN-Shandong": 12,
+    "diaspora-Philippines": 3,
     "CN-Fuzhou": 12,
-    "diaspora-Europe": 27,
-    "diaspora-online": 23,
+    "diaspora-online": 21,
     "CN-Hunan": 14,
     "CN-Yunnan-Guizhou": 8,
-    "diaspora-SEAsia": 21,
+    "diaspora-SEAsia": 19,
     "CN+TW": 2,
     "cross-border-migration": 5,
-    "CN+HK-MO-Yue": 8,
+    "CN+HK-MO-Yue": 7,
     "HK-MO-Yue+TW": 3,
     "CN+CN-Beijing-Tianjin": 1,
-    "CN-Henan": 11,
-    "CN-Fujian": 11,
+    "CN-Henan": 8,
+    "CN-Hainan": 10,
+    "CN-Hubei": 10,
+    "diaspora-Europe": 13,
+    "CN-Jiangsu": 6,
+    "CN-Fujian": 9,
     "CN-northwest": 14,
-    "CN-Jiangxi": 15,
-    "HK-MO-Yue+MY+SG+TW": 1,
+    "CN-Jiangxi": 14,
     "HK-MO-Yue+MY+SG": 1,
     "MY+TW": 2,
-    "diaspora-UK": 2,
-    "SG+TW": 3,
-    "CN+SG": 2
+    "SG+TW": 3
   },
   "registers": {
-    "informal": 6833,
-    "internet": 2311,
-    "derogatory": 702,
-    "regional": 2388,
-    "vulgar": 693,
-    "offensive": 199,
-    "playful": 847,
-    "dated": 87,
-    "sexual": 9
+    "informal": 5710,
+    "internet": 2082,
+    "derogatory": 691,
+    "regional": 2133,
+    "vulgar": 690,
+    "offensive": 198,
+    "playful": 802,
+    "dated": 69,
+    "sexual": 8
   },
   "readingsResolved": 80,
-  "previousReleaseEntriesHeld": 87,
-  "heldCandidates": 4317,
+  "previousReleaseEntriesHeld": 1280,
+  "heldCandidates": 5597,
   "heldReasons": {
     "coverage-already-described": 675,
     "no-usable-literal-attestation": 641,
@@ -474,65 +471,83 @@
     "外賣 is an ordinary food-delivery vocabulary item, not slang; context discusses it as everyday vocabulary and the usage note itself says it is not slang.": 1,
     "Context only mentions 五樓梗 exists and is old; it never explains or supports the specific 'fifth commenter' sense, so the definition is unsupported.": 1,
     "independent-selection-held": 2521,
+    "scope/ordinary-vocabulary": 928,
+    "scope/ordinary-terminology": 53,
+    "scope/generic-foreign-or-novelty": 45,
     "scope/ordinary-regional-vocabulary": 8,
     "scope/ordinary-borrowing": 22,
+    "scope/formal-or-technical": 131,
+    "scope/proper-name": 73,
+    "scope/novelty-wordplay": 7,
     "scope/standard-label-or-name": 14,
     "scope/english-slang-report-only": 10,
     "scope/ordinary-technical-vocabulary": 20,
-    "scope/generic-english-slang": 13
+    "scope/generic-english-slang": 13,
+    "scope/obscure-or-uncertain": 17,
+    "scope/generic-foreign": 21,
+    "scope/regional-slang": 3,
+    "scope/unhelpful-cross-reference": 2
   },
-  "sourcePages": 4750,
+  "sourcePages": 4120,
   "humanReviewed": 0,
   "completeCoverageClaim": false,
   "license": "CC BY-SA 4.0",
   "artifacts": {
     "entries.jsonl": {
-      "bytes": 23080750,
-      "sha256": "0bbf63003d346a9c9bab0870e9927266dc03aee7c3c0990e49359df8e47a0eb2"
+      "bytes": 19705650,
+      "sha256": "66f13ca9734c01bd126d4c840712481a96231a8f1589a5a088d52fea479a0441"
     },
     "entries.jsonl.gz": {
-      "bytes": 3216510,
-      "sha256": "872d7779e14a2808ce28c32cf02ddbccace88612ba6d78b6c62e6b01bdaaeef9"
+      "bytes": 2760483,
+      "sha256": "08f20730ca6256ee728f2bf4cc4fea8298ab3eec6564fef5115cfac3fff3c6d7"
     },
     "sources.json": {
-      "bytes": 3446718,
-      "sha256": "93b09ec8ee2ab5457bc900c1d32f53d9122d3a3715598ef349a4f390ea7095c2"
+      "bytes": 2984739,
+      "sha256": "712b5f1ce73e8b272169738263ed35c23ebacdec2dd4575fc47e7e5e1421a205"
     },
     "NOTICE.txt": {
       "bytes": 11987,
-      "sha256": "cfa699ebb5e39d28951efa27b6d52a4531a4ca3183a0031929dd17480d79acc5"
+      "sha256": "c35b1d0560f77cc1a2779bbd8591acaaa0b324e8644eb54db0707b6d84988598"
     },
     "pronunciations.jsonl": {
-      "bytes": 5466395,
-      "sha256": "86878b059819881ae73fd16b11d413f6180b619dafe29666af320b8b09581015"
+      "bytes": 4711470,
+      "sha256": "410b9c0cafaa67b7064a42025e7c42647ea2d2feba91896d8efa21009eabbca8"
     },
     "pronunciations.jsonl.gz": {
-      "bytes": 509944,
-      "sha256": "79402dfc1cf3396fedae410c79168eabca677243dd34c5a81fcb9b0a2960f653"
+      "bytes": 440789,
+      "sha256": "0555db1af0b6178cae557a2bfe82a023f99878e73e1007fecf6a96163be3d768"
     },
     "pronunciation-unresolved.jsonl": {
-      "bytes": 438965,
-      "sha256": "6227caafe530e6841bf8bf2217913adc03fcc6f88c49c1dd2f3c29437b01a649"
+      "bytes": 356842,
+      "sha256": "1d06619024f62eed82c1a25cdcfb7fea636c62ffb3786160bed6a27bb8f58192"
     },
     "pronunciation-unresolved.jsonl.gz": {
-      "bytes": 91715,
-      "sha256": "a315b944faa52b04d38d91e98919ff7077cdf066666d8ebb5ba2329b4fe86d87"
+      "bytes": 73524,
+      "sha256": "5578df5110b1797a53dc6cd3e18b9394add2c000b21b1bfce13248ef92b4c571"
     },
     "scope-exclusions.jsonl": {
-      "bytes": 25211,
-      "sha256": "c8b4d9d89ae841d162a8c0f7bc29ac8567ff12ccaaf6f49af5c9c530928b4a5b"
+      "bytes": 451004,
+      "sha256": "feb13e6c0e8afba763936def66f19f5dd01f1cfd501314c745e0809cf4a30435"
+    },
+    "full-scope-review.jsonl": {
+      "bytes": 8435899,
+      "sha256": "d532c2851e4324acc31fac76261672d721ff2b4bbe7938f37d22029777bd0e95"
+    },
+    "full-scope-review.jsonl.gz": {
+      "bytes": 1248202,
+      "sha256": "a8111e8f8b249ffe06b1c162a0b1d9617d431f058c114c9c15c59dec9ddba102"
     }
   },
   "pronunciationEvidence": {
-    "resolvedRecords": 6462,
-    "unresolvedOrUnsupportedRecords": 2273,
+    "resolvedRecords": 5580,
+    "unresolvedOrUnsupportedRecords": 1875,
     "resolvedByLanguage": {
-      "cmn": 5793,
-      "yue": 669
+      "cmn": 4946,
+      "yue": 634
     },
     "evidenceBasis": {
-      "exact-primary-source-row": 5900,
-      "unique-compatible-whole-word-dictionary-reading": 562
+      "exact-primary-source-row": 5076,
+      "unique-compatible-whole-word-dictionary-reading": 504
     },
     "readingsAreSeparateFromLexicalVariety": true,
     "humanReviewed": 0,
@@ -541,18 +556,69 @@
   },
   "scopeReview": {
     "recordsScreened": 8822,
-    "excludedRecords": 87,
+    "excludedRecords": 1367,
     "excludedByCategory": {
+      "ordinary-vocabulary": 928,
+      "ordinary-terminology": 53,
+      "generic-foreign-or-novelty": 45,
       "ordinary-regional-vocabulary": 8,
       "ordinary-borrowing": 22,
+      "formal-or-technical": 131,
+      "proper-name": 73,
+      "novelty-wordplay": 7,
       "standard-label-or-name": 14,
       "english-slang-report-only": 10,
       "ordinary-technical-vocabulary": 20,
-      "generic-english-slang": 13
+      "generic-english-slang": 13,
+      "obscure-or-uncertain": 17,
+      "generic-foreign": 21,
+      "regional-slang": 3,
+      "unhelpful-cross-reference": 2
     },
     "exclusions": "scope-exclusions.jsonl",
-    "policySha256": "c3b689f0f05a3fd7746dad1cf0e4f8e683f569e79d970417ff71493d23c48195",
+    "policySha256": "a744f27d9fb2e5d4985c8ca8e8332e2a83280b47d492c6386d07cf5726d2bc41",
     "notAScriptFilter": true,
     "completeHumanReview": false
+  },
+  "fullScopeReview": {
+    "inputRecords": 8735,
+    "reviewUnits": 6218,
+    "primaryDecisionsPerModel": {
+      "deepseek": 6218,
+      "glm": 6218
+    },
+    "thirdChecks": 1490,
+    "explicitProductScopeDecisions": 80,
+    "acceptedRecords": 7455,
+    "removedOrHeldRecords": 1280,
+    "decisionsByUnit": {
+      "keep": 5313,
+      "remove": 896,
+      "hold": 9
+    },
+    "byCategory": {
+      "proper-name": 49,
+      "formal-or-technical": 88,
+      "ordinary-terminology": 31,
+      "unhelpful-cross-reference": 1,
+      "ordinary-vocabulary": 644,
+      "generic-foreign-or-novelty": 45,
+      "novelty-wordplay": 7,
+      "obscure-or-uncertain": 17,
+      "generic-foreign": 20,
+      "regional-slang": 3
+    },
+    "humanReviewed": false,
+    "inputVersion": "0.6.0",
+    "inputManifestSha256": "531d82a5f98c42bf70e656cd8d79ca669d295208af356dc77096c1a520b03baa",
+    "decisions": "full-scope-review.jsonl",
+    "models": {
+      "deepseek": "deepseek/deepseek-v4.1-flash",
+      "glm": "z-ai/glm-5.3",
+      "adjudicator": "minimax/minimax-m3.1-flash"
+    },
+    "definitionsRewritten": false,
+    "pronunciationsRegenerated": false,
+    "rule": "Two keep votes required; uncertain or rejected senses stay out. Explicit product-scope exclusions override inclusion."
   }
 }

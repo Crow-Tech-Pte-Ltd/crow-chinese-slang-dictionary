@@ -7,26 +7,21 @@ Includes everyday colloquialisms, internet slang, code-switching, playful spelli
 and vulgar terms with source labels. “Common” is community-specific; regional
 attestation does not establish exclusive origin or present-day popularity.
 
-## Release v0.6
+## Release v0.7
 
-**8,735 spelling-and-sense records across 7,519 distinct spellings.** This includes
-4,819 independently selected, openly licensed dictionary senses and 1,504 curated
-records. Explicit script forms have separate lookup records. **549 records cite
-231 public social pages:** 45 fetched posts and 186 indexed post excerpts.
+**7,455 spelling-and-sense records across 6,429 distinct spellings.** Includes
+4,089 selected openly licensed source senses and 1,328 curated records, with
+script variants linked by `formRelations` and `senseGroupId`.
 
-Alternate spellings are separate entries linked by `formRelations` and
-`senseGroupId`. Links apply to the specific meaning and spoken variety. For example,
-`蚌埠住了` links to `绷不住了`; literal meanings remain separate. Script forms are
-expanded only when explicitly supported by the source; generic lemma alternatives
-never inherit every slang sense. Unproved spelling relationships remain unlinked.
-
-This scope correction removes **87 records** of ordinary technical/workplace
-vocabulary, literal borrowings and generic English slang. `root`, `router` and
-computer storage units are outside this collection. Chinese abbreviations such as
-`YYDS` / 永远的神 and `XSWL` / 笑死我了 remain. Decisions apply to individual
-senses: the `QQ` emoticon remains while the plain product name is excluded.
-[Exclusion reasons](data/scope-exclusions.jsonl) and [build rules](config/slang-scope.json)
-are reproducible; a spelling without Hanzi is never rejected for that alone.
+A fresh review of all 8,735 previous records removes or holds **1,280 more
+records**: English novelty puns such as `propoorty`, generic jargon, neutral
+vocabulary and uncertain senses. Chinese abbreviations such as `YYDS` and `XSWL`,
+Chinese semantic shifts and regional slang remain. Every meaning received two
+independent automatic checks; proposed exclusions received a third check.
+[Decisions](data/full-scope-review.jsonl.gz), [exclusion reasons](data/scope-exclusions.jsonl)
+and [definition-bound release approvals](config/slang-scope.json) are reproducible.
+New or changed senses require fresh approval. Non-Hanzi spelling alone is not a
+rejection reason. No human review or verified frequency is claimed.
 
 ## Download
 
@@ -41,7 +36,7 @@ claimed.** Machine familiarity is not a frequency measurement. Uncertain candida
 remain outside the release; linked groups do not exhaust all equivalent senses.
 
 A separate [pronunciation evidence file](data/pronunciations.jsonl.gz) supplies
-source-bound whole-word readings for **6,462 records**. Another **2,273 records**
+source-bound whole-word readings for **5,580 records**. Another **1,875 records**
 remain [unresolved or unsupported](data/pronunciation-unresolved.jsonl.gz).
 Readings keep their source attribution and do not change the lexical variety label.
 They do not certify local accents or generated audio. Audio is not included.
@@ -63,7 +58,7 @@ python3 -m slangdict.validate
 ```
 
 Optional paid research is resumable, cached and bounded by a persistent ledger.
-The default cap is $2; this expansion used an explicitly raised $8 cumulative cap.
+The default cap is $2; this expansion used an explicitly raised $10 cumulative cap.
 Use the same cap on resumed commands. Keys, raw contexts and model responses stay
 in ignored files. [Reproduction commands](docs/reproduction.md) cover source imports,
 public-platform searches, review recovery, spelling links and export. Corrections

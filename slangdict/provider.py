@@ -84,11 +84,12 @@ def make_payload(model, system, user, web=False, max_tokens=4096, search_domains
 
 
 class Client:
-    def __init__(self, root, key_file, max_usd=2, raise_cap=False):
+    def __init__(self, root, key_file, max_usd=2, raise_cap=False, ignored_providers=()):
         self.root = Path(root)
         self.work = self.root / "work"
         self.work.mkdir(exist_ok=True)
         self.key_file = key_file
+        self.ignored_providers = tuple(ignored_providers)
         self.path = self.work / "budget.sqlite"
         self.max_micro = round(max_usd * 1e6)
         with self.connect() as db:
@@ -127,6 +128,8 @@ class Client:
         search_domains=None,
     ):
         payload = make_payload(model, system, user, web, max_tokens, search_domains)
+        if self.ignored_providers:
+            payload["provider"]["ignore"] = list(self.ignored_providers)
         fp = digest({"version": "crow-slang-v1", "phase": phase, "payload": payload})
         dest = self.work / (fp + ".json")
         bound = 2 * len(canonical(payload).encode()) + 4096 + (96000 if web else 0)
