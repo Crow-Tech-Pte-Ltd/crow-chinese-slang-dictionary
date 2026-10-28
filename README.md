@@ -7,11 +7,11 @@ Includes everyday colloquialisms, internet slang, code-switching, playful spelli
 and vulgar terms with source labels. “Common” is community-specific; regional
 attestation does not establish exclusive origin or present-day popularity.
 
-## Release v0.5
+## Release v0.6
 
-**8,822 spelling-and-sense records across 7,593 distinct spellings.** This includes
-4,860 independently selected, openly licensed dictionary senses and 1,546 curated
-records. Explicit script forms have separate lookup records. **568 records cite
+**8,735 spelling-and-sense records across 7,519 distinct spellings.** This includes
+4,819 independently selected, openly licensed dictionary senses and 1,504 curated
+records. Explicit script forms have separate lookup records. **549 records cite
 231 public social pages:** 45 fetched posts and 186 indexed post excerpts.
 
 Alternate spellings are separate entries linked by `formRelations` and
@@ -20,11 +20,13 @@ Alternate spellings are separate entries linked by `formRelations` and
 expanded only when explicitly supported by the source; generic lemma alternatives
 never inherit every slang sense. Unproved spelling relationships remain unlinked.
 
-The previous expansion added **473 records and 412 new spellings**, with 141 broader source
-queries and a separate examination of 87 public Chinese-language Reddit threads.
-It includes 98 new records from that Reddit research. Forums, Chinese media and
-overseas communities are covered; direct Xiaohongshu access is limited, so its
-coverage relies mainly on public excerpts and media reporting.
+This scope correction removes **87 records** of ordinary technical/workplace
+vocabulary, literal borrowings and generic English slang. `root`, `router` and
+computer storage units are outside this collection. Chinese abbreviations such as
+`YYDS` / 永远的神 and `XSWL` / 笑死我了 remain. Decisions apply to individual
+senses: the `QQ` emoticon remains while the plain product name is excluded.
+[Exclusion reasons](data/scope-exclusions.jsonl) and [build rules](config/slang-scope.json)
+are reproducible; a spelling without Hanzi is never rejected for that alone.
 
 ## Download
 
@@ -39,7 +41,7 @@ claimed.** Machine familiarity is not a frequency measurement. Uncertain candida
 remain outside the release; linked groups do not exhaust all equivalent senses.
 
 A separate [pronunciation evidence file](data/pronunciations.jsonl.gz) supplies
-source-bound whole-word readings for **6,495 records**. Another **2,327 records**
+source-bound whole-word readings for **6,462 records**. Another **2,273 records**
 remain [unresolved or unsupported](data/pronunciation-unresolved.jsonl.gz).
 Readings keep their source attribution and do not change the lexical variety label.
 They do not certify local accents or generated audio. Audio is not included.

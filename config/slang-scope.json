@@ -1,0 +1,721 @@
+{
+  "schema": 1,
+  "scope": "Chinese slang and established informal Chinese expressions, including Chinese abbreviations, regional expressions and Chinese-specific semantic shifts.",
+  "excludes": [
+    "Ordinary technical, academic, product and workplace vocabulary merely used within Chinese communities.",
+    "Generic English slang reported by Chinese media without evidence of a Chinese slang sense."
+  ],
+  "notAScriptFilter": true,
+  "definitionDigest": "SHA-256 of the UTF-8 definition text",
+  "genericEnglishTechnicalWords": [
+    "root",
+    "router",
+    "download",
+    "cpu",
+    "gpu",
+    "ram",
+    "html",
+    "http",
+    "https",
+    "json",
+    "api",
+    "tcp",
+    "usb",
+    "javascript",
+    "python"
+  ],
+  "genericTechnicalDefinitionPattern": "(?i)\\b(android|privileged access|root access|router|central processing unit|graphics processing unit|computer memory|programming language|application programming interface|file format|network protocol|data transfer)\\b",
+  "exclusions": [
+    {
+      "entryId": "03b215352f3bc956793ae44f",
+      "headword": "Tinam",
+      "definitionSha256": "f4f71dd497614bbd4a98cbe0fcf745a533570a26017141f9f6501b8c9a9c4b39",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "03c509bc67730a95fdfde17d",
+      "headword": "un",
+      "definitionSha256": "c548c5c669892be0c7d7e71a73b96f37d9a3dd4755eb7b21b6f491a4a906a6fd",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "0ab28a053fcf7d69bf754ccb",
+      "headword": "Q",
+      "definitionSha256": "77696ae5b8c3cce49f34a40f18042fc607428366d538c524b80c2589750687be",
+      "category": "ordinary-borrowing",
+      "reason": "Literal cue abbreviation or product-use verb, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "0d61802f89421c7a9f591c2b",
+      "headword": "FN",
+      "definitionSha256": "49b4ed52b967b06757e761131fe6bbfcd23b1cdbfcf31a04d0a6cabc6460d0b0",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "10bd1fef2cd55fb609d4bfa1",
+      "headword": "lok sui",
+      "definitionSha256": "11b272a31b44bff5a2aeb53b4e57f9dc5fdc2163a63ca3e0ce7188d1346dbc08",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "1198c88933a0e9a3da03d31a",
+      "headword": "sui cou",
+      "definitionSha256": "bf4e6b0251da90e1474c1144fb84ace1a0e091e9d802e546bd25af11e7e16910",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "12c51c9ad6ede3c43fdc52a7",
+      "headword": "bruh",
+      "definitionSha256": "4378a6f7fd6ccbac60dfc81a9216327ef319c9c414a17a6c984bc4f118fdc389",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "139a95f31e4a1f2eb0c6f75a",
+      "headword": "book",
+      "definitionSha256": "ef3715742c8cea52339ea6d560c9858785273c28d968040b6025353ddc3a41d2",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "14f8f408bf558741b8145049",
+      "headword": "root",
+      "definitionSha256": "f15243c4a4e8b079f10396acf58408950568611b80258f49721316adaa8db0e4",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Ordinary device/network operation or English technical borrowing, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "185612b7b3df65fbcbeeeec9",
+      "headword": "mog",
+      "definitionSha256": "5bea24d185b3e7bfa45e9c57eb9867e4b9140248ca965c6fc7df0ee6ad314dbe",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "1ad340d58df8dc91edaa262a",
+      "headword": "crush",
+      "definitionSha256": "17a8e634021dbed079ec2e20161878d0b979743848f962ad7f6ad5bd11b7106f",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "1b0f73862a8f806d9777d544",
+      "headword": "写死",
+      "definitionSha256": "2a331b14a191e7aef713fa6affd1086f9f899b446e8cc2f1f3c149636e659bf5",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal programming operation; not a slang sense for this collection."
+    },
+    {
+      "entryId": "1be521794ad564f64bffa7d2",
+      "headword": "越獄",
+      "definitionSha256": "2f50d6b2b27cfa82c90108538f4bf1db2e43dc79db64f48deddfa5aea1f44702",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "1dca02110170afd874d5274d",
+      "headword": "mewing",
+      "definitionSha256": "a042c761ae81e6b10a703f6e1dd6142e94add60314be438f0d0f01c3023b2b7e",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "1e399e28e15dc6559da2d000",
+      "headword": "QQ",
+      "definitionSha256": "7013c0c3e6550d4bf8db4cee0451d9b4d949fc472e60ed3e5247af32cb3e5e1c",
+      "category": "standard-label-or-name",
+      "reason": "Literal product name; the emoticon and chewy-food slang senses are retained."
+    },
+    {
+      "entryId": "21af1dce0a9c24e6eb3bfa52",
+      "headword": "G",
+      "definitionSha256": "5a92242925cb91f894281fe605782e85a580cfd0dbf724fe448e7964de18f2e8",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Standard computer storage unit; the informal label does not make this Chinese slang."
+    },
+    {
+      "entryId": "26608780303fc8c1c6aa2f88",
+      "headword": "lmao",
+      "definitionSha256": "7cf3a00a146c5146f3eee0c2acec42f56feecb064de47c44ca257ccb129073e1",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "271429ac8d50d0263b9f058f",
+      "headword": "build",
+      "definitionSha256": "c938b002e049865ae705510734bbb45e27e4b0c58ce690b275f4b4c928de983a",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "29179439e51f0105af36243c",
+      "headword": "router",
+      "definitionSha256": "f42c0fb2e47dafb6ad67bac20f3b0d7c35349556535e4e5fe37140af84383f4b",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Ordinary device/network operation or English technical borrowing, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "326f50adfa2e6d35055011b7",
+      "headword": "跑",
+      "definitionSha256": "65cae1e5c2489dcd373a18b3fdb767dbf22b3acc8782a4f773773e7032a3cb7e",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal program execution sense; other meanings are unaffected."
+    },
+    {
+      "entryId": "3398042dfcfcb76aa8757d86",
+      "headword": "MPF",
+      "definitionSha256": "809c93ea7e6c4487d957209d2fba84b432b35e0222ffa824bdfcbe482a5c996f",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "36842587ed87483aa0b87581",
+      "headword": "phy chem bio",
+      "definitionSha256": "60e2ce437487f30209cf3bca847d643e1710a52cbd8b02240237894675c22a21",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "3707fbdc682d9a5e06ede9e2",
+      "headword": "slay",
+      "definitionSha256": "faf9d781fb29833bada2aa0c7fff983a59014712a62922b8fe61a639ecd3ae3a",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "37a2ce5ed83158cb0dd11198",
+      "headword": "ghost",
+      "definitionSha256": "68bec43768a2c9fd75e2a6ca5544ce8cf29fcf8c16fb29329ceaa270986fe5dd",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "3d2915f12dd841911162a212",
+      "headword": "troll",
+      "definitionSha256": "820f9e4d263c142c738f4ecddfaa40d3fdd7d5111a7f241dcf2679ec058ca70f",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "43d7b4fd5b8c4804c553eb45",
+      "headword": "like",
+      "definitionSha256": "827610423a530926b298fffb59a9c7782dcb8cf605d70fb7954294ce39fadbf0",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "461844060ab2dab80b1efee7",
+      "headword": "drop",
+      "definitionSha256": "706b9e0905ff4313233ea18f63203b3ff04cd573d58533e3578e754ed2b17082",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "46c6a5770c5e121a47d54a5f",
+      "headword": "diss",
+      "definitionSha256": "6823be18522fa012011461c09c5ce849adc4abd829581a8a6ba1bd8f7477d626",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "46d11ecd79a9ac71e122f97f",
+      "headword": "sus",
+      "definitionSha256": "859870216041231b77bbd3da0644bccc303c08e29f31182827ff7cafe002ecba",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "4d5f9b4b7e7b569bf3105d84",
+      "headword": "lag",
+      "definitionSha256": "bc74d9dfc75621d26122ac29d50ce4888bb425f90cec8cf35c8ca80f84721c76",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Ordinary device/network operation or English technical borrowing, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "4fda7baf8e0e833717d187c7",
+      "headword": "U",
+      "definitionSha256": "1f6fb16593fe0f3f0aa856b6415df7a0539458f411c587e408d87700f3c79a8e",
+      "category": "standard-label-or-name",
+      "reason": "Standard hardware/financial product abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "511f8cce429c9a47a3decb63",
+      "headword": "刷机",
+      "definitionSha256": "ca7b8c789d6e3579726b0c6e12439450d1abc55939b4e8c010531134f91be309",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "5245e43c1a00ad1b09100d68",
+      "headword": "promo",
+      "definitionSha256": "a671433c90db0e23fb2d81787b74745e6d1122751e7adba8c49a0353a72d5ef2",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "527ab5f281c49cc34411e3af",
+      "headword": "越狱",
+      "definitionSha256": "2f50d6b2b27cfa82c90108538f4bf1db2e43dc79db64f48deddfa5aea1f44702",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "54419a8d81bc639d165bdba8",
+      "headword": "bei lui",
+      "definitionSha256": "b58c9691075e75e0a867c2d7fcc776ab49deafb9d6c0cc62d0440cb9fe0d4340",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "544ac75dcc9e6520c1b43c00",
+      "headword": "pro",
+      "definitionSha256": "877e106a21f31900bbf183e3d53774d01a505832e9b266ee8776f458b9322753",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "61b21c98e11eae3e9efa481a",
+      "headword": "troll",
+      "definitionSha256": "2351dac4ed27fe4c560c7dea2954dbf158de9a33984458b6917d68095f5c5029",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "661703db85bccfe92a8dbfa4",
+      "headword": "seed",
+      "definitionSha256": "5c0a797351c609c2ed91d368ef9dd14a37f933dd7d7736030ccb2170e0e13273",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal peer-to-peer file-sharing term, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "66504043ad7e45d1c622bff0",
+      "headword": "弹窗",
+      "definitionSha256": "8e284ddd26871daf10441bbc21791f7230fbf124528dce8d100636a0096fe80e",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "67862dfc9f6c44545cb7f300",
+      "headword": "no cap",
+      "definitionSha256": "b09964dd47d6c465c69fd576b38c4d23a55b15e4968c25e9a775a4c3a5cf4086",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "6d67bab7604971f94ae582f1",
+      "headword": "mb",
+      "definitionSha256": "7253f86d821f1026079e65552e5da0a7fd8f24b9644253ef6df7736f37bf5094",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "6eabf097c0cf74f75f740bad",
+      "headword": "seed",
+      "definitionSha256": "74c83c036f9f9c11a760ab408f26a3162a6bb969c4d4835e6586b63b93c21474",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal peer-to-peer file-sharing term, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "7037896d7a8d9748d6f497ed",
+      "headword": "goods",
+      "definitionSha256": "97a77e4f48f90a7dc528f0c4ae2171febaa383f74310e605b1d5088249f2be17",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "73cd85f1f05e6a120645369f",
+      "headword": "O-1",
+      "definitionSha256": "430893874c4b55b4c4d8d9c83aef645c235480e90fb21f3b4d82ef5ec6456d2e",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "7793c8ef0810197555598d85",
+      "headword": "J",
+      "definitionSha256": "c3383868c980ef9044d3e550e6f536be75e60b33c781cff0b0864df08dd8b538",
+      "category": "standard-label-or-name",
+      "reason": "Standard playing-card rank; other Chinese slang senses are retained."
+    },
+    {
+      "entryId": "7844da036e1149f469837c92",
+      "headword": "OL",
+      "definitionSha256": "91785193d8af5c3bafe9f63889390d9feb7f765b9f0a5fecab1c92ed99f69dd0",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "7c5293c08e171e791a6f3a4d",
+      "headword": "ban",
+      "definitionSha256": "934d40087a718f4c347128efc67af5db638c9954adf5fba93d66d90870020443",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "7d8c4015dcf97683398ddde3",
+      "headword": "halo-halo",
+      "definitionSha256": "d86d367bc905d09c6efb9a93dc86e6a6ea32c452856e7cd3afb03ad0190d3889",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "7e9a5c5c90e1c3f890f3ab39",
+      "headword": "TC",
+      "definitionSha256": "3b7750cd2c7e3df011e9b168a4aeb37f52d97d8bf89cd690187593d5bfdb8b6a",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "83178259b27f6cba96b598f5",
+      "headword": "som ma",
+      "definitionSha256": "0e74271559f971ad555b6f2674660d80daa9399b86172aff15579dc9b9713b08",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "87dbd6aed7125432cc35ce7a",
+      "headword": "Poly",
+      "definitionSha256": "c7aa63fc6710f658de89b4fda3e38f0ddd417a5fd4f1a7cecec6f07721d08f7a",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "8fb802448a2379b477906789",
+      "headword": "skibidi",
+      "definitionSha256": "0f4ffb9d0fb22a474829489adf1af209f403ba996dbcc6f3a57284a6e5efcb03",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "93adb6f4200b390b74bd5e64",
+      "headword": "PT",
+      "definitionSha256": "8708cb074cbb2e3da02253169d638474ad22233fab8a54f58174a377f3cd4116",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "9515333ea0350abfe139c546",
+      "headword": "phy",
+      "definitionSha256": "e871081608626794ec3023be59d2efc127a45da7d6dacfa86a3428033e2147f2",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "97bd2102aa78924031f8c9cd",
+      "headword": "UC",
+      "definitionSha256": "0e35ff276d2cb5fe460fef884c22fbe21294f71d61b1adca921971f983e2c454",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "980e35ce5a78dc66d48d1644",
+      "headword": "dc",
+      "definitionSha256": "7a5bd20393b9282cb7919263e416e5a0147ed4943f0c04974ba3f55af8843721",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Ordinary device/network operation or English technical borrowing, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "9b1982a11ed863bd8586fc6b",
+      "headword": "U",
+      "definitionSha256": "c9c095d6283b5dd52d635e46cc3952ef79bc282ce3d1cb9298fb5a35bba52f86",
+      "category": "standard-label-or-name",
+      "reason": "Standard hardware/financial product abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "9dff027ded65922401c32f37",
+      "headword": "M",
+      "definitionSha256": "6ddcec4921d75adfa2dba580a20dd2edfa992b5aa12fb5619aae30db4bf8efa4",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Standard computer storage unit; the informal label does not make this Chinese slang."
+    },
+    {
+      "entryId": "9ec4789f5a0614fccd9d72b6",
+      "headword": "bei lui",
+      "definitionSha256": "03cfb4f0dfb5c4a4fb2db19a27ea5b24eb293ed82f6717b1701905afa1a49460",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "9f00f87af9daa2a3f850063b",
+      "headword": "booking",
+      "definitionSha256": "17a7325778bf61b0c2e5443ab5ba9da4230fe8a1f8635de3bd792c5d126995d4",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "9f389ef4c2d314111be6c6fb",
+      "headword": "Q",
+      "definitionSha256": "77134fa178704b9188427e232587829725af37b8d52e72e3c60ac8790d31efb0",
+      "category": "ordinary-borrowing",
+      "reason": "Literal cue abbreviation or product-use verb, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "a0871e2d8e3df6fab8fbb265",
+      "headword": "tung tung tung sahur",
+      "definitionSha256": "d45f1e57f0b73595ba050329cf8b5c7945312adfd4d0b9c6e62d318a73a82835",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "a35e5acaea606a3e7c520b2a",
+      "headword": "glhf",
+      "definitionSha256": "32aaa2fdc345f7319226083a4562d0a9a8518973151b8a5b89736f4024a4bd47",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "a5064a41df22332c1aa62239",
+      "headword": "chem",
+      "definitionSha256": "6456f87c1168d7372b719c336bd4a4e63a96dd90a516a9f85452bf1ec96e6bfb",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "a610937bd8b5fe0741c6e440",
+      "headword": "bio",
+      "definitionSha256": "5324050afc0adff183b6df2c433aa39388a2fbc23251a878f0d8691d1c588edd",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "b1e1982c6eecea5a814e688a",
+      "headword": "nt",
+      "definitionSha256": "fb045ea430bf603c18a08d5b9dddd392e29230a5364a3e5ea96aafb35b64776f",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "b2fc20cfc01f9f3d90c3fcdc",
+      "headword": "dem",
+      "definitionSha256": "d9becc0d31e71a66c12f58a7de242e98f022446f6721eae400bdaa8c1533b050",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "b7378897dfbe255871544a51",
+      "headword": "situationship",
+      "definitionSha256": "53a2cbad9d8caa54791b73a2728f6c9106d63f05fbdfd4143ead0c1bc93ceceb",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "b8d9c74b3ee965c0496e50bc",
+      "headword": "刷機",
+      "definitionSha256": "ca7b8c789d6e3579726b0c6e12439450d1abc55939b4e8c010531134f91be309",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "baadbcec3ed54fcae7250572",
+      "headword": "SL",
+      "definitionSha256": "049471fda737a2eb367351b954cf451270a142d92afe15a8e5b2fce91b963965",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary workplace abbreviation; other slang senses are retained."
+    },
+    {
+      "entryId": "be2fb69dd39925bf5e19bc95",
+      "headword": "due",
+      "definitionSha256": "780d4466226d8d38c71b038d7903e7db68cb5a87cb590c449fa4a176f4c990cf",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "c535541cf688e55fa34ad7dc",
+      "headword": "stfu",
+      "definitionSha256": "08502320d85dece8519c77fbfd9f3b44fcb40349de7004c0f92699938b8e2661",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "c893edd05b17a633b3a8a15c",
+      "headword": "high dip",
+      "definitionSha256": "11e9efb2a71fb79f01898646b80ea709b3e19738236781311b60813ac8f94987",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "c94fb1086d09e5b3ed0ef3fd",
+      "headword": "寫死",
+      "definitionSha256": "2a331b14a191e7aef713fa6affd1086f9f899b446e8cc2f1f3c149636e659bf5",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal programming operation; not a slang sense for this collection."
+    },
+    {
+      "entryId": "c999f26245608380db016611",
+      "headword": "AL",
+      "definitionSha256": "2226e63fd36bf3ccbbdcc7309bab030aead9823380c213cbb2c37065d3b9c21b",
+      "category": "standard-label-or-name",
+      "reason": "Ordinary English workplace, institutional, travel or financial abbreviation, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "ca1d999442685672d6a743be",
+      "headword": "offer",
+      "definitionSha256": "810b617897502f56b26810a827df1945236a853d4e6e0bfdc4e50faca3d92658",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "cad2eb13b64f3243bdd3966b",
+      "headword": "yen",
+      "definitionSha256": "8eccaacfea06de0c799618f7aaa23400ee930642b43178961b081656f180c12a",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "d1e42a3f1fb095c7d1c9d2f3",
+      "headword": "K",
+      "definitionSha256": "ca43128f142784441a9f8bec0b7e4ca027f0310bdcc9b77b54b7e2ee4013a95f",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Standard computer storage unit; the informal label does not make this Chinese slang."
+    },
+    {
+      "entryId": "d26b3cb35444b9727c855fc5",
+      "headword": "down",
+      "definitionSha256": "b72ebeb0e6528f28a05440695fafe96a778a47f63694e2cdf2f3164122d3df63",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Ordinary device/network operation or English technical borrowing, without a Chinese slang meaning."
+    },
+    {
+      "entryId": "d43026ee13f3f794ceca954e",
+      "headword": "cap",
+      "definitionSha256": "2da21b4b889c5fb4b357e460340c416d65727db9b4a1175460f1d24e84301b0a",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "d529cd524af14abf97f1702a",
+      "headword": "sigma",
+      "definitionSha256": "a269ff0ca98aec7a6a09cbaacd7f6f7ec975992381423c39d3ae45034dff3218",
+      "category": "english-slang-report-only",
+      "reason": "A Chinese-language article reporting English-language youth slang is not evidence of a Chinese slang sense."
+    },
+    {
+      "entryId": "d85a9c3587e883c02b547362",
+      "headword": "TG",
+      "definitionSha256": "b1e4b234c2e0f78cf4403416bdacc271d4d28f3a6884fa90cb889528b578b6ad",
+      "category": "standard-label-or-name",
+      "reason": "Literal product name; Chinese slang senses are retained."
+    },
+    {
+      "entryId": "dc0009180b7467c70969e1c5",
+      "headword": "noob",
+      "definitionSha256": "8364ad72113c81f7b8269869c8a3b1c3d74016f2f9da5aff75b78bce40505059",
+      "category": "generic-english-slang",
+      "reason": "Generic English slang with its ordinary English meaning; no Chinese-specific slang sense is established by the cited entry."
+    },
+    {
+      "entryId": "e8974bf3ca60f5703129b610",
+      "headword": "geok ce",
+      "definitionSha256": "72b8361ef1be84c13a0ef3d2a40e335691021c52682a60fd91d505d9d4fd3ed4",
+      "category": "ordinary-regional-vocabulary",
+      "reason": "Literal regional vocabulary or an ordinary borrowing, without an idiomatic or slang sense."
+    },
+    {
+      "entryId": "e9f271ca892a4064a49eab8e",
+      "headword": "彈窗",
+      "definitionSha256": "8e284ddd26871daf10441bbc21791f7230fbf124528dce8d100636a0096fe80e",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "ea5e04852735f378132e3626",
+      "headword": "C口",
+      "definitionSha256": "17ce606bfb5bf35b270160c343ecfc7cabc0b71eb2801e8439a1eee99d5176d8",
+      "category": "ordinary-technical-vocabulary",
+      "reason": "Literal standard technology/UI term; not a slang sense for this collection."
+    },
+    {
+      "entryId": "f82cf66801e3bc921484bdfd",
+      "headword": "dating app",
+      "definitionSha256": "ced6c7e4445911ecdd12458b4bb422dd0d9063754f98966d01a6a69a7f61a07a",
+      "category": "ordinary-borrowing",
+      "reason": "Literal English borrowing or standard academic/service vocabulary, without a Chinese slang meaning."
+    }
+  ],
+  "preservedSenseExceptions": [
+    {
+      "entryId": "0f0482453f0a2d0bc9464329",
+      "headword": "J",
+      "definitionSha256": "b1c9c03a950bf276344ad119f5b3df33371127df9153eb16d8a7068b3e8d575d"
+    },
+    {
+      "entryId": "1b40718d326b6b05f07e1fd3",
+      "headword": "QQ",
+      "definitionSha256": "9690e68e2bf28320df9ff34dfc2dade1db04077cc945164fa6b29f2edfdca216"
+    },
+    {
+      "entryId": "1eb2846af336bc84ff630af5",
+      "headword": "M",
+      "definitionSha256": "04042302def7f4560a502611417cb3b73ae1c18e446999233f0729252b1f3ea3"
+    },
+    {
+      "entryId": "24370a658bf2d8be45762b44",
+      "headword": "M",
+      "definitionSha256": "c951fa746cac54f4f2768a319f28fa4dd0ab99fde09202acde273b5af6e24893"
+    },
+    {
+      "entryId": "2c71cbf9d3f89495c9ca66b6",
+      "headword": "J",
+      "definitionSha256": "70a7b5698f87eb8fb40efdb6d12b9a11c01447ad264facf683b69d99dd21a4d8"
+    },
+    {
+      "entryId": "3866c6ba9ecef13d1e149ac2",
+      "headword": "M",
+      "definitionSha256": "f9898431e061146f2496a3369bcf86962b98e61d8d96636c5cfbd17bfa44a358"
+    },
+    {
+      "entryId": "44e476b8734b666d1b463521",
+      "headword": "K",
+      "definitionSha256": "9aeea80f8a73f59d56aa08c155832cf58c2e184472e11b4699dd2a946f20ceb5"
+    },
+    {
+      "entryId": "6ea12de3d7f22ddfaa1118e2",
+      "headword": "Q",
+      "definitionSha256": "9c7629e9a8c40e619e40a5cf98937a36ca2e0e94f17899c834b601d1be0dfca6"
+    },
+    {
+      "entryId": "728795474704569393ec8215",
+      "headword": "QQ",
+      "definitionSha256": "6f9a78f59be656dcbfb891e716cf8ed957b42454ffc4fac24367ddabcf40548e"
+    },
+    {
+      "entryId": "79feeecacab846e6cf01e06e",
+      "headword": "J",
+      "definitionSha256": "37728e1771ceb7d4f04bfe4d0af833eed9b68470ed7c090610ace7b6288b7bc8"
+    },
+    {
+      "entryId": "82159dc81066cf45c3e18c4c",
+      "headword": "seed",
+      "definitionSha256": "26f221c2f0de3804dd71a1b98b91e74c82b5b013934d711be346b0d5b4a09b26"
+    },
+    {
+      "entryId": "8752cf7b67e495726affab33",
+      "headword": "J",
+      "definitionSha256": "fb4bd4d419e5fd9508af3102f511590a82c425fe2fc5ace6c5a45302acf8896e"
+    },
+    {
+      "entryId": "c3755ad5e1134787be8b43b9",
+      "headword": "SL",
+      "definitionSha256": "59c1760a44581edf86a45e6916b879cb6f5fabe6b3bb345f912a735a2c322f89"
+    },
+    {
+      "entryId": "d0c5e1c8875ef0a808e781bf",
+      "headword": "TG",
+      "definitionSha256": "7135b0755b904fea464b345b96a0f26c28fea2e9bd8141f6b8426177ceb5fe00"
+    },
+    {
+      "entryId": "e3405acc6c7406d363622d13",
+      "headword": "M",
+      "definitionSha256": "accab062a47a3418a7cd5624ad85997a1786dd687f835054764382e8fce5531a"
+    },
+    {
+      "entryId": "f8d4b439322a39a9b0b11a5f",
+      "headword": "Q",
+      "definitionSha256": "c1b198ab8da4b5fddc43e6d8a7a2d4c6fe0c43b0f59b791a7cee8a40d44c12ea"
+    }
+  ]
+}

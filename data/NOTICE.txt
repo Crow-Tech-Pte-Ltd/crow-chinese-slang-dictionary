@@ -1,4 +1,4 @@
-Crow Chinese Slang Dictionary, v0.4.0
+Crow Chinese Slang Dictionary, v0.6.0
 Contributed/compatible derived entry data: CC BY-SA 4.0. Code: MIT.
 AI-assisted source-informed summaries; independent machine checks, no human review.
 Source pages retain their copyrights; article text is not redistributed.
@@ -406,3 +406,6 @@ zh-wiktionary-vi
 Chinese Wiktionary contributors; Kaikki / Wiktextract; CC-CEDICT contributors (readings and script aliases)
 CC BY-SA 4.0
 https://zh.wiktionary.org/
+
+Scope correction (2026-10-29)
+Generic technical terms, ordinary vocabulary and unrelated English slang are excluded from the accepted collection. Decisions and reasons: scope-exclusions.jsonl; reproducible rules: ../config/slang-scope.json. Genuine Chinese abbreviations, semantic shifts and regional slang are retained.

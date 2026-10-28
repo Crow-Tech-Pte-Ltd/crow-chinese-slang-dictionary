@@ -44,6 +44,16 @@ def validate(root):
             source["url"].startswith(("https://", "http://"))
             and source["matchedHeadwords"]
         )
+    from .scope import load_policy, exclusion
+    policy=load_policy(root)
+    for row in rows:
+        assert exclusion(row,policy) is None, 'Out-of-scope sense in accepted corpus: '+row['headword']
+    if 'pronunciationEvidence' in manifest:
+        readings=[json.loads(l) for l in (data/'pronunciations.jsonl').read_text().splitlines() if l]
+        unresolved=[json.loads(l) for l in (data/'pronunciation-unresolved.jsonl').read_text().splitlines() if l]
+        a={r['entryId'] for r in readings};b={r['entryId'] for r in unresolved}
+        assert a.isdisjoint(b) and a|b==set(by_id)
+        assert len(readings)==manifest['pronunciationEvidence']['resolvedRecords'] and len(unresolved)==manifest['pronunciationEvidence']['unresolvedOrUnsupportedRecords']
     imported = 0
     relations = 0
     for row in rows:

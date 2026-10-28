@@ -1,0 +1,29 @@
+{
+  "acceptedRecords": 8735,
+  "distinctSpellings": 7519,
+  "excludedRecords": 87,
+  "byCategory": {
+    "ordinary-regional-vocabulary": 8,
+    "ordinary-borrowing": 22,
+    "standard-label-or-name": 14,
+    "english-slang-report-only": 10,
+    "ordinary-technical-vocabulary": 20,
+    "generic-english-slang": 13
+  },
+  "pronunciationEvidence": {
+    "resolvedRecords": 6462,
+    "unresolvedOrUnsupportedRecords": 2273,
+    "resolvedByLanguage": {
+      "cmn": 5793,
+      "yue": 669
+    },
+    "evidenceBasis": {
+      "exact-primary-source-row": 5900,
+      "unique-compatible-whole-word-dictionary-reading": 562
+    },
+    "readingsAreSeparateFromLexicalVariety": true,
+    "humanReviewed": 0,
+    "audioIncluded": false,
+    "completeCoverageClaim": false
+  }
+}

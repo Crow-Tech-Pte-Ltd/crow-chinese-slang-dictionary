@@ -1272,30 +1272,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "fetched-page",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "262102c933022c17f9b17c18144a889eca89ab251886deea40a5508cd0d3cc91",
-    "literalMentionConfirmed": true,
-    "pageStatus": "fetched",
-    "title": "解码“A世代”语言 | 联合早报",
-    "url": "https://www.zaobao.com.sg/lifestyle/campus/story20250929-7586158",
-    "id": "04d41d4dcbf4a35b76ea",
-    "matchedHeadwords": [
-      "bruh",
-      "cap",
-      "mewing",
-      "mog",
-      "no cap",
-      "sigma",
-      "skibidi",
-      "slay",
-      "sus",
-      "tung tung tung sahur"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E8%86%BF%E5%8C%85#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -3605,23 +3581,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/yen#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "0c9a7a1ce0ab4e9fb496",
-    "matchedHeadwords": [
-      "yen"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%A7%90%E5%A6%B9#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -4408,24 +4367,6 @@
     "id": "0ef6e3d2518dabf57755",
     "matchedHeadwords": [
       "老底"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/%E5%88%B7%E6%A9%9F#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "0f036cdba2cc3d2f8a40",
-    "matchedHeadwords": [
-      "刷机",
-      "刷機"
     ],
     "redistributedSourceText": false
   },
@@ -8913,23 +8854,6 @@
     "id": "1cda8e611950bf27ae3d",
     "matchedHeadwords": [
       "𡳞神"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/phy#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "1cdd3d3304aa777069f3",
-    "matchedHeadwords": [
-      "phy"
     ],
     "redistributedSourceText": false
   },
@@ -19162,23 +19086,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/ban#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "3afaccc1863db749905d",
-    "matchedHeadwords": [
-      "ban"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%AE%B6%E8%A3%A1%E6%9C%89%E7%A4%A6#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -20757,23 +20664,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/build#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "403e286411029c45a761",
-    "matchedHeadwords": [
-      "build"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E8%80%8D%E5%AF%B6#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -22132,24 +22022,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/%E5%BD%88%E7%AA%97#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "44d2e934e43a8208ecc4",
-    "matchedHeadwords": [
-      "弹窗",
-      "彈窗"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E6%BD%9B%E6%B0%B4#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -22802,21 +22674,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "fetched-page",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "24dc0180c936a2306816ccb080278542ec55ada0e7576cfaf8db232b0b558e1d",
-    "literalMentionConfirmed": true,
-    "pageStatus": "fetched",
-    "title": "我觉得卡板应该开个黑话专用扫盲帖 - 美国信用卡",
-    "url": "https://www.moonbbs.com/thread-667472-1-1.html",
-    "id": "4675846fc22479af7d39",
-    "matchedHeadwords": [
-      "FN"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E9%80%A0#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -23131,23 +22988,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/C%E5%8F%A3#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "47431c2ea3690196e836",
-    "matchedHeadwords": [
-      "C口"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E6%B7%B1%E4%BA%95%E5%86%B0#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -23254,23 +23094,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/root#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "479fd3690b699506e8ee",
-    "matchedHeadwords": [
-      "root"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E4%BA%8C%E9%A4%85#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -23303,24 +23126,6 @@
     "matchedHeadwords": [
       "大猫",
       "大貓"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/%E8%B6%8A%E7%8D%84#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "47f2c733cc10b666a15e",
-    "matchedHeadwords": [
-      "越狱",
-      "越獄"
     ],
     "redistributedSourceText": false
   },
@@ -26323,23 +26128,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/bio#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "512408bc2a5af91869bc",
-    "matchedHeadwords": [
-      "bio"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%82%AC%E6%9B%B4#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -26509,23 +26297,6 @@
     "id": "51c776411f19546ba310",
     "matchedHeadwords": [
       "紅"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/Poly#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "51d22583ece8edf780a6",
-    "matchedHeadwords": [
-      "Poly"
     ],
     "redistributedSourceText": false
   },
@@ -26807,23 +26578,6 @@
     "id": "529c9e6adf98d49b1314",
     "matchedHeadwords": [
       "百毒"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/O-1#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "52aa6b1d960f9ab2e67f",
-    "matchedHeadwords": [
-      "O-1"
     ],
     "redistributedSourceText": false
   },
@@ -27681,23 +27435,6 @@
     "id": "556f5a0e9f71a9e2198e",
     "matchedHeadwords": [
       "兜底"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/U#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "5596f100c5221ca38294",
-    "matchedHeadwords": [
-      "U"
     ],
     "redistributedSourceText": false
   },
@@ -33373,23 +33110,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/chem#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "66a640de5660deb219bb",
-    "matchedHeadwords": [
-      "chem"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E4%B8%80%E5%80%8B%E9%A0%AD%E5%85%A9%E5%80%8B%E5%A4%A7#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -34421,23 +34141,6 @@
     "id": "6a61148b22e9d3a4ecaa",
     "matchedHeadwords": [
       "孽潲"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/book#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "6a67f02ba9cc35947d0b",
-    "matchedHeadwords": [
-      "book"
     ],
     "redistributedSourceText": false
   },
@@ -38040,23 +37743,6 @@
     "license": "link-only; underlying page retains its copyright"
   },
   {
-    "url": "https://en.wiktionary.org/wiki/G#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "761c6da583ce458b63e1",
-    "matchedHeadwords": [
-      "G"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%AD%97#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -39033,21 +38719,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "search-excerpt",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "7d9b551ea6960790b77a096ba8c03b02aa63f841598ff560a55b08ec1bb5b04b",
-    "literalMentionConfirmed": true,
-    "pageStatus": "unavailable",
-    "title": "PHILIPPINE HYBRID HOKKIEN AS A POSTCOLONIAL MIXED LANGUAGE: EVIDENCE FROM NOMINAL DERIVATIONAL AFFIXATION MIXING",
-    "url": "https://www.lannangarchives.org/_files/ugd/66ac8d_d3b1dab92fbe43179ea80070dd980c1e.pdf",
-    "id": "79a2394c66f10a705e79",
-    "matchedHeadwords": [
-      "halo-halo"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/110#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -39871,23 +39542,6 @@
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/down#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "7bd76284a520867d218f",
-    "matchedHeadwords": [
-      "down"
-    ],
-    "redistributedSourceText": false
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E8%9D%97%E8%AA%9E#Chinese",
@@ -41389,23 +41043,6 @@
     "matchedHeadwords": [
       "怂货",
       "慫貨"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/high%20dip#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "807537dc2bd2d2a7ff8b",
-    "matchedHeadwords": [
-      "high dip"
     ],
     "redistributedSourceText": false
   },
@@ -48797,23 +48434,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/dem#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "95f96af801acc972fdca",
-    "matchedHeadwords": [
-      "dem"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E6%A3%92%E6%A3%92%E5%99%A0#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -52183,23 +51803,6 @@
     "id": "a0b5b43fc69e5e831cb9",
     "matchedHeadwords": [
       "安全佬"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/like#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "a0b65f897b81b4ee6761",
-    "matchedHeadwords": [
-      "like"
     ],
     "redistributedSourceText": false
   },
@@ -56528,23 +56131,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/promo#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "af1ab11a9737d349fc17",
-    "matchedHeadwords": [
-      "promo"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "attestationKind": "fetched-page",
     "checkedAt": "2026-10-27",
     "contentSha256": "2bcb4be649824fa5fcdf56af976b07d86ca7a4f440ef9a83446e0ba29d4bd592",
@@ -57896,23 +57482,6 @@
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/troll#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "b32cf1e36d15418e4419",
-    "matchedHeadwords": [
-      "troll"
-    ],
-    "redistributedSourceText": false
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E6%88%91%E8%82%8F#Chinese",
@@ -61738,23 +61307,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/%E8%B7%91#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "bf0bb9705bf6c3384d54",
-    "matchedHeadwords": [
-      "跑"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%AE%85#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -64815,25 +64367,6 @@
     "redistributedSourceText": false
   },
   {
-    "attestationKind": "search-excerpt",
-    "checkedAt": "2026-10-27",
-    "contentSha256": "c42b6ebb1a1d00abeeea0b8c2a4968695a26c76b05d33553827ed0e6675224b3",
-    "literalMentionConfirmed": true,
-    "pageStatus": "unavailable",
-    "title": "分享与港式粤语差别 陈楚寰：大马粤语有特色",
-    "url": "https://johor.chinapress.com.my/20240523/%e5%88%86%e4%ba%ab%e4%b8%8e%e6%b8%af%e5%bc%8f%e7%b2%a4%e8%af%ad%e5%b7%ae%e5%88%ab-%e9%99%88%e6%a5%9a%e5%af%b0%ef%bc%9a%e5%a4%a7%e9%a9%ac%e7%b2%a4%e8%af%ad%e6%9c%89%e7%89%b9%e8%89%b2/",
-    "id": "c6d235ba6d32de846e28",
-    "matchedHeadwords": [
-      "bei lui",
-      "geok ce",
-      "lok sui",
-      "som ma",
-      "sui cou"
-    ],
-    "redistributedSourceText": false,
-    "license": "link-only; underlying page retains its copyright"
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%A4%A5%E8%A8%98#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -65130,24 +64663,6 @@
     "id": "c75e9dad7ca81670ada8",
     "matchedHeadwords": [
       "膝枕"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/%E5%AF%AB%E6%AD%BB#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "c7654cfe504a108624a6",
-    "matchedHeadwords": [
-      "写死",
-      "寫死"
     ],
     "redistributedSourceText": false
   },
@@ -67207,23 +66722,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/un#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "ce730b3de9750f73b4ed",
-    "matchedHeadwords": [
-      "un"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E5%96%B3%E5%96%B3#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -68397,23 +67895,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/router#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "d30d630ee73805116051",
-    "matchedHeadwords": [
-      "router"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E6%B8%AF%E6%AF%92#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -69093,23 +68574,6 @@
     "redistributedSourceText": false
   },
   {
-    "url": "https://en.wiktionary.org/wiki/phy%20chem%20bio#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "d4dcc2eb4511a3335c9a",
-    "matchedHeadwords": [
-      "phy chem bio"
-    ],
-    "redistributedSourceText": false
-  },
-  {
     "url": "https://en.wiktionary.org/wiki/%E8%8C%85%E6%88%BF#Chinese",
     "attestationKind": "open-lexicon-record",
     "checkedAt": "2026-10-27",
@@ -69344,23 +68808,6 @@
     "id": "d5a9158c400f1af3b1e4",
     "matchedHeadwords": [
       "屌爆"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/booking#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "d5a9438e1a3f7bf0bbf1",
-    "matchedHeadwords": [
-      "booking"
     ],
     "redistributedSourceText": false
   },
@@ -71122,23 +70569,6 @@
     "id": "da2b64af114f790de397",
     "matchedHeadwords": [
       "衣裳"
-    ],
-    "redistributedSourceText": false
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/diss#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "da2d8bfe1ea508dd277a",
-    "matchedHeadwords": [
-      "diss"
     ],
     "redistributedSourceText": false
   },
@@ -78144,23 +77574,6 @@
     ],
     "redistributedSourceText": false,
     "license": "link-only; underlying page retains its copyright"
-  },
-  {
-    "url": "https://en.wiktionary.org/wiki/goods#Chinese",
-    "attestationKind": "open-lexicon-record",
-    "checkedAt": "2026-10-27",
-    "literalMentionConfirmed": true,
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "attribution": "English Wiktionary contributors; extraction by Kaikki.org / Wiktextract",
-    "snapshot": "enwiktionary 2026-10-01; Kaikki extraction 2026-10-21",
-    "sourceFileSha256": "a120df99ecb13255f815318a8ac8edabd553456254d1f0eeac89e5a25a06103a",
-    "definitionsRedistributedUnderOpenLicense": true,
-    "id": "f05d41081beec87ba7f2",
-    "matchedHeadwords": [
-      "goods"
-    ],
-    "redistributedSourceText": false
   },
   {
     "url": "https://en.wiktionary.org/wiki/%E4%B9%9D%E6%BC%8F%E9%AD%9A#Chinese",

@@ -12,9 +12,15 @@ def write(path,body):
 def export(root, inventory):
     root,inventory=Path(root),Path(inventory)
     entries={e['id']:e for e in map(json.loads,(root/'data/entries.jsonl').read_text().splitlines())}
+    excluded_file=root/'data/scope-exclusions.jsonl'
+    excluded={r['entryId']:r['headword'] for r in map(json.loads,excluded_file.read_text().splitlines())} if excluded_file.exists() else {}
     readings=[];seen=set()
     for line in (inventory/'record-readings.jsonl').read_text().splitlines():
-        proof=json.loads(line);entry=entries[proof['entryId']]
+        proof=json.loads(line)
+        if proof['entryId'] not in entries:
+            assert excluded.get(proof['entryId'])==proof['headword'],'Unaccounted inventory record'
+            continue
+        entry=entries[proof['entryId']]
         assert entry['headword']==proof['headword']
         assert proof['entryId'] not in seen;seen.add(proof['entryId'])
         lang=proof['language'];assert lang in ['cmn','yue']
@@ -40,7 +46,11 @@ def export(root, inventory):
         readings.append({'entryId':entry['id'],'headword':entry['headword'],'spokenLanguage':lang,'lexicalVariety':entry['spokenVariety'],'system':'pinyin' if lang=='cmn' else 'jyutping','lexicalReading':proof['lexicalReading'],'normalizedSyllables':tokens,'basis':basis,'evidence':evidence,'humanReviewed':False,'scope':'Source-bound whole-word reading. Does not establish a local accent, certify every slang sense, or verify generated audio.'})
     unresolved=[]
     for line in (inventory/'unresolved.jsonl').read_text().splitlines():
-        j=json.loads(line);e=entries[j['entryId']]
+        j=json.loads(line)
+        if j['entryId'] not in entries:
+            assert excluded.get(j['entryId'])==j['headword'],'Unaccounted unresolved record'
+            continue
+        e=entries[j['entryId']]
         assert e['headword']==j['headword'] and e['id'] not in seen;seen.add(e['id'])
         unresolved.append({k:j[k] for k in ['entryId','headword','spokenVariety','reason','sourceReadings'] if k in j})
     assert seen==set(entries),'Every spelling/sense must be accounted for'

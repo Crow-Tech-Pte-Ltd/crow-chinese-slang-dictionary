@@ -348,7 +348,10 @@ def assemble(version="0.4.0"):
             parent[max(ra, rb)] = min(ra, rb)
     for i in entries:
         entries[i]["senseGroupId"] = "sense-" + find(i)
-    published = sorted(entries.values(), key=lambda r: r["id"])
+    from .scope import load_policy, screen, restrict_sources
+    published, scope_held = screen(sorted(entries.values(), key=lambda r: r["id"]), load_policy(ROOT))
+    held.extend(scope_held)
+    sources = restrict_sources(published, sources)
     write_rows(ROOT / "data/entries.jsonl", published)
     body = (ROOT / "data/entries.jsonl").read_bytes()
     (ROOT / "data/entries.jsonl.gz").write_bytes(gzip.compress(body, mtime=0))

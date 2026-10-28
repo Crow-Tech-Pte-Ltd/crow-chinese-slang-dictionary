@@ -192,3 +192,22 @@ The inventory must account for every released entry using `record-readings.jsonl
 and `unresolved.jsonl`. Whole-word source readings are kept separately from lexical
 variety labels; no character-by-character guesses are accepted. Regenerate this
 sidecar after rebuilding the lexical dataset. The website serves audio separately.
+
+## Chinese slang scope
+
+Both corpus builders apply `config/slang-scope.json` before export. Ordinary
+technical labels, generic English slang and literal borrowings do not qualify
+just because a source calls them colloquial or a Chinese-speaking person uses
+them. Chinese abbreviations, regional expressions and Chinese-specific semantic
+shifts remain eligible. Decisions are per sense and bound to definition hashes.
+To reproduce this correction against the v0.5.0 data (or reapply idempotently):
+
+```sh
+python3 -m slangdict.scope --version 0.6.0
+python3 -m slangdict.pronunciations --inventory /path/to/private/slang-audio-inventory
+python3 -m unittest discover -s tests
+python3 -m slangdict.validate
+```
+
+Filtered inventory rows are skipped only when their ID and spelling match the
+explicit exclusion queue. Audio assets are unchanged and are never copied here.
